@@ -17,6 +17,8 @@ author_profile: true
 
 <hr color="#888888" size="4" noshade>
 
+<p style="text-align: center;"><b>2023 год покажет... </b></p>
+
 <b><a href="https://areyde.com/poetry/2023-06-19">"«Служить» — мне нет милее в этом мире слова…"</a></b> — 19.06.2023
 
 <b><a href="https://areyde.com/poetry/2023-06-13">"Насколько беден наш язык…"</a></b> — 13.06.2023
@@ -43,6 +45,8 @@ author_profile: true
 
 <hr color="#888888" size="4" noshade>
 
+<p style="text-align: center;"><b>2022 был годом боли и перемен. </b></p>
+
 <b><a href="https://areyde.com/poetry/2022-12-01">"Зима пришла, зиме дорогу…"</a></b> — 01.12.2022
 
 <b><a href="https://areyde.com/poetry/2022-11-29">"Берлин. Начинался семнадцатый год…"</a></b> — 29.11.2022
@@ -61,9 +65,17 @@ author_profile: true
 
 <hr color="#888888" size="4" noshade>
 
+<p style="text-align: center;"><b>2021 был годом страстей и отрешения. </b></p>
+
 <b><a href="https://areyde.com/poetry/2021-12-01">"Слова с неохотой ложатся в страницу…"</a></b> — 01.12.2021
 
 <hr color="#888888" size="4" noshade>
+
+<p style="text-align: center;"><b>2020 был годом спокойствия и счастья. </b></p>
+
+<hr color="#888888" size="4" noshade>
+
+<p style="text-align: center;"><b>2019 был годом взросления и влюблённости. </b></p>
 
 <b><a href="https://areyde.com/poetry/2019-12-12">"Все мы — цветы, и вся жизнь наша — вальс…"</a></b> — 12.12.2019
 
