@@ -17,7 +17,7 @@ author_profile: true
 
 <hr color="#888888" size="4" noshade>
 
-<p style="text-align: center;"><b>2023 год покажет... </b></p>
+<p style="text-align: center;"><b>2023 год. </b></p>
 
 <b><a href="https://areyde.com/poetry/2023-06-19">"«Служить» — мне нет милее в этом мире слова…"</a></b> — 19.06.2023
 
