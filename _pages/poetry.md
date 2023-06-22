@@ -67,6 +67,8 @@ author_profile: true
 
 <b><a href="https://areyde.com/poetry/2019-12-12">"Все мы — цветы, и вся жизнь наша — вальс…"</a></b> — 12.12.2019
 
+<b><a href="https://areyde.com/poetry/2019-12-02">"Ты, смеясь, показала на месяц рукой…"</a></b> — 02.12.2019
+
 <b><a href="https://areyde.com/poetry/2019-11-26">"Вся жизнь нам мельница…"</a></b> — 26.11.2019
 
 <hr color="#888888" size="4" noshade>
