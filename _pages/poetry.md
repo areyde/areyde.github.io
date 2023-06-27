@@ -86,3 +86,4 @@ author_profile: true
 
 <hr color="#888888" size="4" noshade>
 
+<i>Данный сборник существует также в виде <a href="https://docs.google.com/document/d/13j5Av955FV2KmvLcB1ihd0R0414HjlQwgHHk-7OPK8k/edit?usp=sharing">свёрстанной книги</a> (бесконечно обновляющейся).</i>
