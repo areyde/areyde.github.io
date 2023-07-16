@@ -18,6 +18,8 @@ author_profile: true
 
 <p style="text-align: center;"><b>2023 год. </b></p>
 
+<b><a href="https://areyde.com/poetry/2023-07-16">"Вечереет. Скрипит мой просиженный стул…"</a></b> — 16.07.2023
+
 <b><a href="https://areyde.com/poetry/2023-06-27">"Туманное завтра! Опять и опять я…"</a></b> — 27.06.2023
 
 <b><a href="https://areyde.com/poetry/2023-06-19">"«Служить» — мне нет милее в этом мире слова…"</a></b> — 19.06.2023
