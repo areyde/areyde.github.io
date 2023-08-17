@@ -50,7 +50,7 @@ layout: default
           <p><span style="color:#888888;"><b>{{ page.date | default: "1900-01-01" | date: "%B, %Y" }}</b></span>. Published in the <span style="color:#888888;">{{ page.venue }}</span>.</p>
           {% else %}
           <p> {{ page.authors }} </p>
-           <p><b>{{ page.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Published in the {{ page.venue }} <span style="color:#888888;">({{ page.level }})</span>. <span style="color:#ad7f00;"><b>{{ page.award }}</b></span></p>
+           <p><b>{{ page.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Published in the {{ page.venue }} <span style="color:#888888;">({{ page.level }})</span>{% if page.j1 == 'true' %}, presented at {{ page.j1venue }} <span style="color:#888888;">({{ page.j1level }}).</span>{% else %}.{% endif %} <span style="color:#ad7f00;"><b>{{ page.award }}</b></span></p>
           {% endif %}
         {% elsif page.date %}
         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
