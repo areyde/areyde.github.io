@@ -69,7 +69,13 @@
             <span style="color:#888888;"><b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b></span>. Published in the <span style="color:#888888;">{{ post.venue }}</span>.</p>
           {% else %}
           <p style="padding-top:0; margin-bottom:9px;"> {{ post.authors }} <br>
-            <b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Published in the {{ post.venue }} <span style="color:#888888;">({{ post.level }})</span>. <span style="color:#ad7f00;"><b>{{ post.award }}</b></span></p>
+            <b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Published in the {{ post.venue }} <span style="color:#888888;">({{ post.level }})</span>
+            {% if post.j1 == 'true' %}
+            , published in {{ post.j1venue }} <span style="color:#888888;">({{ post.j1level }})</span>
+            {% else %}
+            .
+            {% endif %}
+            <span style="color:#ad7f00;"><b>{{ post.award }}</b></span></p>
           {% endif %}
 
           {% if post.status == "preprint" %}
