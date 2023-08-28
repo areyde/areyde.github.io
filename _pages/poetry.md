@@ -18,6 +18,8 @@ author_profile: true
 
 <p style="text-align: center;"><b>2023 год. </b></p>
 
+<b><a href="https://areyde.com/poetry/2023-08-28">"Что скажете, когда они придут за вами…"</a></b> — 28.08.2023
+
 <b><a href="https://areyde.com/poetry/2023-07-22">"Суровый край — холодные седые горы…"</a></b> — 22.07.2023
 
 <b><a href="https://areyde.com/poetry/2023-07-16">"Вечереет. Скрипит мой просиженный стул…"</a></b> — 16.07.2023
