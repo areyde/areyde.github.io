@@ -18,6 +18,8 @@ author_profile: true
 
 <p style="text-align: center;"><b>2023 год. </b></p>
 
+<b><a href="https://areyde.com/poetry/2023-09-30">"Очнитесь, люди, вы же — боги…"</a></b> — 30.09.2023
+
 <b><a href="https://areyde.com/poetry/2023-09-10">"Есть люди такие — как будто бы глыбы…"</a></b> — 10.09.2023
 
 <b><a href="https://areyde.com/poetry/2023-08-31">"Представьте на минуту: щёлкнуть пальцами…"</a></b> — 31.08.2023
