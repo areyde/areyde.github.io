@@ -16,7 +16,7 @@ author_profile: true
 использовать для любых целей без всякого указания авторства — стихи свободны. </i>
 <hr color="#888888" size="4" noshade>
 
-<p style="text-align: center;"><b>2023 год. </b></p>
+<p style="text-align: center;"><b>2023 год был годом возрождения и жизни. </b></p>
 
 <b><a href="https://areyde.com/poetry/2023-09-30">"Очнитесь, люди, вы же — боги…"</a></b> — 30.09.2023
 
