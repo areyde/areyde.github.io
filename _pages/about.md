@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Yaroslav Golubev, I am a senior researcher a data analyst in the
+My name is Yaroslav Golubev, I am a senior researcher and a data analyst in the
 [Machine Learning Methods in Software Engineering group](https://research.jetbrains.org/groups/ml_methods/) at
 [JetBrains Research](https://research.jetbrains.org/), led by [Dr. Timofey Bryksin](https://jzuken.github.io/). 
 I also enjoy philosophy, linguistics, history, Chinese language and culture, and writing poetry. Feel free to drop me a line using any of the links on the left!

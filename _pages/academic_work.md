@@ -32,6 +32,7 @@ author_profile: true
 
 <h3>Organizer</h3>
 
+<b>2024</b>: <a href="https://ide-workshop.github.io/">IDE</a> (Proceedings & Web Chair, Co-Creator) <br>
 <b>2021</b>: <a href="https://iwor.github.io/iwor2021/index.html">IWoR</a> (Proceedings Chair)<br>
 <b>2016</b>: <a href="http://lpc.ifmo.ru/flamn16/">FLAMN</a> (Volunteer)
 
