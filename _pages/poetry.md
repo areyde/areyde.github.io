@@ -18,6 +18,8 @@ author_profile: true
 
 <p style="text-align: center;"><b>2023 год был годом возрождения и жизни. </b></p>
 
+<b><a href="https://areyde.com/poetry/2023-11-12">"Мы — пыль на подолах радушных гигантов…"</a></b> — 12.11.2023
+
 <b><a href="https://areyde.com/poetry/2023-10-30">"Весна. Понедельник. Осенние грозы…"</a></b> — 30.10.2023
 
 <b><a href="https://areyde.com/poetry/2023-10-18">"Я моложе, чем год и чем месяц назад…"</a></b> — 18.10.2023
