@@ -18,6 +18,8 @@ author_profile: true
 
 <p style="text-align: center;"><b>2023 год был годом возрождения и жизни. </b></p>
 
+<b><a href="https://areyde.com/poetry/2023-12-29">"Покуда солнце ястребом летит по небосводу…"</a></b> — 29.12.2023
+
 <b><a href="https://areyde.com/poetry/2023-12-02">"Мне, помню, снился как-то сон…"</a></b> — 02.12.2023
 
 <b><a href="https://areyde.com/poetry/2023-11-12">"Мы — пыль на подолах радушных гигантов…"</a></b> — 12.11.2023
