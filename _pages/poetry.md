@@ -16,6 +16,10 @@ author_profile: true
 использовать для любых целей без всякого указания авторства — стихи свободны. </i>
 <hr color="#888888" size="4" noshade>
 
+<p style="text-align: center;"><b>2024 год. </b></p>
+
+<b><a href="https://areyde.com/poetry/2024-01-12">"Забыв давно о жарком юге…"</a></b> — 12.01.2024
+
 <p style="text-align: center;"><b>2023 год был годом возрождения и жизни. </b></p>
 
 <b><a href="https://areyde.com/poetry/2023-12-29">"Покуда солнце ястребом летит по небосводу…"</a></b> — 29.12.2023
