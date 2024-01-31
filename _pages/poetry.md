@@ -18,6 +18,8 @@ author_profile: true
 
 <p style="text-align: center;"><b>2024 год. </b></p>
 
+<b><a href="https://areyde.com/poetry/2024-01-31">"Достопочтенный государь…"</a></b> — 31.01.2024
+
 <b><a href="https://areyde.com/poetry/2024-01-27">"Как же трудно быть хорошим…"</a></b> — 27.01.2024
 
 <b><a href="https://areyde.com/poetry/2024-01-12">"Забыв давно о жарком юге…"</a></b> — 12.01.2024
