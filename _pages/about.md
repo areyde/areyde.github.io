@@ -1,14 +1,13 @@
 ---
 permalink: /
 title: "Hello!"
-excerpt: "Hello!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-My name is Yaroslav Golubev, I am a senior researcher and a data analyst in the
+My name is Yaroslav Golubev, I am a research administrator and a data analyst in the
 [Machine Learning Methods in Software Engineering group](https://research.jetbrains.org/groups/ml_methods/) at
 [JetBrains Research](https://research.jetbrains.org/), led by [Dr. Timofey Bryksin](https://jzuken.github.io/). 
 I also enjoy philosophy, linguistics, history, Chinese language and culture, and writing poetry. Feel free to drop me a line using any of the links on the left!
@@ -22,38 +21,40 @@ as a representative of Russian students. Every summer, I also worked as a camp l
 
 In 2020, I obtained a Master's degree with honors in Laser Technologies from the same university,
 with a major in biological and medical applications. During the first year, I worked as an engineer in the lab and a 
-[scientific interviewer](https://areyde.com/interviews/) at the university's news portal, and also led the School of Laser Technologies for highschoolers. While studying there, I was lucky to join JetBrains and fell in love with Data Science.
+[scientific interviewer](https://areyde.com/interviews/) at the university's news portal, and also led the School of Laser Technologies for highschoolers. While studying there, I was lucky to join JetBrains and fell in love with data science.
 
-I also have an unfinished Bachelor's degree in Philosophy from [Herzen University](https://en.hspu.org/). In my studies,
+Finally, I have an unfinished Bachelor's degree in Philosophy from [Herzen University](https://en.hspu.org/). In my studies,
 I focused on Chinese philosophy, especially Taoism, and conducted preliminary research about the concept of relativity in ancient Taoist texts. 
-I also helped out as an assistant in research centers dedicated to Eastern culture, mysticism, and esotericism.
+I also helped out as an assistant in research centers dedicated to Eastern culture, mysticism, and esotericism, as well as helped organize and conduct several scientific conferences on these topics.
 
 <h2 style="margin-top: -5px;">Research</h2>
 
-The overarching theme of [my studies](https://areyde.com/publications/) is mining large corpora of existing source code and analyzing them to discover various
-patterns and dependencies, better understand how developers write software, and create tools that can help them do it more efficiently. While
-I was lucky to participate in a number of practical collaborations, my personal interest leans closer
-to the analytical and the descriptive side of things. More recently, I am mostly helping my colleagues in designing their studies and writing papers, and generally enjoy various kinds of 
-writing, administrative, and supporting work. My main interests in the domain of software engineering are:
+While I used to carry out research of my own, I realized that I enjoy helping other people more, and so became a research administrator, with the goal of supporting other researchers and their projects, both administratively and academically.
+Nowadays, I mostly assist in different stages of projects, from planning to writing. Throughout the years, this enabled me to touch on [all kinds of subjects](https://areyde.com/publications/), including serverless computing, embeddings of code, Jupyter notebooks, code completion, code quality, computer science education, psychology of programming, and others.
+It is a great privilege to learn more about these areas from my colleagues. I also still do [academic work](https://areyde.com/academic_work/) like reviewing papers and organizing workshops, as well as occasionally giving classes.
+
+The overarching theme of my own studies in software engineering was mining large corpora of existing source code and analyzing them to discover various
+patterns and better understand how developers write software. While
+I was lucky to participate in a number of practical collaborations, my personal interest always leaned closer
+to the analytical and the descriptive side of things. Specific topics of my research are:
 
 * code clones,
 * open-source software licenses,
 * code changes (patterns and automatic fixes), 
 * refactorings,
 * code and test smells,
-* evolution of ecosystems,
-* CS education.
+* evolution of ecosystems.
 
-However, since I assist in a lot of different projects, I enjoyed the privilege of learning about and touching on all kinds of subjects,
-like serverless computing, embeddings of code, bug triage, Jupyter notebooks, code completion, code quality, and others. I also sometimes [teach classes, advise students, and serve at various conferences](https://areyde.com/academic_work/),
-all of which I really love doing. 
+Before my work in software engineering, I used to do research in the field of laser physics. 
+While I did not get far, my studies related to laser-matter interaction, specifically, laser irradiation with ultra-short (femtosecond) pulses. 
+With a major in laser technologies in biological and medical applications, my last studies were dedicated to combatting viruses, as well as creating colloidal solutions of nanoparticles with antibacterial properties.
 
 <h2 style="margin-top: -5px;">Hobbies</h2>
 
 My main hobby outside the realm of software engineering is [writing poetry](https://areyde.com/poetry/) (in Russian). 
 I also love [philosophy](https://areyde.com/philosophy/) and care especially deeply about Eastern philosophy — mainly, Taoism, Buddhism, and [Ājīvika](https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika), — as well as mysticism and esotericism.
-Another major love of mine is the Chinese language and [sharing with people how awesome it is](https://areyde.com/chinese/). 
-In addition to learning it, I love analyzing its content, popularity, history, and evolution. In general, 
+Another major love of mine is the Chinese language and sharing with people how awesome it is. 
+In addition to learning it, I love [analyzing its content, popularity, history, and evolution](https://areyde.com/chinese/). In general, 
 I am interested in all major humanitarian fields, especially linguistics and history. 
 
 Finally, while I am not an avid traveler, I did write down 
