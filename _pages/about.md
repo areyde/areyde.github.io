@@ -23,7 +23,7 @@ In 2020, I obtained a Master's degree with honors in Laser Technologies from the
 with a major in biological and medical applications. During the first year, I worked as an engineer in the lab and a 
 [scientific interviewer](https://areyde.com/interviews/) at the university's news portal, and also led the School of Laser Technologies for highschoolers. While studying there, I was lucky to join JetBrains and fell in love with data science.
 
-Finally, I have an unfinished Bachelor's degree in Philosophy from [Herzen University](https://en.hspu.org/). In my studies,
+Finally, I have an unfinished Bachelor's degree in Philosophy from [Herzen University](https://en.hspu.org/), with a major in philosophical anthropology. In my studies,
 I focused on Chinese philosophy, especially Taoism, and conducted preliminary research about the concept of relativity in ancient Taoist texts. 
 I also helped out as an assistant in research centers dedicated to Eastern culture, mysticism, and esotericism, as well as helped organize and conduct several scientific conferences on these topics.
 
