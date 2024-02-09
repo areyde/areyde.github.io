@@ -34,7 +34,7 @@ Nowadays, I mostly assist in different stages of projects, from planning to writ
 It is a great privilege to learn more about these areas from my colleagues. I also still do [academic work](https://areyde.com/academic_work/) like reviewing papers and organizing workshops, as well as occasionally giving classes.
 
 The overarching theme of <b>my own studies</b> in software engineering was mining large corpora of existing source code and analyzing them to discover various
-patterns and better understand how developers write software. While
+patterns, as well as better understand how developers write software. While
 I was lucky to participate in a number of practical collaborations, my personal interest always leaned closer
 to the analytical and the descriptive side of things. Specific topics of my research are:
 
