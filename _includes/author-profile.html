@@ -16,15 +16,16 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
+    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
-      {% if author.bio %}
-        <li style="margin-top:5px;"><i class="fa fa-fw fa-user" aria-hidden="true"></i> {{ author.bio }}</li>
+      {% if author.position %}
+        <li style="margin-top:5px;"><i class="fa fa-fw fa-user" aria-hidden="true"></i> {{ author.position }}</li>
       {% endif %}
-      {% if author.bio %}
+      {% if author.employer %}
         <li><i class="fa fa-fw fa-briefcase" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
       {% if author.location %}

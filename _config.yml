@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Yaroslav Golubev"
   avatar           : "face.png"
-  bio              : "Research administrator"
+  bio              : "不知周之梦为胡蝶与，胡蝶之梦为周与？"
+  position         : "Research administrator"
   location         : "Belgrade, Serbia"
   employer         : "ML4SE Lab @ JetBrains Research"
   pubmed           : 
