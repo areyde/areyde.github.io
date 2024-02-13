@@ -18,6 +18,8 @@ author_profile: true
 
 <p style="text-align: center;"><b>2024 год. </b></p>
 
+<b><a href="https://areyde.com/poetry/2024-02-14">"Отстаньте от людей. Оставьте их в покое…"</a></b> — 14.02.2024
+
 <b><a href="https://areyde.com/poetry/2024-02-06">"Усталость духа ли…"</a></b> — 06.02.2024
 
 <b><a href="https://areyde.com/poetry/2024-01-31">"Достопочтенный государь…"</a></b> — 31.01.2024
