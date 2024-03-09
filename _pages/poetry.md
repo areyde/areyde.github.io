@@ -18,6 +18,8 @@ author_profile: true
 
 <p style="text-align: center;"><b>2024 год. </b></p>
 
+<b><a href="https://areyde.com/poetry/2024-03-09">"Любить людей — такая же работа…"</a></b> — 09.03.2024
+
 <b><a href="https://areyde.com/poetry/2024-03-07">"Я — горный ручей в жёлто-бурой траве…"</a></b> — 07.03.2024
 
 <b><a href="https://areyde.com/poetry/2024-02-14">"Отстаньте от людей. Оставьте их в покое…"</a></b> — 14.02.2024
