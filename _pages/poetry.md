@@ -18,6 +18,8 @@ author_profile: true
 
 <p style="text-align: center;"><b>2024 год. </b></p>
 
+<b><a href="https://areyde.com/poetry/2024-04-03">"В неведомых прериях кружится ветер…"</a></b> — 03.04.2024
+
 <b><a href="https://areyde.com/poetry/2024-03-21">"Горит межа, пусты дороги…"</a></b> — 21.03.2024
 
 <b><a href="https://areyde.com/poetry/2024-03-09">"Любить людей — такая же работа…"</a></b> — 09.03.2024
