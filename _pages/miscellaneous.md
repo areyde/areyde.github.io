@@ -9,7 +9,7 @@ author_profile: true
 
 <p style="color:#888888;"><i>On this page, I try to list various interesting activities that I participated in and don't want to forget.</i></p>
 
-<b>2024</b>: <b><a href="https://areyde.com/western_thought/">Istraživanje mesta u okolini Beograda</a></b>
+<b>2024</b>: <b><a href="https://areyde.com/beograd/">Istraživanje mesta u okolini Beograda</a></b>
 
 <b>2023</b>: <b><a href="https://areyde.com/western_thought/">The timeline of Western thought</a></b>
 
