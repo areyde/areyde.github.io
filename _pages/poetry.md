@@ -18,6 +18,8 @@ author_profile: true
 
 <p style="text-align: center;"><b>2024 год. </b></p>
 
+<b><a href="https://areyde.com/poetry/2024-06-11">"Улица Пагоды, улица Храма…"</a></b> — 11.06.2024
+
 <b><a href="https://areyde.com/poetry/2024-05-10">"Вокруг кричат, что правый — прав, а левый — лев…"</a></b> — 10.05.2024
 
 <b><a href="https://areyde.com/poetry/2024-05-06">"Мария… В годах откликается эхо…"</a></b> — 06.05.2024
