@@ -5,7 +5,7 @@ status: "published"
 collection: publications
 permalink: /publications/2023-08-21
 date: 2023-08-21
-venue: "proceedings of <b>PPIG'23</b>"
+venue: "the proceedings of <b>PPIG'23</b>"
 level: 'Workshop'
 pdf: 'https://arxiv.org/pdf/2307.06673.pdf'
 counter_id: 'C23'

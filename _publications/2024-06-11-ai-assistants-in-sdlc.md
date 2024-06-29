@@ -5,7 +5,7 @@ status: "preprint"
 collection: publications
 permalink: /publications/2024-06-11-ai-assistants-in-sdlc
 date: 2024-06-11
-venue: "<b>e-Print archive</b>"
+venue: "<b>arXiv</b>"
 pdf: 'https://arxiv.org/pdf/2406.07765.pdf'
 data: 'https://zenodo.org/records/10854383'
 counter_id: 'P7'

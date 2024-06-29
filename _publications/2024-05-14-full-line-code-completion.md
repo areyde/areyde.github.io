@@ -5,7 +5,7 @@ status: "preprint"
 collection: publications
 permalink: /publications/2024-05-14-full-line-code-completion
 date: 2024-05-14
-venue: "<b>e-Print archive</b>"
+venue: "<b>arXiv</b>"
 pdf: 'https://arxiv.org/pdf/2405.08704'
 tool: 'https://plugins.jetbrains.com/plugin/14823-full-line-code-completion'
 counter_id: 'P6'

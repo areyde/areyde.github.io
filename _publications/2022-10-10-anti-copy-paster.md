@@ -5,7 +5,7 @@ status: "published"
 collection: publications
 permalink: /publications/2022-10-10-anti-copy-paster
 date: 2022-10-10
-venue: "proceedings of <b>ASE'22</b>"
+venue: "the proceedings of <b>ASE'22</b>"
 pdf: 'https://arxiv.org/pdf/2112.15230.pdf'
 paperurl: 'https://doi.org/10.1145/3551349.3559537'
 level: 'A*'

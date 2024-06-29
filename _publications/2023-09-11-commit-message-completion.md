@@ -5,7 +5,7 @@ status: "publsihed"
 collection: publications
 permalink: /publications/2023-09-11
 date: 2023-09-11
-venue: "proceedings of <b>ASE'23</b>"
+venue: "the proceedings of <b>ASE'23</b>"
 level: 'A*'
 pdf: 'https://arxiv.org/pdf/2308.07655.pdf'
 paperurl: 'https://doi.org/10.1109/ASE56229.2023.00078'

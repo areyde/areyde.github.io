@@ -5,7 +5,7 @@ status: "published"
 collection: publications
 permalink: /publications/2023-07-10-templates
 date: 2023-07-10
-venue: "proceedings of <b>ITiCSE'23</b>"
+venue: "the proceedings of <b>ITiCSE'23</b>"
 level: 'A'
 pdf: 'https://arxiv.org/pdf/2304.12376.pdf'
 paperurl: 'https://doi.org/10.1145/3587102.3588800'

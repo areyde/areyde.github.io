@@ -5,7 +5,7 @@ status: "published"
 collection: publications
 permalink: /publications/2021-08-23-code-change-embeddings
 date: 2021-08-23
-venue: "proceedings of <b>MaLTeSQuE'21</b>"
+venue: "the proceedings of <b>MaLTeSQuE'21</b>"
 pdf: 'https://arxiv.org/pdf/2106.02087.pdf'
 data: 'https://zenodo.org/record/5082684'
 paperurl: 'https://doi.org/10.1145/3472674.3473979'

@@ -5,7 +5,7 @@ status: "preprint"
 collection: publications
 permalink: /publications/2023-01-11-tag-prediction
 date: 2023-01-11
-venue: "<b>e-Print archive</b>"
+venue: "<b>arXiv</b>"
 pdf: 'https://arxiv.org/pdf/2301.04597.pdf'
 data: 'https://github.com/JetBrains-Research/tag-prediction'
 counter_id: 'P4'

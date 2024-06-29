@@ -5,7 +5,7 @@ status: "preprint"
 collection: publications
 permalink: /publications/2024-03-28-clustering-for-moocs
 date: 2024-03-28
-venue: "<b>e-Print archive</b>"
+venue: "<b>arXiv</b>"
 pdf: 'https://arxiv.org/pdf/2403.19398.pdf'
 data: 'https://zenodo.org/records/8259494'
 tool: 'https://github.com/hyperskill/code-submissions-clustering'

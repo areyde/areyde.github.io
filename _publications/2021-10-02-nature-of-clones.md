@@ -5,7 +5,7 @@ status: "published"
 collection: publications
 permalink: /publications/2021-10-02-nature-of-clones
 date: 2021-10-02
-venue: "proceedings of <b>IWSC'21</b>"
+venue: "the proceedings of <b>IWSC'21</b>"
 pdf: 'https://arxiv.org/pdf/2107.04712.pdf'
 paperurl: 'https://doi.org/10.1109/IWSC53727.2021.00010'
 counter_id: 'C9'

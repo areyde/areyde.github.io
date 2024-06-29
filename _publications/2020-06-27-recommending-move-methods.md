@@ -4,7 +4,7 @@ authors: '<i>Zarina Kurbatova, Ivan Veselov, Yaroslav Golubev, and Timofey Bryks
 collection: publications
 permalink: /publications/2020-06-27-recommending-move-methods
 date: 2020-06-27
-venue: "proceedings of <b>IWoR'20</b>"
+venue: "the proceedings of <b>IWoR'20</b>"
 paperurl: 'https://doi.org/10.1145/3387940.3392191'
 pdf: 'https://arxiv.org/pdf/2002.06392.pdf'
 counter_id: 'C2'

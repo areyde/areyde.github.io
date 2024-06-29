@@ -5,7 +5,7 @@ status: "published"
 collection: publications
 permalink: /publications/2023-05-14-code-quality-analysis
 date: 2023-05-14
-venue: "proceedings of <b>ICSE'23</b>"
+venue: "the proceedings of <b>ICSE'23</b>"
 level: 'A*'
 pdf: 'https://arxiv.org/pdf/2301.11158.pdf'
 paperurl: 'https://doi.org/10.1109/ICSE-SEET58685.2023.00031'

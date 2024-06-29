@@ -5,7 +5,7 @@ status: "published"
 collection: publications
 permalink: /publications/2022-11-14-logs-for-code-completion
 date: 2022-11-14
-venue: "proceedings of <b>ESEC/FSE'22</b>"
+venue: "the proceedings of <b>ESEC/FSE'22</b>"
 level: 'A*'
 paperurl: 'https://doi.org/10.1145/3540250.3558968'
 pdf: 'https://arxiv.org/pdf/2205.10692.pdf'

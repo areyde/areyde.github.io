@@ -5,7 +5,7 @@ status: "published"
 collection: publications
 permalink: /publications/2023-05-15-jupyter-clones
 date: 2023-05-15
-venue: "proceedings of <b>MSR'23</b>"
+venue: "the proceedings of <b>MSR'23</b>"
 level: 'A'
 pdf: 'https://arxiv.org/pdf/2303.13247.pdf'
 paperurl: 'https://doi.org/10.1109/MSR59073.2023.00071'
