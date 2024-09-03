@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 'Everything'
+title: 'Everything else'
 permalink: /everything/
 author_profile: true
 ---
@@ -8,8 +8,6 @@ author_profile: true
 {% include base_path %}
 
 <i>Here lies everything that I consider to be myself.</i>
-
-<b><a href="https://areyde.com/">About me</a></b> — briefly.
 
 <b>Education, research, and work:</b>
 
