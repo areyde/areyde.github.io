@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello!"
+title: "Hello! 👋"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,7 @@ My name is Yaroslav Golubev, I am a research administrator and a data analyst at
 [JetBrains Research](https://research.jetbrains.org/), led by [Dr. Timofey Bryksin](https://jzuken.github.io/). 
 I also enjoy philosophy, linguistics, history, Chinese language and culture, and writing poetry. Feel free to [drop me a line](mailto:yaroslav.golubev[at]jetbrains.com)! ✍️
 
-<h2 style="margin-top: -5px;">Background</h2>
+<h2 style="margin-top: -5px;">Background 🖼️</h2>
 
 Born and raised in Saint Petersburg. ⚓
 
@@ -28,7 +28,7 @@ Finally, I have an unfinished Bachelor's degree in <b>Philosophy</b> 💭 from [
 I focused on Chinese philosophy, especially Taoism, and conducted research about the concept of relativity in ancient Taoist texts. 
 I also helped out as an assistant in research centers dedicated to Eastern culture, mysticism, and esotericism, as well as helped organize and conduct several scientific conferences. ☯️
 
-<h2 style="margin-top: -5px;">Research</h2>
+<h2 style="margin-top: -5px;">Research 🔬</h2>
 
 While I used to carry out research of my own, I realized that I enjoy helping other people more, and became a <b>research administrator</b>, with the goal of supporting other researchers, both administratively and academically. 🤝
 Nowadays, I mostly assist in different stages of projects, from planning to writing. Throughout the years, this enabled me to touch on [all kinds of subjects](https://areyde.com/publications/), including serverless computing, embeddings of code, Jupyter notebooks, code completion, code quality, computer science education, psychology of programming, and others.
@@ -50,9 +50,9 @@ Before my work in software engineering, I used to do research in the field of <b
 While I did not get far, my studies related to laser-matter interaction, specifically, laser irradiation with ultra-short (femtosecond) pulses. 
 With a major in laser technologies in biological and medical applications, my last studies were dedicated to combatting viruses, as well as creating colloidal solutions of nanoparticles with antibacterial properties. 🧫
 
-<h2 style="margin-top: -5px;">Hobbies</h2>
+<h2 style="margin-top: -5px;">Hobbies 🎨</h2>
 
-My main hobby outside the realm of software engineering is [writing poetry](https://areyde.com/poetry/) (in Russian). 📜
+My main hobby outside the realm of software engineering is [writing poetry](https://areyde.com/poetry/) (only in Russian so far). 📜
 I also love [philosophy](https://areyde.com/philosophy/) and care especially deeply about Eastern philosophy — mainly, Taoism, Buddhism, and [Ājīvika](https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika), — as well as mysticism and esotericism. 🔮
 Another major love of mine is the Chinese language and sharing with people how awesome it is. 
 In addition to learning it, I love [analyzing its content, popularity, history, and evolution](https://areyde.com/chinese/). In general, 
