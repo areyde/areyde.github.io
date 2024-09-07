@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 In 2017–2019, my friends and I were recording a lot of random music for fun. The vast majority of it was completely
-unlistenable, but sometimes (when someone could sing) it was barely tolerable! Here, I save five random songs and an "album cover"
+unlistenable, but sometimes (when someone could sing) it was barely tolerable! Here, I save some random songs and an "album cover"
 that we drew right on the wallpaper of my apartment in the burst of inspiration.
 
 <table border="0" cellspacing="0" cellpadding="0" style="border: none; font-size: 100%">
@@ -56,6 +56,16 @@ Your browser does not support the audio element.
 
 <tr style="border: none">
 <td style="border: none"><b>Алюминиевые огурцы</b> (Кино)</td>
+<td style="border: none">
+<audio controls>
+  <source src="/music/alumynievye_ogurci.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+</td>
+</tr>
+
+<tr style="border: none">
+<td style="border: none"><b>Main Man</b> (T. Rex)</td>
 <td style="border: none">
 <audio controls>
   <source src="/music/alumynievye_ogurci.mp3" type="audio/mpeg">
