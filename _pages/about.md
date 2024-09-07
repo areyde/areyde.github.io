@@ -32,23 +32,23 @@ I also helped out as an assistant in research centers dedicated to Eastern cultu
 
 While I used to carry out research of my own, I realized that I enjoy helping other people more, and became a <b>research administrator</b>, with the goal of supporting other researchers, both administratively and academically.
 Nowadays, I mostly assist in different stages of projects, from planning to writing. Throughout the years, this enabled me to touch on [all kinds of subjects](https://areyde.com/publications/), including serverless computing, embeddings of code, Jupyter notebooks, code completion, code quality, computer science education, psychology of programming, and others.
-It is a great privilege to learn more about these areas from my colleagues. I also still do [academic work](https://areyde.com/academic_work/) like reviewing papers and organizing workshops, as well as occasionally giving classes.
+It is a great privilege to learn more about these areas from my colleagues. I also still do [academic work](https://areyde.com/academic_work/) like reviewing papers and organizing workshops, as well as occasionally giving classes. 🎓
 
 The overarching theme of <b>my own studies</b> in software engineering was mining large corpora of existing source code and analyzing them to discover various
 patterns, as well as better understand how developers write software. While
 I was lucky to participate in a number of practical collaborations, my personal interest always leaned closer
 to the analytical and the descriptive side of things. Specific topics of my research are:
 
-* code clones,
-* open-source software licenses,
-* code changes (patterns and automatic fixes), 
-* refactorings,
-* code and test smells,
-* evolution of software ecosystems.
+* code clones, 🐑
+* open-source software licenses, 📝
+* code changes (patterns and automatic fixes), ️✨
+* refactorings, 🛠️
+* code and test smells, 👃
+* evolution of software ecosystems. 🌱
 
 Before my work in software engineering, I used to do research in the field of <b>laser physics</b>. 
 While I did not get far, my studies related to laser-matter interaction, specifically, laser irradiation with ultra-short (femtosecond) pulses. 
-With a major in laser technologies in biological and medical applications, my last studies were dedicated to combatting viruses, as well as creating colloidal solutions of nanoparticles with antibacterial properties.
+With a major in laser technologies in biological and medical applications, my last studies were dedicated to combatting viruses, as well as creating colloidal solutions of nanoparticles with antibacterial properties. 🧫
 
 <h2 style="margin-top: -5px;">Hobbies</h2>
 
@@ -56,7 +56,7 @@ My main hobby outside the realm of software engineering is [writing poetry](http
 I also love [philosophy](https://areyde.com/philosophy/) and care especially deeply about Eastern philosophy — mainly, Taoism, Buddhism, and [Ājīvika](https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika), — as well as mysticism and esotericism.
 Another major love of mine is the Chinese language and sharing with people how awesome it is. 
 In addition to learning it, I love [analyzing its content, popularity, history, and evolution](https://areyde.com/chinese/). In general, 
-I am interested in all major humanitarian fields, especially linguistics and history. 
+I am interested in all major humanitarian fields, especially linguistics and history. 🏛️
 
 Finally, while I am not an avid traveler, I did write down 
 [all the places where I have been](https://areyde.com/travels/). There aren't too many of them, but luckily, the number can only go up! 🧳
