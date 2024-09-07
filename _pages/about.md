@@ -13,6 +13,8 @@ I also enjoy philosophy, linguistics, history, Chinese language and culture, and
 
 <h2 style="margin-top: -5px;">Background</h2>
 
+Born and raised in Saint Petersburg. 
+
 In 2018, I obtained a Bachelor's degree in <b>Applied Physics</b> from [ITMO University](https://en.itmo.ru/), with a major in laser
 technologies, and planned to become a researcher in this field. While there, I worked as a lab assistant, a guide in the educational museum of optics, as well as a
 secretary in the Foreign Students office, and participated in the [THE BRICS & Emerging Economies Universities Summit](https://areyde.com/brics/)
