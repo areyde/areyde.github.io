@@ -9,22 +9,22 @@ redirect_from:
 
 My name is Yaroslav Golubev, I am a research administrator and a data analyst at
 [JetBrains Research](https://research.jetbrains.org/), led by [Dr. Timofey Bryksin](https://jzuken.github.io/). 
-I also enjoy philosophy, linguistics, history, Chinese language and culture, and writing poetry. Feel free to [drop me a line](mailto:yaroslav.golubev[at]jetbrains.com)!
+I also enjoy philosophy, linguistics, history, Chinese language and culture, and writing poetry. Feel free to [drop me a line](mailto:yaroslav.golubev[at]jetbrains.com)! ✍️
 
 <h2 style="margin-top: -5px;">Background</h2>
 
-Born and raised in Saint Petersburg. 
+Born and raised in Saint Petersburg. ⚓
 
-In 2018, I obtained a Bachelor's degree in <b>Applied Physics</b> from [ITMO University](https://en.itmo.ru/), with a major in laser
+In 2018, I obtained a Bachelor's degree in <b>Applied Physics</b> 👨‍🔬 from [ITMO University](https://en.itmo.ru/), with a major in laser
 technologies, and planned to become a researcher in this field. While there, I worked as a lab assistant, a guide in the educational museum of optics, as well as a
 secretary in the Foreign Students office, and participated in the [THE BRICS & Emerging Economies Universities Summit](https://areyde.com/brics/)
 as a representative of Russian students. Every summer, I also worked as a camp leader. 
 
-In 2020, I obtained a Master's degree with honors in <b>Laser Technologies</b> from the same university,
+In 2020, I obtained a Master's degree with honors in <b>Laser Technologies</b> ⚡ from the same university,
 with a major in biological and medical applications. During the first year, I worked as an engineer in the lab and a 
 [scientific interviewer](https://areyde.com/interviews/) at the university's news portal, and also led the School of Laser Technologies for highschoolers. While studying there, I was lucky to join JetBrains and fell in love with data science.
 
-Finally, I have an unfinished Bachelor's degree in <b>Philosophy</b> from [Herzen University](https://en.hspu.org/), with a major in philosophical anthropology. In my studies,
+Finally, I have an unfinished Bachelor's degree in <b>Philosophy</b> 💭 from [Herzen University](https://en.hspu.org/), with a major in philosophical anthropology. In my studies,
 I focused on Chinese philosophy, especially Taoism, and conducted research about the concept of relativity in ancient Taoist texts. 
 I also helped out as an assistant in research centers dedicated to Eastern culture, mysticism, and esotericism, as well as helped organize and conduct several scientific conferences.
 
@@ -59,4 +59,4 @@ In addition to learning it, I love [analyzing its content, popularity, history, 
 I am interested in all major humanitarian fields, especially linguistics and history. 
 
 Finally, while I am not an avid traveler, I did write down 
-[all the places where I have been](https://areyde.com/travels/). There aren't too many of them, but luckily, the number can only go up!
+[all the places where I have been](https://areyde.com/travels/). There aren't too many of them, but luckily, the number can only go up! 🧳
