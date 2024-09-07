@@ -9,7 +9,7 @@ author_profile: true
 
 <i>Here lies everything that I consider to be myself.</i>
 
-<b>Education, research, and work:</b>
+<b>Research and work:</b>
 
 <ul>
   <li><b><a href="https://areyde.com/publications/">Publications</a></b> — papers about software engineering and laser physics.</li>
@@ -23,7 +23,13 @@ author_profile: true
   <li><b><a href="https://areyde.com/notes/">Записки</a></b> — эссе на случайные темы.</li>
 </ul>
 
-<b><a href="https://areyde.com/chinese/">中文数据库</a></b> — the Chinese language database, a resource for studying and learning Chinese.
+<b>Languages and philosophy</b>:
+
+<ul>
+  <li><b><a href="https://areyde.com/chinese/">中文数据库</a></b> — the Chinese language database, a resource for studying and learning Chinese.</li>
+  <li><b><a href="https://areyde.com/western_thought/">The timeline of Western thought</a></b> — all major Western philosophers put on a timeline.</li>
+  <li><b><a href="https://areyde.com/favourite_philosophers/">Favourite philosophers</a></b> — a list of my favourite thinkers that I learned about.</li>
+</ul>
 
 <b>Travels:</b>
 
@@ -32,10 +38,9 @@ author_profile: true
   <li><b><a href="https://areyde.com/beograd/">Istraživanje mesta u okolini Beograda</a></b> — bike touring around Belgrade.</li>
 </ul>
 
-<b>Various random things:</b>
+<b>Miscellaneous:</b>
 
 <ul>
-  <li><b>2023</b>: <b><a href="https://areyde.com/western_thought/">The timeline of Western thought</a></b> — all major Western philosophers put on a timeline.</li>
   <li><b>2019</b>: <b><a href="https://areyde.com/interviews/">Interviews with researchers</a></b> — my brief work at ITMO University.</li>
   <li><b>2017–2019</b>: <b><a href="https://areyde.com/music/">Music</a></b> — various songs we recorded with friends.</li>
   <li><b>2016</b>: <b><a href="https://areyde.com/brics/">THE BRICS & Emerging Economies Universities Summit</a></b> — where I was a representative of Russian students.</li>
