@@ -68,7 +68,7 @@ Your browser does not support the audio element.
 <td style="border: none"><b>Main Man</b> (T. Rex)</td>
 <td style="border: none">
 <audio controls>
-  <source src="/music/alumynievye_ogurci.mp3" type="audio/mpeg">
+  <source src="/music/main_man.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 </td>
