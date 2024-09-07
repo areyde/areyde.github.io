@@ -18,7 +18,7 @@ The database consists of two large parts: one is dedicated to the language in ge
 and the second one is dedicated to my own progress in learning the language and can help those who want to
 start learning it.
 
-<h2>General information</h2>
+<h2 style="margin-top: -5px;">General information</h2>
 
 The first part contains extensive lists of Chinese characters and words with statistics for them. This includes the lists of characters and words by frequency, 
 by HSK 2.0 and HSK 3.0 levels, etc. For all the characters in the lists, the database provides various data: pronunciation, meaning, dictionary keys, and stroke count. 
@@ -27,7 +27,7 @@ and can be used for various analysis. For example, some folks used it for rangin
 
 <img src="/images/database.jpg">
 
-<h2>Learning progress</h2>
+<h2 style="margin-top: -5px;">Learning progress</h2>
 
 The second part of the database describes my own learning progress and can be of use to anyone who decides to learn the language.
 The main sheet lists all the characters that I learned, their distribution among the frequency and the HSK levels, as well
