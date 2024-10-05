@@ -18,6 +18,8 @@ author_profile: true
 
 <p style="text-align: center;"><b>2024 год. </b></p>
 
+<b><a href="https://areyde.com/poetry/2024-10-05">"Всё та же пыль, всё те же реки…"</a></b> — 05.10.2024
+
 <b><a href="https://areyde.com/poetry/2024-09-22">"Ах, как красиво то, что мы не все красивы…"</a></b> — 22.09.2024
 
 <b><a href="https://areyde.com/poetry/2024-08-17">"Люблю наш русский нрав ордынский…"</a></b> — 17.08.2024
