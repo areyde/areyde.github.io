@@ -6,7 +6,7 @@ permalink: /publications/2021-03-11-parametric-curve
 date: 2021-03-11
 venue: "the proceedings of <b>SANER'21</b>"
 paperurl: 'https://doi.org/10.1109/SANER50967.2021.00053'
-pdf: 'https://arxiv.org/pdf/2002.05204.pdf'
+pdf: 'https://arxiv.org/abs/2002.05204'
 data: 'https://zenodo.org/record/4279694'
 video: 'https://www.youtube.com/watch?v=wTGBprWqurw'
 counter_id: 'C5'

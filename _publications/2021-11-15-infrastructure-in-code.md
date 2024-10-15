@@ -6,7 +6,7 @@ status: "published"
 permalink: /publications/2021-11-15-infrastructure-in-code
 date: 2021-11-15
 venue: "the proceedings of <b>ASE'21</b>"
-pdf: 'https://arxiv.org/pdf/2108.07842.pdf'
+pdf: 'https://arxiv.org/abs/2108.07842'
 tool: 'https://github.com/JetBrains/kotless'
 paperurl: 'https://doi.org/10.1109/ASE51524.2021.9678943'
 video: 'https://www.youtube.com/watch?v=8tAm2L4dE7o'

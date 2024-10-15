@@ -6,7 +6,7 @@ permalink: /publications/2020-06-29-license-violations
 date: 2020-06-29
 venue: "the proceedings of <b>MSR'20</b>"
 paperurl: 'https://doi.org/10.1145/3379597.3387455'
-pdf: 'https://arxiv.org/pdf/2002.05237.pdf'
+pdf: 'https://arxiv.org/abs/2002.05237'
 video: 'https://www.youtube.com/watch?v=zfp0v8D7esQ'
 counter_id: 'C3'
 level: 'A'

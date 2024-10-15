@@ -7,7 +7,7 @@ permalink: /publications/2023-05-14-code-quality-analysis
 date: 2023-05-14
 venue: "the proceedings of <b>ICSE'23</b>"
 level: 'A*'
-pdf: 'https://arxiv.org/pdf/2301.11158.pdf'
+pdf: 'https://arxiv.org/abs/2301.11158'
 paperurl: 'https://doi.org/10.1109/ICSE-SEET58685.2023.00031'
 counter_id: 'C20'
 data: 'https://zenodo.org/record/7573422'

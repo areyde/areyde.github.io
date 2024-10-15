@@ -7,7 +7,7 @@ permalink: /publications/2022-05-18-jupyter-analysis
 date: 2022-05-18
 venue: "the proceedings of <b>MSR'22</b>"
 paperurl: 'https://doi.org/10.1145/3524842.3528447'
-pdf: 'https://arxiv.org/pdf/2203.16718.pdf'
+pdf: 'https://arxiv.org/abs/2203.16718'
 tool: 'https://github.com/JetBrains-Research/Matroskin'
 data: 'https://zenodo.org/record/6383115'
 counter_id: 'C16'

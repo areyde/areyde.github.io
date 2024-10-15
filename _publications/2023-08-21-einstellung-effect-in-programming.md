@@ -7,7 +7,7 @@ permalink: /publications/2023-08-21
 date: 2023-08-21
 venue: "the proceedings of <b>PPIG'23</b>"
 level: 'Workshop'
-pdf: 'https://arxiv.org/pdf/2307.06673.pdf'
+pdf: 'https://arxiv.org/abs/2307.06673'
 counter_id: 'C23'
 paperurl: 'https://www.ppig.org/files/2023-PPIG-34th--proceedings.pdf'
 data: 'https://zenodo.org/record/5893501'

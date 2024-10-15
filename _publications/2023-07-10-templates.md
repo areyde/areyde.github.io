@@ -7,7 +7,7 @@ permalink: /publications/2023-07-10-templates
 date: 2023-07-10
 venue: "the proceedings of <b>ITiCSE'23</b>"
 level: 'A'
-pdf: 'https://arxiv.org/pdf/2304.12376.pdf'
+pdf: 'https://arxiv.org/abs/2304.12376'
 paperurl: 'https://doi.org/10.1145/3587102.3588800'
 counter_id: 'C22'
 data: 'https://github.com/hyperskill/hyperstyle-analysis-prod/tree/main/templates/src/templates/freq'

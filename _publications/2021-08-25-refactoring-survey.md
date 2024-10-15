@@ -6,7 +6,7 @@ collection: publications
 permalink: /publications/2021-08-25-refactoring-survey
 date: 2021-08-25
 venue: "the proceedings of <b>ESEC/FSE'21</b>"
-pdf: 'https://arxiv.org/pdf/2107.07357.pdf'
+pdf: 'https://arxiv.org/abs/2107.07357'
 data: 'https://zenodo.org/record/4923175'
 video: 'https://www.youtube.com/watch?v=51WTxJdm9-M'
 paperurl: 'https://doi.org/10.1145/3468264.3473924'
