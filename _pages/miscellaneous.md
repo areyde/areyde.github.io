@@ -29,6 +29,7 @@ author_profile: true
   <li><b><a href="https://areyde.com/chinese/">中文数据库</a></b> — the Chinese language database, a resource for studying and learning Chinese.</li>
   <li><b><a href="https://areyde.com/western_thought/">The timeline of Western thought</a></b> — all major Western philosophers put on a timeline.</li>
   <li><b><a href="https://areyde.com/favourite_philosophers/">Favourite philosophers</a></b> — a list of my favourite thinkers that I learned about.</li>
+  <li><b><a href="https://areyde.com/eastern_studies_and_esotericism/">"Ориентир" и АИЭМ</a></b> — семинары и научные конференции, в которых я ассистирую.</li>
 </ul>
 
 <b>Travels:</b>
