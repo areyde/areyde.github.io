@@ -74,7 +74,7 @@ author_profile: true
 
 <b>2021–2022</b>.
 * Advisor for the research project of Olesya Subbotina, <i>"Creating a plugin to detect test smells in Python projects"</i>, <a href="https://www.hse.ru/en/">HSE University</a>.<br>
-*Advisor for the academic internship of Anton Ivanov, <i>"Extracting code duplicates as soon as they are introduced in the IDE"</i>, <a href="https://www.hse.ru/en/">HSE University</a>.<br>
+* Advisor for the academic internship of Anton Ivanov, <i>"Extracting code duplicates as soon as they are introduced in the IDE"</i>, <a href="https://www.hse.ru/en/">HSE University</a>.<br>
 
 <b>2020–2021</b>.
 * Consultant for the Bachelor's thesis of Dmitry Pogrebnoy, <i>"Development of a software license compatibility check system"</i>, <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
