@@ -26,7 +26,7 @@ with a major in biological and medical applications. During the first year, I wo
 
 Finally, I have an unfinished Bachelor's degree in <b>Philosophy</b> 💭 from [Herzen University](https://en.hspu.org/), with a major in philosophical anthropology. In my studies,
 I focused on Chinese philosophy, especially Taoism, and conducted research about the concept of relativity in ancient Taoist texts. 
-I also helped out as an assistant in research centers dedicated to Eastern culture, mysticism, and esotericism, as well as helped organize and conduct several scientific conferences. ☯️
+I also [helped out](https://areyde.com/eastern_studies_and_esotericism/) as an assistant in research centers dedicated to Eastern culture, mysticism, and esotericism, as well as helped organize and conduct several scientific conferences. ☯️
 
 <h2 style="margin-top: -5px;">Research 🔬</h2>
 
