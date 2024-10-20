@@ -46,7 +46,7 @@ to the analytical and the descriptive side of things. Specific topics of my rese
 * code and test smells, 👃
 * evolution of software ecosystems. 🌱
 
-Before my work in software engineering, I used to do research in the field of <b>laser physics</b>. 💥
+Before my work in software engineering, I used to [do research](https://areyde.com/physics_conferences/) in the field of <b>laser physics</b>. 💥
 While I did not get far, my studies related to laser-matter interaction, specifically, laser irradiation with ultra-short (femtosecond) pulses. 
 With a major in laser technologies in biological and medical applications, my last studies were dedicated to combatting viruses, as well as creating colloidal solutions of nanoparticles with antibacterial properties. 🧫
 
