@@ -28,7 +28,7 @@ author_profile: true
 <b>2015</b>: <a href="https://psme.herzen.spb.ru/?page_id=997&lang=en">PSME</a><br>
 <b>2014</b>: <a href="https://kmu.itmo.ru/static/English/54/English">CYS</a>
 
-<i>Note: some conferences related to laser physics did not have publications or proceedings, see the full list of such talks <a href="https://areyde.com/physics_conferences/">here</a>.</i>
+<span style="color: #888888"><i>Note: some conferences related to laser physics did not have publications or proceedings, see the full list of such talks <a href="https://areyde.com/physics_conferences/">here</a>.</i></span>
 
 <h3>Reviewer</h3>
 
@@ -91,11 +91,11 @@ author_profile: true
 
 <h3>Other</h3>
 
-<b>2025</b>. Co-author of a tutorial <i>"Creating in-IDE Programming Courses"</i> at <a href="https://sigcse2025.sigcse.org/track/sigcse-ts-2025-tutorials#event-overview">SIGCSE'25</a>.
+<b>2025</b>: co-author of a tutorial <i>"Creating in-IDE Programming Courses"</i> at <a href="https://sigcse2025.sigcse.org/track/sigcse-ts-2025-tutorials#event-overview">SIGCSE'25</a>.
 
 <hr color="#888888" size="4" noshade>
 
 <h2>Other</h2>
 
-<b>2016–2018</b>: For short periods of time, worked as an assistant and an engineer in the International Laboratory of Laser Micro- and Nanotechnologies, as well as a secretary in the Foreign Students office at <a href="https://en.itmo.ru/">ITMO University</a>.<br>
+<b>2016–2018</b>. For short periods of time, worked as an assistant and an engineer in the International Laboratory of Laser Micro- and Nanotechnologies, as well as a secretary in the Foreign Students office at <a href="https://en.itmo.ru/">ITMO University</a>.<br>
 <b>2016</b>. Participated in the <a href="https://areyde.com/brics/">THE BRICS & Emerging Economies Universities Summit</a> as a representative of Russian students.
