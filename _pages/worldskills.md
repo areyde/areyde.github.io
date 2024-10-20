@@ -12,7 +12,7 @@ I [won the university round](https://news.itmo.ru/en/education/cooperation/news/
 [respected second place](https://kazan.newlaser.ru/news/2017/worldskills-final.php), slightly undercut by the fact that there were only two finalists! 🗿
 
 Nonetheless, this was a great experience that gave me more practical skills than all six years of studies
-combined. I made a lot of cool products from wood, plastic, and metal with my own hands and used the
+combined. I made a lot of cool things from wood, plastic, and metal with my own hands, and — even more importantly! — used the
 access to a CO2 laser to engrave my ukulele! 🪕
 
 <img src="/images/worldskills_me.jpg">
