@@ -28,7 +28,7 @@
 
     {% if post.collection == 'publications' or post.collection == 'publicationsphysics' %}
       {% if post.status == "preprint" %}
-      <h3 class="archive__item-title" itemprop="headline" style="line-height: 150%; margin-bottom:-12px">
+      <h3 class="archive__item-title" itemprop="headline" style="line-height: 150%; margin-bottom:-18px">
         {% if post.link %}
         [{{ post.counter_id }}] <a href="{{ post.link }}" style="color:#992017;">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" style="color:#992017;" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
         {% else %}
@@ -37,7 +37,7 @@
 
       </h3>
       {% else %}
-      <h3 class="archive__item-title" itemprop="headline" style="line-height: 150%; margin-bottom:-12px;">
+      <h3 class="archive__item-title" itemprop="headline" style="line-height: 150%; margin-bottom:-18px;">
         {% if post.link %}
         [{{ post.counter_id }}] <a href="{{ post.link }}" style="color:#992017;">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
         {% else %}
@@ -47,7 +47,7 @@
       </h3>
       {% endif %}
     {% else %}
-      <h3 class="archive__item-title" itemprop="headline" style="line-height: 150%; margin-bottom:-12px;">
+      <h3 class="archive__item-title" itemprop="headline" style="line-height: 150%; margin-bottom:-18px;">
         {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
         {% else %}
