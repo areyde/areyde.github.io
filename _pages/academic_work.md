@@ -15,6 +15,7 @@ author_profile: true
 
 <h3>Author</h3>
 
+<b>2025</b>: <a href="https://sigcse2025.sigcse.org/track/sigcse-ts-2025-tutorials#event-overview">SIGCSE</a><br>
 <b>2024</b>: <a href="https://icer2024.acm.org/track/icer-2024-lightning-talks-and-posters">ICER</a>, <a href="https://www.kolicalling.fi/">Koli Calling</a><br>
 <b>2023</b>: <a href="https://conf.researchr.org/home/ase-2023">ASE</a>, <a href="https://conf.researchr.org/home/esem-2023">ESEM</a>, <a href="https://conf.researchr.org/home/icse-2023">ICSE</a>, <a href="https://iticse.acm.org/2023/">ITiCSE</a>, <a href="https://conf.researchr.org/home/msr-2023">MSR</a>, <a href="https://www.ppig.org/workshops/2023-annual-workshop/call-for-papers/">PPIG</a><br>
 <b>2022</b>: <a href="https://conf.researchr.org/home/ase-2022">ASE</a>, <a href="https://2022.esec-fse.org/">ESEC/FSE</a>, <a href="https://conf.researchr.org/home/msr-2022">MSR</a>, <a href="https://saner2022.uom.gr/">SANER</a><br>
@@ -45,6 +46,10 @@ author_profile: true
 <h3>Awardee</h3>
 <b>2022</b>: ACM SIGSOFT Distinguished Paper Award at <a href="https://conf.researchr.org/home/msr-2022">MSR</a> (for the paper <i><a href="https://areyde.com/publications/2022-05-18-jupyter-analysis">"A Large-Scale Comparison of Python Code in Jupyter Notebooks and Scripts"</a></i>)<br>
 <b>2021</b>: Best Tool Demo Award at <a href="https://icsme2021.github.io/">ICSME</a> (for the paper <i><a href="https://areyde.com/publications/2021-09-27-sorrel">"Sorrel: an IDE Plugin for Managing Licenses and Detecting License Incompatibilities"</a></i>)<br>
+
+<h3>Other</h3>
+
+<b>2014–2020</b>. Presenter at various conferences related to laser physics without publications or proceedings, see list <a href="https://areyde.com/physics_conferences/">here</a>.
 
 <hr color="#888888" size="4" noshade>
 
@@ -86,10 +91,9 @@ author_profile: true
 <b>2017–2018</b>.
 * Advisor for the research project of Sofia Sviridova, Ekaterina Karpova, and Ivan Yakovlev, <i>"Studying the spectra of laser-induced plasma of pharmaceuticals for their analysis"</i>, School of Laser Technologies, <a href="https://en.itmo.ru/">ITMO University</a>.<br>
 
-<h3>Theses</h3>
+<h3>Other</h3>
 
-<b>2020</b>: Master's thesis in Laser Technologies, <i>"Synthesizing selenium nanomaterials with antibacterial properties using laser ablation in liquid"</i>, supervised by <a href="https://www.researchgate.net/profile/Andrei-Samokhvalov">Dr. Andrei Samokhvalov</a>, <a href="https://en.itmo.ru/">ITMO University</a>. The text is <a href="https://areyde.com/files/master.pdf">available in Russian</a>.<br>
-<b>2018</b>: Bachelor's thesis in Applied Physics, <i>"Studying the influence of double-pulse femtosecond laser irradiation on the surface of metals"</i>, supervised by <a href="https://www.researchgate.net/profile/Andrei-Samokhvalov">Dr. Andrei Samokhvalov</a>, <a href="https://en.itmo.ru/">ITMO University</a>. The text is <a href="https://areyde.com/files/bachelor.pdf">available in Russian</a>.
+<b>2025</b>. Co-author of a tutorial <i>"Creating in-IDE Programming Courses"</i> at <a href="https://sigcse2025.sigcse.org/track/sigcse-ts-2025-tutorials#event-overview">SIGCSE'25</a>.
 
 <hr color="#888888" size="4" noshade>
 
