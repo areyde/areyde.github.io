@@ -6,7 +6,6 @@ collection: publications
 permalink: /publications/2024-11-14-llms-for-next-step-hints
 date: 2024-11-14
 venue: "<b>Koli Calling</b>"
-level: '—'
 pdf: 'https://arxiv.org/abs/2410.09268'
 data: 'https://zenodo.org/records/12584502'
 counter_id: 'C28'
