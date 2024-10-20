@@ -71,7 +71,7 @@
             <b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Published on {{ post.venue }}.</p>
           {% elsif post.status == "thesis" %}
           <p style="padding-top:0; margin-bottom:9px;"> {{ post.authors }} <br>
-            <b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Defended at {{ post.venue }}, under the supervision of {{ post.advisor }}.</p>
+            <b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. {{ post.degree }}, defended at {{ post.venue }} under the supervision of {{ post.advisor }}.</p>
           {% else %}
           <p style="padding-top:0; margin-bottom:9px;"> {{ post.authors }} <br>
             <b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Published in {{ post.venue }}{% if post.level %} <span style="color:#888888;">({{ post.level }})</span>{% else %}{% endif %}{% if post.j1 == 'true' %}, presented at {{ post.j1venue }} <span style="color:#888888;">({{ post.j1level }}).</span>{% else %}.{% endif %} <span style="color:#ad7f00;"><b>{{ post.award }}</b></span></p>
@@ -84,7 +84,11 @@
           {% endif %}
 
           {% if post.paperurl %}
+          {% if post.status == "thesis" %}
+          <a class="{{ color }}" href="{{ post.paperurl }}">Text</a>
+          {% else %}
           <a class="{{ color }}" href="{{ post.paperurl }}">Paper</a>
+          {% endif %}
           {% endif %}
           {% if post.pdf %}
           <a class="{{ color }}" href="{{ post.pdf }}">Pre-print</a>
