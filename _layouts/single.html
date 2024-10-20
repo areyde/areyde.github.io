@@ -26,7 +26,7 @@ layout: default
     <div class="page__inner-wrap">
       {% unless page.header.overlay_color or page.header.overlay_image %}
       <header>
-        {% if page.title %}<h1 class="page__title" itemprop="headline" style="line-height: 150%;">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}{% if page.language %}<span style="color:#888888;"> (in {{ page.language }})</span>{% endif %}</h1>{% endif %}
+        {% if page.title %}<h1 class="page__title" itemprop="headline" style="line-height: 100%;">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}{% if page.language %}<span style="color:#888888;"> (in {{ page.language }})</span>{% endif %}</h1>{% endif %}
         {% if page.read_time %}
         <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
         {% endif %}
