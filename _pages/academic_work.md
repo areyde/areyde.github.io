@@ -21,9 +21,11 @@ author_profile: true
 <b>2021</b>: <a href="https://conf.researchr.org/home/ase-2021">ASE</a>, <a href="https://2021.esec-fse.org/">ESEC/FSE</a>, <a href="https://icsme2021.github.io/">ICSME</a>, <a href="https://iwsc2021.github.io/index.html">IWSC</a>, <a herf="https://iwor.github.io/iwor2021/">IWoR</a>, <a href="https://maltesque2021.github.io/submission.html">MaLTeSQuE</a>, <a href="https://saner2021.shidler.hawaii.edu/">SANER</a><br>
 <b>2020</b>: <a href="https://conf.researchr.org/home/ase-2020">ASE</a>, <a href="https://kmu.itmo.ru/static/English/54/English">CYS</a>, <a href="https://conf.researchr.org/track/icse-2020/icse-2020-Workshops">IWoR</a>, <a href="https://2020.msrconf.org/">MSR</a><br>
 <b>2019</b>: <a href="https://conf.researchr.org/home/ase-2019">ASE</a>, <a href="https://flamn.itmo.ru/">FLAMN</a><br>
-<b>2018</b>: <a href="https://ultrafastlight.lebedev.ru/">UltrafastLight</a><br>
+<b>2018</b>: <a href="https://kmu.itmo.ru/static/English/54/English">CYS</a>, <a href="https://ultrafastlight.lebedev.ru/">UltrafastLight</a><br>
+<b>2017</b>: <a href="https://kmu.itmo.ru/static/English/54/English">CYS</a><br>
 <b>2016</b>: <a href="https://flamn.itmo.ru/">FLAMN</a><br>
-<b>2015</b>: <a href="https://psme.herzen.spb.ru/?page_id=997&lang=en">PSME</a>
+<b>2015</b>: <a href="https://psme.herzen.spb.ru/?page_id=997&lang=en">PSME</a><br>
+<b>2014</b>: <a href="https://kmu.itmo.ru/static/English/54/English">CYS</a>
 
 <h3>Reviewer</h3>
 
@@ -82,7 +84,7 @@ author_profile: true
 * Reviewer for the Bachelor's thesis of Alina Dzestelova, <i>"Recognizing images with signs of violence using convolutional neural networks"</i>, <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
 
 <b>2017–2018</b>.
-* Advisor for the research project of Sofia Sviridova, Ekaterina Karpova, and Ivan Yakovlev, <i>"Analyzing pharmaceutical products by studying the spectra of their laser-induced plasma"</i>, School of Laser Technologies, <a href="https://en.itmo.ru/">ITMO University</a>.<br>
+* Advisor for the research project of Sofia Sviridova, Ekaterina Karpova, and Ivan Yakovlev, <i>"Studying the spectra of laser-induced plasma of pharmaceuticals for their analysis"</i>, School of Laser Technologies, <a href="https://en.itmo.ru/">ITMO University</a>.<br>
 
 <h3>Theses</h3>
 
