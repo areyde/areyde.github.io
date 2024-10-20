@@ -20,9 +20,9 @@ author_profile: true
 <b>2022</b>: <a href="https://conf.researchr.org/home/ase-2022">ASE</a>, <a href="https://2022.esec-fse.org/">ESEC/FSE</a>, <a href="https://conf.researchr.org/home/msr-2022">MSR</a>, <a href="https://saner2022.uom.gr/">SANER</a><br>
 <b>2021</b>: <a href="https://conf.researchr.org/home/ase-2021">ASE</a>, <a href="https://2021.esec-fse.org/">ESEC/FSE</a>, <a href="https://icsme2021.github.io/">ICSME</a>, <a href="https://iwsc2021.github.io/index.html">IWSC</a>, <a herf="https://iwor.github.io/iwor2021/">IWoR</a>, <a href="https://maltesque2021.github.io/submission.html">MaLTeSQuE</a>, <a href="https://saner2021.shidler.hawaii.edu/">SANER</a><br>
 <b>2020</b>: <a href="https://conf.researchr.org/home/ase-2020">ASE</a>, <a href="https://conf.researchr.org/track/icse-2020/icse-2020-Workshops">IWoR</a>, <a href="https://2020.msrconf.org/">MSR</a><br>
-<b>2019</b>: <a href="https://conf.researchr.org/home/ase-2019">ASE</a>, <a href="https://flamn.ifmo.ru/">FLAMN</a><br>
+<b>2019</b>: <a href="https://conf.researchr.org/home/ase-2019">ASE</a>, <a href="https://flamn.itmo.ru/">FLAMN</a><br>
 <b>2018</b>: <a href="https://ultrafastlight.lebedev.ru/">UltrafastLight</a><br>
-<b>2016</b>: <a href="http://lpc.ifmo.ru/flamn16/">FLAMN</a><br>
+<b>2016</b>: <a href="https://flamn.itmo.ru/">FLAMN</a><br>
 <b>2015</b>: <a href="https://psme.herzen.spb.ru/?page_id=997&lang=en">PSME</a>
 
 <h3>Reviewer</h3>

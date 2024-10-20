@@ -14,6 +14,7 @@ author_profile: true
 <ul>
   <li><b><a href="https://areyde.com/publications/">Publications</a></b> — papers about software engineering and laser physics.</li>
   <li><b><a href="https://areyde.com/academic_work/">Academic work</a></b> — conferences, journals, service, teaching.</li>
+<li><b><a href="https://areyde.com/physics_conferences/">Conference talks without publications</a></b> — at various local conferences in Physics.</li>
 </ul>
 
 <b>Творчество:</b>
