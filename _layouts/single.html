@@ -50,7 +50,7 @@ layout: default
           <p><b>{{ page.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Published on {{ page.venue }}.</p>
           {% elsif page.status == "thesis" %}
           <p style="padding-top:0; margin-bottom:9px;"> {{ page.authors }} <br>
-            <b>{{ page.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. {{ page.degree }}, defended at {{ page.venue }} under the supervision of {{ page.advisor }}.</p>
+            <b>{{ page.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. {{ page.degree }}, defended at {{ page.venue }} under {{ page.advisor }}.</p>
           {% else %}
           <p> {{ page.authors }} </p>
            <p><b>{{ page.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Published in {{ page.venue }}{% if page.level %} <span style="color:#888888;">({{ page.level }})</span>{% else %}{% endif %}{% if page.j1 == 'true' %}, presented at {{ page.j1venue }} <span style="color:#888888;">({{ page.j1level }}).</span>{% else %}.{% endif %} <span style="color:#ad7f00;"><b>{{ page.award }}</b></span></p>
