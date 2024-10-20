@@ -6,7 +6,6 @@ collection: publications
 permalink: /publications/2024-11-14-clustering-for-moocs
 date: 2024-11-14
 venue: "<b>Koli Calling</b>"
-level: '—'
 pdf: 'https://arxiv.org/abs/2403.19398'
 data: 'https://zenodo.org/records/8259494'
 tool: 'https://github.com/hyperskill/code-submissions-clustering'
