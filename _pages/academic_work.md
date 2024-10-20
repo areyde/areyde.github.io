@@ -28,6 +28,8 @@ author_profile: true
 <b>2015</b>: <a href="https://psme.herzen.spb.ru/?page_id=997&lang=en">PSME</a><br>
 <b>2014</b>: <a href="https://kmu.itmo.ru/static/English/54/English">CYS</a>
 
+<i>Note: some conferences related to laser physics did not have publications or proceedings, see the full list of such talks <a href="https://areyde.com/physics_conferences/">here</a>.</i>
+
 <h3>Reviewer</h3>
 
 <b>2025</b>: <a href="https://conf.researchr.org/home/chase-2025">CHASE</a> (PC), <a href="https://conf.researchr.org/track/icse-2025/icse-2025-artifact-evaluation">ICSE</a> (Artifact Evaluation PC), <a href="https://conf.researchr.org/series/isec">ISEC</a> (Research Track PC), <a href="https://2025.msrconf.org/track/msr-2025-technical-papers">MSR</a> (Technical Track PC), <a href="https://sigcse2025.sigcse.org/track/sigcse-ts-2025-Papers">SIGCSE</a> (Computing Education Research Track PC, Demonstrations Track PC)<br>
@@ -46,10 +48,6 @@ author_profile: true
 <h3>Awardee</h3>
 <b>2022</b>: ACM SIGSOFT Distinguished Paper Award at <a href="https://conf.researchr.org/home/msr-2022">MSR</a> (for the paper <i><a href="https://areyde.com/publications/2022-05-18-jupyter-analysis">"A Large-Scale Comparison of Python Code in Jupyter Notebooks and Scripts"</a></i>)<br>
 <b>2021</b>: Best Tool Demo Award at <a href="https://icsme2021.github.io/">ICSME</a> (for the paper <i><a href="https://areyde.com/publications/2021-09-27-sorrel">"Sorrel: an IDE Plugin for Managing Licenses and Detecting License Incompatibilities"</a></i>)<br>
-
-<h3>Other</h3>
-
-<b>2014–2020</b>. Presenter at various conferences related to laser physics without publications or proceedings, see list <a href="https://areyde.com/physics_conferences/">here</a>.
 
 <hr color="#888888" size="4" noshade>
 
@@ -81,15 +79,15 @@ author_profile: true
 <h3>Advising</h3>
 
 <b>2021–2022</b>.
-* Advisor for the research project of Olesya Subbotina, <i>"Creating a plugin to detect test smells in Python projects"</i>, <a href="https://www.hse.ru/en/">HSE University</a>.<br>
-* Advisor for the academic internship of Anton Ivanov, <i>"Extracting code duplicates as soon as they are introduced in the IDE"</i>, <a href="https://www.hse.ru/en/">HSE University</a>.<br>
+* Advisor for the research project of Olesya Subbotina, <i>"Creating a Plugin to Detect Test Smells in Python Projects"</i>, <a href="https://www.hse.ru/en/">HSE University</a>.<br>
+* Advisor for the academic internship of Anton Ivanov, <i>"Extracting Code Duplicates as soon as They are Introduced in the IDE"</i>, <a href="https://www.hse.ru/en/">HSE University</a>.<br>
 
 <b>2020–2021</b>.
-* Consultant for the Bachelor's thesis of Dmitry Pogrebnoy, <i>"Development of a software license compatibility check system"</i>, <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
-* Reviewer for the Bachelor's thesis of Alina Dzestelova, <i>"Recognizing images with signs of violence using convolutional neural networks"</i>, <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
+* Consultant for the Bachelor's thesis of Dmitry Pogrebnoy, <i>"Development of a Software License Compatibility Check System"</i>, <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
+* Reviewer for the Bachelor's thesis of Alina Dzestelova, <i>"Recognizing Images with Signs of Violence Using Convolutional Neural Networks"</i>, <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
 
 <b>2017–2018</b>.
-* Advisor for the research project of Sofia Sviridova, Ekaterina Karpova, and Ivan Yakovlev, <i>"Studying the spectra of laser-induced plasma of pharmaceuticals for their analysis"</i>, School of Laser Technologies, <a href="https://en.itmo.ru/">ITMO University</a>.<br>
+* Advisor for the research project of Sofia Sviridova, Ekaterina Karpova, and Ivan Yakovlev, <i>"Studying the Spectra of Laser-induced Plasma of Pharmaceuticals for Their Analysis"</i>, School of Laser Technologies, <a href="https://en.itmo.ru/">ITMO University</a>.<br>
 
 <h3>Other</h3>
 
