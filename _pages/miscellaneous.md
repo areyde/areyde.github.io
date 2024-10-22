@@ -40,7 +40,7 @@ author_profile: true
   <li><b><a href="https://areyde.com/beograd/">Istraživanje mesta u okolini Beograda</a></b> — bike touring around Belgrade.</li>
 </ul>
 
-<b>Miscellaneous:</b>
+<b>Older and miscellaneous:</b>
 
 <ul>
   <li><b>2019</b>: <b><a href="https://areyde.com/interviews/">Interviews with researchers</a></b> — my brief work at ITMO University.</li>
