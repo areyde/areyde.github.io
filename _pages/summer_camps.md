@@ -13,8 +13,8 @@ while in the third year, I was the "musical director" of a summer camp (while ir
 anything except for a ukulele). Since this coincided with my most care-free youth and earned me some little money
 to travel by myself for the first time, I remember those summers with love!
 
-<b>2018</b>: <a href="https://www.cccpioner.com/">"Pioner"</a>, musical director.
-<b>2017</b>: <a href="https://www.caravel.ru/index.php">"Karavella"</a> summer camp, 12–13-year-olds.
-<b>2016</b>: <a href="https://www.caravel.ru/index.php">"Karavella"</a> summer camp, 10–12-year-olds.
+* <b>2018</b>: <a href="https://www.cccpioner.com/">"Pioner"</a>, musical director.
+* <b>2017</b>: <a href="https://www.caravel.ru/index.php">"Karavella"</a> summer camp, 12–13-year-olds.
+* <b>2016</b>: <a href="https://www.caravel.ru/index.php">"Karavella"</a> summer camp, 10–12-year-olds.
 
 <img src="/images/summer_camp_me.jpg">
