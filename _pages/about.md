@@ -18,7 +18,7 @@ Born and raised in Saint Petersburg. ⚓
 In 2018, I obtained a Bachelor's degree in <b>Applied Physics</b> 👨‍🔬 from [ITMO University](https://en.itmo.ru/), with a major in laser
 technologies, and planned to become a researcher. While there, I worked as a lab assistant, a guide in the educational museum of optics, as well as a
 secretary in the Foreign Students office, and participated in the [THE BRICS & Emerging Economies Universities Summit](https://areyde.com/brics/)
-as a representative of Russian students. Every summer, I also worked as a camp leader. 🏕️
+as a representative of Russian students. Every summer, I also worked as a camp counselor. 🏕️
 
 In 2020, I obtained a Master's degree with honors in <b>Laser Technologies</b> ⚡ from the same university,
 with a major in biological and medical applications. During the first year, I worked as an engineer in the lab and a 
