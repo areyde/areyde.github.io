@@ -30,14 +30,14 @@ Here, I collected all my posters and short talks from such conferences.
 * <a href="https://ultrafastlight.lebedev.ru/files/BookOfAbstracts_UltrafastLight2018.pdf#page=104">"The Dynamics of Laser Ablation Thresholds of Aluminum and Steel During Double-pulse Femtosecond Laser Action"</a>. 
   _Yaroslav Golubev, Sergey Kudryashov, Andrey Samokhvalov, and Vadim Veiko_. Presented on October 2nd, 2018, at [UltrafastLight'18](https://ultrafastlight.lebedev.ru/).
 * <a href="https://areyde.com/files/cys2018/advisory.pdf">"Studying the Spectra of Laser-induced Plasma of Pharmaceuticals for Their Analysis"</a> (in Russian).
-  _Sofia Sviridova, Ekaterina Karpova, Ivan Yakovlev, and Yaroslav Golubev_. Presented on April 20th, 2018, at [CYS'18](https://kmu.itmo.ru/static/English/54/English). 🏆 <b>Gratitude Award at the Section for Highschoolers</b> 🏆
+  _Sofia Sviridova, Ekaterina Karpova, Ivan Yakovlev, and Yaroslav Golubev_. Presented on April 20th, 2018, at [CYS'18](https://kmu.itmo.ru/static/English/54/English). 🏆 <span style="color:#ad7f00;"><b>Gratitude Award at the Section for Highschoolers</b></span> 🏆
 * <a href="https://areyde.com/files/cys2018/abstract.pdf">"The Dynamics of Laser Ablation Thresholds of Bulk and Thin-film Aluminum Targets under the Influence of Double Femtosecond Laser Pulses"</a> (in Russian).
-  _Yaroslav Golubev and Andrey Samokhvalov_. Presented on April 19th, 2018, at [CYS'18](https://kmu.itmo.ru/static/English/54/English). 🏆 <b>Winner of the Contest for Getting into the Master's Program Without Exams</b> 🏆
+  _Yaroslav Golubev and Andrey Samokhvalov_. Presented on April 19th, 2018, at [CYS'18](https://kmu.itmo.ru/static/English/54/English). 🏆 <span style="color:#ad7f00;"><b>Winner of the Contest for Getting into the Master's Program Without Exams</b></span> 🏆
 
 **2017**.
 
 * <a href="https://areyde.com/files/cys2017/abstract.pdf">"Laser-induced Formation of Nanostructures from Silver Films under the Influence of Nanosecond Pulses"</a> (in Russian).
-  _Pavel Varlamov, Yaroslav Golubev, Ilnur Aminov, and Eduard Ageev_. Presented on April 20th, 2017, at [CYS'17](https://kmu.itmo.ru/static/English/54/English). 🏆 <b>Best Student's Talk Award</b> 🏆
+  _Pavel Varlamov, Yaroslav Golubev, Ilnur Aminov, and Eduard Ageev_. Presented on April 20th, 2017, at [CYS'17](https://kmu.itmo.ru/static/English/54/English). 🏆 <span style="color:#ad7f00;"><b>Best Student's Talk Award</b></span> 🏆
 
 **2016**.
 
