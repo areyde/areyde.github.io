@@ -55,6 +55,7 @@ author_profile: true
 
 <h3>Author</h3>
 
+<b>2024</b>: <a href="https://www.sciencedirect.com/journal/information-and-software-technology">Information and Software Technology</a><br>
 <b>2023</b>: <a href="https://www.sciencedirect.com/journal/information-and-software-technology">Information and Software Technology</a><br>
 <b>2021</b>: <a href="https://www.sciencedirect.com/journal/applied-surface-science">Applied Surface Science</a><br>
 <b>2017</b>: <a href="https://www.springer.com/journal/11082">Optical and Quantum Electronics</a>
