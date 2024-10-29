@@ -3,8 +3,8 @@ title: "Just-in-time Code Duplicates Extraction"
 authors: '<i>Eman Abdullah AlOmar, Anton Ivanov, Zarina Kurbatova, Yaroslav Golubev, Mohamed Wiem Mkaouer, Ali Ouni, Timofey Bryksin, Le Nguyen, Amit Kini, and Aditya Thakur</i>'
 status: "published"
 collection: publications
-permalink: /publications/2023-02-14-duplicate-extraction
-date: 2023-02-14
+permalink: /publications/2023-06-01-duplicate-extraction
+date: 2023-06-01
 venue: "<b>Information and Software Technology</b>"
 paperurl: 'https://doi.org/10.1016/j.infsof.2023.107169'
 pdf: 'https://arxiv.org/abs/2302.03416'
