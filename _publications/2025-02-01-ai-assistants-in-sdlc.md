@@ -1,7 +1,7 @@
 ---
 title: "Using AI-Based Coding Assistants in Practice: State of Affairs, Perceptions, and Ways Forward"
 authors: '<i>Agnia Sergeyuk, Yaroslav Golubev, Timofey Bryksin, and Iftekhar Ahmed</i>'
-status: "accepted"
+status: "published"
 collection: publications
 permalink: /publications/2025-02-01-ai-assistants-in-sdlc
 date: 2025-02-01
