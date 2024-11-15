@@ -1,11 +1,12 @@
 ---
 title: "One Step at a Time: Combining LLMs and Static Analysis to Generate Next-Step Hints for Programming Tasks"
 authors: '<i>Anastasiia Birillo, Elizaveta Artser, Anna Potriasaeva, Ilya Vlasov, Katsiaryna Dzialets, Yaroslav Golubev, Igor Gerasimov, Hieke Keuning, and Timofey Bryksin</i>'
-status: "accepted"
+status: "published"
 collection: publications
 permalink: /publications/2024-11-14-llms-for-next-step-hints
 date: 2024-11-14
-venue: "<b>Koli Calling</b>"
+venue: "the proceedings of <b>Koli Calling</b>"
+paperurl: 'https://doi.org/10.1145/3699538.3699556'
 pdf: 'https://arxiv.org/abs/2410.09268'
 data: 'https://zenodo.org/records/12584502'
 counter_id: 'C28'

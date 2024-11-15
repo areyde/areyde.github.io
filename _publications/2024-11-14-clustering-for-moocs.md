@@ -1,11 +1,12 @@
 ---
 title: "Clustering MOOC Programming Solutions to Diversify Their Presentation to Students"
 authors: '<i>Elizaveta Artser, Anastasiia Birillo, Yaroslav Golubev, Maria Tigina, Hieke Keuning, Nikolay Vyahhi, and Timofey Bryksin</i>'
-status: "accepted"
+status: "published"
 collection: publications
 permalink: /publications/2024-11-14-clustering-for-moocs
 date: 2024-11-14
-venue: "<b>Koli Calling</b>"
+venue: "the proceedings of <b>Koli Calling</b>"
+paperurl: 'https://doi.org/10.1145/3699538.3699548'
 pdf: 'https://arxiv.org/abs/2403.19398'
 data: 'https://zenodo.org/records/8259494'
 tool: 'https://github.com/hyperskill/code-submissions-clustering'
