@@ -23,7 +23,7 @@ author_profile: true
 использовать для любых целей безо всякого указания авторства — стихи [свободны](https://creativecommons.org/publicdomain/zero/1.0/). </i>
 <hr color="#888888" size="4" noshade>
 
-<p style="text-align: center;"><b>2024 год. </b></p>
+<p style="text-align: center;"><b>2024 год был годом растерянности и пророчества. </b></p>
 
 <b><a href="https://areyde.com/poetry/2024-11-27">"Спасётся каждый. Каждому дано…"</a></b> — 27.11.2024
 
