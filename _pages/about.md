@@ -44,7 +44,8 @@ to the analytical and the descriptive side of things. Specific topics of my rese
 * code changes (patterns and automatic fixes), ️✨
 * refactorings, 🛠️
 * code and test smells, 👃
-* evolution of software ecosystems. 🌱
+* evolution of software ecosystems, 🌱
+* AI assistants. 🦾
 
 Before my work in software engineering, I used to [do research](https://areyde.com/physics_conferences/) in the field of <b>laser physics</b>. 💥
 While I did not get far, my studies related to laser-matter interaction, specifically, laser irradiation with ultra-short (femtosecond) pulses. 
