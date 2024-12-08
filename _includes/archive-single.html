@@ -32,7 +32,7 @@
         {% if post.link %}
         [{{ post.counter_id }}] <a href="{{ post.link }}" style="color:#992017;">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" style="color:#992017;" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
         {% else %}
-        [{{ post.counter_id }}] <a href="{{ base_path }}{{ post.url }}" style="color:#992017;" rel="permalink">{{ title }}</a> {% if post.language %}<span style="color:#888888;"> (in {{ post.language }})</span>{% endif %}
+        [{{ post.counter_id }}] <a href="{{ base_path }}{{ post.url }}" style="color:#992017;" rel="permalink">{{ title }}</a>
         {% endif %}
 
       </h3>
@@ -41,7 +41,7 @@
         {% if post.link %}
         [{{ post.counter_id }}] <a href="{{ post.link }}" style="color:#992017;">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
         {% else %}
-        [{{ post.counter_id }}] <a href="{{ base_path }}{{ post.url }}" style="color:#992017;" rel="permalink">{{ title }}</a> {% if post.language %}<span style="color:#888888;"> (in {{ post.language }})</span>{% endif %}
+        [{{ post.counter_id }}] <a href="{{ base_path }}{{ post.url }}" style="color:#992017;" rel="permalink">{{ title }}</a>
         {% endif %}
 
       </h3>
@@ -65,16 +65,16 @@
         {% elsif post.collection == 'publications' or post.collection == 'publicationsphysics' %}
           {% if post.status == "accepted" %}
           <p style="padding-top:0; margin-bottom:9px;"> {{ post.authors }} <br>
-            <b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Accepted to {{ post.venue }}{% if post.level %} <span style="color:#888888;">({{ post.level }})</span>{% else %}{% endif %}. <span style="color:#ad7f00;"><b>{{ post.award }}</b></span></p>
+            <b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Accepted to {{ post.venue }}{% if post.level %} <span style="color:#888888;">({{ post.level }})</span>{% else %}{% endif %}{% if post.language %}<span style="color:#888888; font-weight: bold;"> (in {{ post.language }})</span>{% endif %}. <span style="color:#ad7f00;"><b>{{ post.award }}</b></span></p>
           {% elsif post.status == "preprint" %}
           <p style="padding-top:0; margin-bottom:9px;"> {{ post.authors }} <br>
             <b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Published on {{ post.venue }}.</p>
           {% elsif post.status == "thesis" %}
           <p style="padding-top:0; margin-bottom:9px;"> {{ post.authors }} <br>
-            <b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. {{ post.degree }}, defended at {{ post.venue }} under {{ post.advisor }}.</p>
+            <b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. {{ post.degree }}, defended at {{ post.venue }} under {{ post.advisor }}{% if post.language %}<span style="color:#888888; font-weight: bold;"> (in {{ post.language }})</span>{% endif %}.</p>
           {% else %}
           <p style="padding-top:0; margin-bottom:9px;"> {{ post.authors }} <br>
-            <b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Published in {{ post.venue }}{% if post.level %} <span style="color:#888888;">({{ post.level }})</span>{% else %}{% endif %}{% if post.j1 == 'true' %}, presented at {{ post.j1venue }} <span style="color:#888888;">({{ post.j1level }}).</span>{% else %}.{% endif %} <span style="color:#ad7f00;"><b>{{ post.award }}</b></span></p>
+            <b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Published in {{ post.venue }}{% if post.level %} <span style="color:#888888;">({{ post.level }})</span>{% else %}{% endif %}{% if post.j1 == 'true' %}, presented at {{ post.j1venue }} <span style="color:#888888;">({{ post.j1level }}).</span>{% else %}.{% endif %}{% if post.language %}<span style="color:#888888; font-weight: bold;"> (in {{ post.language }})</span>{% endif %} <span style="color:#ad7f00;"><b>{{ post.award }}</b></span></p>
           {% endif %}
 
           {% if post.status == "preprint" %}
