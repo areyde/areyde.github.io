@@ -81,15 +81,15 @@ author_profile: true
 <h3>Advising</h3>
 
 <b>2021–2022</b>.
-* Advisor for the research project of Olesya Subbotina, <i>"Creating a Plugin to Detect Test Smells in Python Projects"</i>, <a href="https://www.hse.ru/en/">HSE University</a>.<br>
-* Advisor for the academic internship of Anton Ivanov, <i>"Extracting Code Duplicates as soon as They are Introduced in the IDE"</i>, <a href="https://www.hse.ru/en/">HSE University</a>.<br>
+– Advisor for the research project of Olesya Subbotina, <i>"Creating a Plugin to Detect Test Smells in Python Projects"</i>, <a href="https://www.hse.ru/en/">HSE University</a>.<br>
+– Advisor for the academic internship of Anton Ivanov, <i>"Extracting Code Duplicates as soon as They are Introduced in the IDE"</i>, <a href="https://www.hse.ru/en/">HSE University</a>.<br>
 
 <b>2020–2021</b>.
-* Consultant for the Bachelor's thesis of Dmitry Pogrebnoy, <i>"Development of a Software License Compatibility Check System"</i>, <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
-* Reviewer for the Bachelor's thesis of Alina Dzestelova, <i>"Recognizing Images with Signs of Violence Using Convolutional Neural Networks"</i>, <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
+– Consultant for the Bachelor's thesis of Dmitry Pogrebnoy, <i>"Development of a Software License Compatibility Check System"</i>, <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
+– Reviewer for the Bachelor's thesis of Alina Dzestelova, <i>"Recognizing Images with Signs of Violence Using Convolutional Neural Networks"</i>, <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
 
 <b>2017–2018</b>.
-* Advisor for the research project of Sofia Sviridova, Ekaterina Karpova, and Ivan Yakovlev, <i>"Studying the Spectra of Laser-induced Plasma of Pharmaceuticals for Their Analysis"</i>, School of Laser Technologies, <a href="https://en.itmo.ru/">ITMO University</a>.<br>
+– Advisor for the research project of Sofia Sviridova, Ekaterina Karpova, and Ivan Yakovlev, <i>"Studying the Spectra of Laser-induced Plasma of Pharmaceuticals for Their Analysis"</i>, School of Laser Technologies, <a href="https://en.itmo.ru/">ITMO University</a>.<br>
 
 <h3>Other</h3>
 
