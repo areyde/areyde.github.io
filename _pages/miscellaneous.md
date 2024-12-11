@@ -37,7 +37,7 @@ author_profile: true
 
 <ul>
   <li><b><a href="https://areyde.com/travels/">Over the world</a></b> — every single place where I have ever been.</li>
-  <li><b><a href="https://areyde.com/beograd/">Istraživanje mesta u okolini Beograda</a></b> — bike touring around Belgrade.</li>
+  <li><b><a href="https://areyde.com/beograd/">Istraživanje mesta u okolini Beograda</a></b> — bike touring around Belgrade. <b style="color:#888888;">(2024)</b></li>
 </ul>
 
 <b>Older and miscellaneous:</b>
