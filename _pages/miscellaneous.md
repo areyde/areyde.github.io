@@ -44,6 +44,7 @@ author_profile: true
 
 <ul>
   <li><b>2019</b>: <b><a href="https://areyde.com/interviews/">Interviews with researchers</a></b> — my brief work at ITMO University.</li>
+  <li><b>2017–2020</b>: <b><a href="https://areyde.com/books/">Редактура книг</a></b> — для одного анонимного подполковника.</li>
   <li><b>2017–2019</b>: <b><a href="https://areyde.com/music/">Music</a></b> — various songs we recorded with friends.</li>
   <li><b>2017</b>: <b><a href="https://areyde.com/worldskills/">WorldSkills</a></b> — my participation in a contest in Laser Technologies.</li>
   <li><b>2016–2018</b>: <b><a href="https://areyde.com/summer_camps/">Summer camps</a></b> — my summer work with kids.</li>
