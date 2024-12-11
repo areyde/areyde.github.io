@@ -12,24 +12,24 @@ author_profile: true
 <b>Research and work:</b>
 
 <ul>
-  <li><b><a href="https://areyde.com/publications/">Publications</a></b> — papers about software engineering and laser physics.</li>
-  <li><b><a href="https://areyde.com/academic_work/">Academic work</a></b> — conferences, journals, service, teaching.</li>
-<li><b><a href="https://areyde.com/physics_conferences/">Conference talks without publications</a></b> — at various local conferences about laser technologies.</li>
+  <li><b><a href="https://areyde.com/publications/">Publications</a></b> — papers about software engineering and laser physics. <b style="color:#888888;">(2015–...)</b></li>
+  <li><b><a href="https://areyde.com/academic_work/">Academic work</a></b> — conferences, journals, service, teaching. <b style="color:#888888;">(2014–...)</b></li>
+<li><b><a href="https://areyde.com/physics_conferences/">Conference talks without publications</a></b> — at various local conferences about laser technologies. <b style="color:#888888;">(2014–2020)</b></li>
 </ul>
 
 <b>Творчество:</b>
 
 <ul>
-  <li><b><a href="https://areyde.com/poetry/">"О природе"</a></b> — бесконечно обновляемый сборник стихов.</li>
-  <li><b><a href="https://areyde.com/notes/">Записки</a></b> — эссе на случайные темы.</li>
+  <li><b><a href="https://areyde.com/poetry/">"О природе"</a></b> — бесконечно обновляемый сборник стихов. <b style="color:#888888;">(2019–...)</b></li>
+  <li><b><a href="https://areyde.com/notes/">Записки</a></b> — эссе на случайные темы. <b style="color:#888888;">(2024–...)</b></li>
 </ul>
 
-<b>Languages and philosophy</b>:
+<b>Languages, philosophy, and culture</b>:
 
 <ul>
   <li><b><a href="https://areyde.com/chinese/">中文数据库</a></b> — the Chinese language database, a resource for studying and learning Chinese. <b style="color:#888888;">(2018–...)</b></li>
-  <li><b><a href="https://areyde.com/western_thought/">The timeline of Western thought</a></b> — all major Western philosophers put on a timeline. <b style="color:#888888;">(2023)</b></li>
   <li><b><a href="https://areyde.com/favourite_philosophers/">Favourite philosophers</a></b> — a list of my favourite thinkers that I learned about. <b style="color:#888888;">(2024)</b></li>
+  <li><b><a href="https://areyde.com/western_thought/">The timeline of Western thought</a></b> — all major Western philosophers put on a timeline. <b style="color:#888888;">(2023)</b></li>
   <li><b><a href="https://areyde.com/eastern_studies_and_esotericism/">"Ориентир" и АИЭМ</a></b> — семинары и научные конференции, в которых я ассистирую. <b style="color:#888888;">(2023–...)</b></li>
 </ul>
 
