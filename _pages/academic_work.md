@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Academic work"
+title: "Academic work 🎓"
 permalink: /academic_work/
 author_profile: true
 ---

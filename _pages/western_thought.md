@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 'The timeline of Western thought'
+title: 'The timeline of Western thought 🏛️'
 permalink: /western_thought/
 author_profile: true
 ---

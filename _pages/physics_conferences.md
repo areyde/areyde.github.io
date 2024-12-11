@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 'Abstracts from conferences in Laser Technologies without publications'
+title: 'Abstracts from conferences in Laser Technologies without publications 💥'
 permalink: /physics_conferences/
 author_profile: true
 ---

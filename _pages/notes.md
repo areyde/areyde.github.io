@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 'Записки'
+title: 'Записки ✍'
 permalink: /notes/
 author_profile: true
 ---

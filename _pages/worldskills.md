@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 'WorldSkills Russia in Laser Technologies'
+title: 'WorldSkills Russia in Laser Technologies 🛠️'
 permalink: /worldskills/
 author_profile: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 'What does "Areyde" mean?'
+title: 'What does "Areyde" mean? ⚜️'
 permalink: /areyde/
 author_profile: true
 ---

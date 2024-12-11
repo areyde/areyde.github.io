@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: 'Everything else'
+title: '(Almost) everything 🌌'
 permalink: /everything/
 author_profile: true
 ---
 
 {% include base_path %}
 
-<i>Here lies everything that I consider to be myself.</i>
+<i>Here lies (almost) everything that I consider to be myself.</i>
 
 <b>Research and work:</b>
 

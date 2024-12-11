@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 'Редактура книг'
+title: 'Редактура книг 📚'
 permalink: /books/
 author_profile: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 'Summer camps'
+title: 'Summer camps 🏕️'
 permalink: /summer_camps/
 author_profile: true
 ---

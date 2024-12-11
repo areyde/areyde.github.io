@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 'Experiments with music'
+title: 'Experiments with music ♫'
 permalink: /music/
 author_profile: true
 ---

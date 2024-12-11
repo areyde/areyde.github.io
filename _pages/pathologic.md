@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 'Translation of "Pathologic"'
+title: 'Translation of "Pathologic" 🎭'
 permalink: /pathologic/
 author_profile: true
 ---

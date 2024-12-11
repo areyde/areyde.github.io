@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: '"О природе"'
+title: '"О природе" 🌏'
 permalink: /poetry/
 author_profile: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 'Interviews with researchers at ITMO University'
+title: 'Interviews with researchers at ITMO University 🎙️'
 permalink: /interviews/
 author_profile: true
 ---

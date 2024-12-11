@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 'THE BRICS & Emerging Economies Universities Summit'
+title: 'THE BRICS & Emerging Economies Universities Summit 🧱'
 permalink: /brics/
 author_profile: true
 ---
