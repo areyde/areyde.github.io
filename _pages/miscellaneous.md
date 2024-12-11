@@ -27,16 +27,16 @@ author_profile: true
 <b>Languages and philosophy</b>:
 
 <ul>
-  <li><b><a href="https://areyde.com/chinese/">中文数据库</a></b> — the Chinese language database, a resource for studying and learning Chinese.</li>
-  <li><b><a href="https://areyde.com/western_thought/">The timeline of Western thought</a></b> — all major Western philosophers put on a timeline.</li>
-  <li><b><a href="https://areyde.com/favourite_philosophers/">Favourite philosophers</a></b> — a list of my favourite thinkers that I learned about.</li>
-  <li><b><a href="https://areyde.com/eastern_studies_and_esotericism/">"Ориентир" и АИЭМ</a></b> — семинары и научные конференции, в которых я ассистирую.</li>
+  <li><b><a href="https://areyde.com/chinese/">中文数据库</a></b> — the Chinese language database, a resource for studying and learning Chinese. <b style="color:#888888;">(2018–...)</b></li>
+  <li><b><a href="https://areyde.com/western_thought/">The timeline of Western thought</a></b> — all major Western philosophers put on a timeline. <b style="color:#888888;">(2023)</b></li>
+  <li><b><a href="https://areyde.com/favourite_philosophers/">Favourite philosophers</a></b> — a list of my favourite thinkers that I learned about. <b style="color:#888888;">(2024)</b></li>
+  <li><b><a href="https://areyde.com/eastern_studies_and_esotericism/">"Ориентир" и АИЭМ</a></b> — семинары и научные конференции, в которых я ассистирую. <b style="color:#888888;">(2023–...)</b></li>
 </ul>
 
 <b>Travels:</b>
 
 <ul>
-  <li><b><a href="https://areyde.com/travels/">Over the world</a></b> — every single place where I have ever been.</li>
+  <li><b><a href="https://areyde.com/travels/">Over the world</a></b> — every single place where I have ever been. <b style="color:#888888;">(1997–..., I guess)</b></li>
   <li><b><a href="https://areyde.com/beograd/">Istraživanje mesta u okolini Beograda</a></b> — bike touring around Belgrade. <b style="color:#888888;">(2024)</b></li>
 </ul>
 
