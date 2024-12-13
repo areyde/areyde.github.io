@@ -9,7 +9,7 @@ author_profile: true
 
 <i>Here lies (almost) everything that I consider to be myself.</i>
 
-<b>Research and work:</b>
+<b>Research & work:</b>
 
 <ul>
   <li><b><a href="https://areyde.com/publications/">Publications</a></b> — papers about software engineering and laser physics. <b style="color:#888888;">(2015–...)</b></li>
@@ -24,11 +24,11 @@ author_profile: true
   <li><b><a href="https://areyde.com/notes/">Записки</a></b> — эссе на случайные темы. <b style="color:#888888;">(2024–...)</b></li>
 </ul>
 
-<b>Languages, philosophy, and culture</b>:
+<b>Languages, philosophy, & humanities:</b>
 
 <ul>
   <li><b><a href="https://areyde.com/chinese/">中文数据库</a></b> — the Chinese language database, a resource for studying and learning Chinese. <b style="color:#888888;">(2018–...)</b></li>
-  <li><b><a href="https://areyde.com/eastern_studies_and_esotericism/">"Ориентир" и АИЭМ</a></b> — семинары и научные конференции, в которых я ассистирую. <b style="color:#888888;">(2023–...)</b></li>
+  <li><b><a href="https://areyde.com/eastern_studies_and_esotericism/">"Ориентир" и АИЭМ</a></b> — семинары и научные конференции по восточной культуре и эзотерике. <b style="color:#888888;">(2023–...)</b></li>
   <li><b><a href="https://areyde.com/favourite_philosophers/">Favourite philosophers</a></b> — a list of my favourite thinkers that I learned about. <b style="color:#888888;">(2024)</b></li>
   <li><b><a href="https://areyde.com/western_thought/">The timeline of Western thought</a></b> — all major Western philosophers put on a timeline. <b style="color:#888888;">(2023)</b></li>
 </ul>
@@ -40,7 +40,7 @@ author_profile: true
   <li><b><a href="https://areyde.com/beograd/">Istraživanje mesta u okolini Beograda</a></b> — bike touring around Belgrade. <b style="color:#888888;">(2024)</b></li>
 </ul>
 
-<b>Older and miscellaneous:</b>
+<b>Older & miscellaneous:</b>
 
 <ul>
   <li><b><a href="https://areyde.com/interviews/">Interviews with researchers</a></b> — my brief work at ITMO University. <b style="color:#888888;">(2019)</b></li>
