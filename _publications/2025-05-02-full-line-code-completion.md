@@ -3,8 +3,8 @@ title: "Full Line Code Completion: Bringing AI to Desktop"
 authors: '<i>Anton Semenkin, Vitaliy Bibaev, Yaroslav Sokolov, Kirill Krylov, Alexey Kalina, Anna Khannanova, Danila Savenkov, Darya Rovdo, Igor Davidenko, Kirill Karnaukhov, Maxim Vakhrushev, Mikhail Kostyukov, Mikhail Podvitskii, Petr Surkov, Yaroslav Golubev, Nikita Povarov, and Timofey Bryksin</i>'
 status: "accepted"
 collection: publications
-permalink: /publications/2025-05-01-full-line-code-completion
-date: 2025-05-01
+permalink: /publications/2025-05-02-full-line-code-completion
+date: 2025-05-02
 venue: "<b>ICSE'25</b>"
 pdf: 'https://arxiv.org/abs/2405.08704'
 tool: 'https://plugins.jetbrains.com/plugin/14823-full-line-code-completion'

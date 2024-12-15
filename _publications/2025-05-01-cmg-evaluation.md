@@ -3,8 +3,8 @@ title: "Towards Realistic Evaluation of Commit Message Generation by Matching On
 authors: '<i>Petr Tsvetkov, Aleksandra Eliseeva, Danny Dig, Alexander Bezzubov, Yaroslav Golubev, Timofey Bryksin, and Yaroslav Zharov</i>'
 status: "accepted"
 collection: publications
-permalink: /publications/2025-04-30-cmg-evaluation
-date: 2025-04-30
+permalink: /publications/2025-05-01-cmg-evaluation
+date: 2025-05-01
 venue: "<b>ICSE'25</b>"
 pdf: 'https://arxiv.org/abs/2410.12046'
 data: 'https://huggingface.co/collections/JetBrains-Research/commit-message-generation-evaluation-664a96940e5395fb52c202c5'
