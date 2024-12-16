@@ -6,6 +6,7 @@ collection: publications
 permalink: /publications/2025-05-01-cmg-evaluation
 date: 2025-05-01
 venue: "<b>ICSE'25</b>"
+level: "A*"
 pdf: 'https://arxiv.org/abs/2410.12046'
 data: 'https://huggingface.co/collections/JetBrains-Research/commit-message-generation-evaluation-664a96940e5395fb52c202c5'
 tool: 'https://huggingface.co/spaces/JetBrains-Research/commit-message-editing'

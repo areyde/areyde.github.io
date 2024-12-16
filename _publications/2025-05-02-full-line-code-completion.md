@@ -6,6 +6,7 @@ collection: publications
 permalink: /publications/2025-05-02-full-line-code-completion
 date: 2025-05-02
 venue: "<b>ICSE'25</b>"
+level: "A*"
 pdf: 'https://arxiv.org/abs/2405.08704'
 tool: 'https://plugins.jetbrains.com/plugin/14823-full-line-code-completion'
 counter_id: 'C30'
