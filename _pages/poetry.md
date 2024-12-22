@@ -25,6 +25,8 @@ author_profile: true
 
 <p style="text-align: center;"><b>2024 год был годом растерянности и пророчества. </b></p>
 
+<b><a href="https://areyde.com/poetry/2024-12-22">"Песчаные бури, набеги кушитов…"</a></b> — 22.12.2024
+
 <b><a href="https://areyde.com/poetry/2024-11-27">"Спасётся каждый. Каждому дано…"</a></b> — 27.11.2024
 
 <b><a href="https://areyde.com/poetry/2024-10-05">"Всё та же пыль, всё те же реки…"</a></b> — 05.10.2024
