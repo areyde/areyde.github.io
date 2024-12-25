@@ -99,5 +99,5 @@ author_profile: true
 
 <h2>Miscellaneous</h2>
 
-<b>2016–2018</b>. For short periods of time, worked as an assistant and an engineer in the International Laboratory of Laser Micro- and Nanotechnologies, as well as a secretary in the Foreign Students office at <a href="https://en.itmo.ru/">ITMO University</a>.<br>
-<b>2016</b>. Participated in the <a href="https://areyde.com/brics/">THE BRICS & Emerging Economies Universities Summit</a> as a representative of Russian students.
+<b>2017–2018</b>. For short periods of time, worked as an assistant and an engineer in the International Laboratory of Laser Micro- and Nanotechnologies, mostly helping with the writing of academic papers.<br>
+<b>2016–2017</b>. Briefly worked as a secretary in the <a href="https://int.itmo.ru/en/departments/structure/17">International Students office</a> at <a href="https://en.itmo.ru/">ITMO University</a>. As part of this, participated in the meeting of <a href="https://en.itmo.ru/en/page/249/The_International_Council.htm">ITMO University’s International Council</a>, as well as the <a href="https://areyde.com/brics/">THE BRICS & Emerging Economies Universities Summit</a> as a representative of Russian students.
