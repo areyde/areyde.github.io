@@ -11,7 +11,7 @@ author_profile: true
 
 {% endif %}
 
-<h2>Activities in conferences</h2>
+<h2>Academic conferences</h2>
 
 <h3>Author</h3>
 
@@ -54,7 +54,7 @@ author_profile: true
 
 <hr color="#888888" size="4" noshade>
 
-<h2>Activities in journals</h2>
+<h2>Academic journals</h2>
 
 <h3>Author</h3>
 
@@ -97,7 +97,7 @@ author_profile: true
 
 <hr color="#888888" size="4" noshade>
 
-<h2>Other</h2>
+<h2>Miscellaneous</h2>
 
 <b>2016–2018</b>. For short periods of time, worked as an assistant and an engineer in the International Laboratory of Laser Micro- and Nanotechnologies, as well as a secretary in the Foreign Students office at <a href="https://en.itmo.ru/">ITMO University</a>.<br>
 <b>2016</b>. Participated in the <a href="https://areyde.com/brics/">THE BRICS & Emerging Economies Universities Summit</a> as a representative of Russian students.
