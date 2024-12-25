@@ -49,6 +49,8 @@ author_profile: true
 <h3>Awardee</h3>
 <b>2022</b>: ACM SIGSOFT Distinguished Paper Award at <a href="https://conf.researchr.org/home/msr-2022">MSR</a> (for the paper <i><a href="https://areyde.com/publications/2022-05-18-jupyter-analysis">"A Large-Scale Comparison of Python Code in Jupyter Notebooks and Scripts"</a></i>)<br>
 <b>2021</b>: Best Tool Demo Award at <a href="https://icsme2021.github.io/">ICSME</a> (for the paper <i><a href="https://areyde.com/publications/2021-09-27-sorrel">"Sorrel: an IDE Plugin for Managing Licenses and Detecting License Incompatibilities"</a></i>)<br>
+<b>2018</b>: Winner of the Contest for Getting into the Master's Program at <a href="https://kmu.itmo.ru/static/English/54/English">CYS</a> (for the talk <i><a href="https://areyde.com/files/cys2018/abstract.pdf">"The Dynamics of Laser Ablation Thresholds of Bulk and Thin-film Aluminum Targets under the Influence of Double Femtosecond Laser Pulses"</a></i>, in Russian), Gratitude Award at the Section for Highschoolers at <a href="https://kmu.itmo.ru/static/English/54/English">CYS</a> (for the talk <i><a href="https://areyde.com/files/cys2018/advisory.pdf">"Studying the Spectra of Laser-induced Plasma of Pharmaceuticals for Their Analysis"</a></i>, in Russian)<br>
+<b>2017</b>: Best Student's Talk Award at <a href="https://kmu.itmo.ru/static/English/54/English">CYS</a> (for the talk <i><a href="https://areyde.com/files/cys2017/abstract.pdf">"Laser-induced Formation of Nanostructures from Silver Films under the Influence of Nanosecond Pulses"</a></i>, in Russian)<br>
 
 <hr color="#888888" size="4" noshade>
 

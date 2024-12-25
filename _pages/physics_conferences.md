@@ -32,7 +32,7 @@ Here, I collected all my posters and short talks from such conferences.
 * <a href="https://areyde.com/files/cys2018/advisory.pdf">"Studying the Spectra of Laser-induced Plasma of Pharmaceuticals for Their Analysis"</a> (in Russian).
   _Sofia Sviridova, Ekaterina Karpova, Ivan Yakovlev, and Yaroslav Golubev_. Presented on April 20th, 2018, at [CYS'18](https://kmu.itmo.ru/static/English/54/English). 🏆 <span style="color:#ad7f00;"><b>Gratitude Award at the Section for Highschoolers</b></span> 🏆
 * <a href="https://areyde.com/files/cys2018/abstract.pdf">"The Dynamics of Laser Ablation Thresholds of Bulk and Thin-film Aluminum Targets under the Influence of Double Femtosecond Laser Pulses"</a> (in Russian).
-  _Yaroslav Golubev and Andrey Samokhvalov_. Presented on April 19th, 2018, at [CYS'18](https://kmu.itmo.ru/static/English/54/English). 🏆 <span style="color:#ad7f00;"><b>Winner of the Contest for Getting into the Master's Program Without Exams</b></span> 🏆
+  _Yaroslav Golubev and Andrey Samokhvalov_. Presented on April 19th, 2018, at [CYS'18](https://kmu.itmo.ru/static/English/54/English). 🏆 <span style="color:#ad7f00;"><b>Winner of the Contest for Getting into the Master's Program</b></span> 🏆
 
 **2017**.
 
