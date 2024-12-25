@@ -54,7 +54,7 @@ With a major in laser technologies in biological and medical applications, my la
 <h2 style="margin-top: -5px;">Hobbies 🎨</h2>
 
 My main hobby outside the realm of software engineering is [writing poetry](https://areyde.com/poetry/) (only in Russian so far). 📜
-I also love [philosophy](https://areyde.com/favourite_philosophers/) and care especially deeply about Eastern philosophy — mainly, Taoism, Buddhism, and [Ājīvika](https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika), — as well as mysticism and esotericism. 🔮
+I also love [philosophy](https://areyde.com/favourite_philosophers/) and care especially deeply about Eastern philosophy — mainly, Taoism, Buddhism, and Ājīvika, — as well as [mysticism and esotericism](https://areyde.com/eastern_studies_and_esotericism/). 🔮
 Another major love of mine is the Chinese language and sharing with people how awesome it is. 
 In addition to learning it, I love [analyzing its content, popularity, history, and evolution](https://areyde.com/chinese/). In general, 
 I am interested in all major humanitarian fields, especially linguistics and history. 🏛️
