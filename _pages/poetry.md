@@ -21,6 +21,13 @@ author_profile: true
 
 <i>P. S. Все представленные в этом сборнике стихи, хоть и написаны рукой автора, ему явно не принадлежат. Поэтому их можно 
 использовать для любых целей безо всякого указания авторства — стихи [свободны](https://creativecommons.org/publicdomain/zero/1.0/). </i>
+
+<hr color="#888888" size="4" noshade>
+
+<p style="text-align: center;"><b>2025 год. </b></p>
+
+<b><a href="https://areyde.com/poetry/2025-01-07">"Где-то железо летит на бронзу…"</a></b> — 07.01.2025
+
 <hr color="#888888" size="4" noshade>
 
 <p style="text-align: center;"><b>2024 год был годом растерянности и пророчества. </b></p>
