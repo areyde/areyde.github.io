@@ -15,7 +15,7 @@ author_profile: true
 
 <h3>Author</h3>
 
-<b>2025</b>: <a href="https://conf.researchr.org/home/icse-2025">ICSE</a>, <a href="https://conf.researchr.org/home/saner-2025">SANER</a>, <a href="https://sigcse2025.sigcse.org/track/sigcse-ts-2025-tutorials#event-overview">SIGCSE</a><br>
+<b>2025</b>: <a href="https://conf.researchr.org/home/icse-2025">ICSE</a>, <a href="https://conf.researchr.org/home/msr-2025">MSR</a>, <a href="https://conf.researchr.org/home/saner-2025">SANER</a>, <a href="https://sigcse2025.sigcse.org/track/sigcse-ts-2025-tutorials#event-overview">SIGCSE</a><br>
 <b>2024</b>: <a href="https://icer2024.acm.org/track/icer-2024-lightning-talks-and-posters">ICER</a>, <a href="https://www.kolicalling.fi/">Koli Calling</a><br>
 <b>2023</b>: <a href="https://conf.researchr.org/home/ase-2023">ASE</a>, <a href="https://conf.researchr.org/home/esem-2023">ESEM</a>, <a href="https://conf.researchr.org/home/icse-2023">ICSE</a>, <a href="https://iticse.acm.org/2023/">ITiCSE</a>, <a href="https://conf.researchr.org/home/msr-2023">MSR</a>, <a href="https://www.ppig.org/workshops/2023-annual-workshop/call-for-papers/">PPIG</a><br>
 <b>2022</b>: <a href="https://conf.researchr.org/home/ase-2022">ASE</a>, <a href="https://2022.esec-fse.org/">ESEC/FSE</a>, <a href="https://conf.researchr.org/home/msr-2022">MSR</a>, <a href="https://saner2022.uom.gr/">SANER</a><br>
