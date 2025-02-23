@@ -11,5 +11,7 @@ author_profile: true
 
 <hr color="#888888" size="4" noshade>
 
+<b><a href="https://areyde.com/notes/2025-02-23">О роли безличности в истории</a></b> — 23.02.2025
+
 <b><a href="https://areyde.com/notes/2024-08-31">О внутренних алтарях</a></b> — 31.08.2024
 
