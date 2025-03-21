@@ -5,7 +5,7 @@
     </clipPath>
   </defs>
   <g clip-path="url(#a)" transform="translate(-32) scale(.53333)">
-    <path fill="#eee" d="M0 0h1350v900H0z"/>
+    <path fill="#ddd" d="M0 0h1350v900H0z"/>
     <path fill="#0c4076" d="M0 0h1350v600H0z"/>
     <path fill="#c6363c" d="M0 0h1350v300H0z"/>
     <g transform="matrix(1 0 0 1.00437 0 -.3)">
