@@ -14,7 +14,6 @@ anything except for a ukulele). Since this coincided with my most care-free yout
 to travel by myself for the first time, I remember those summers with love!
 
 * <b>2018</b>: <a href="https://www.cccpioner.com/">"Pioner"</a> summer camp, musical director.
-* <b>2017</b>: <a href="https://www.caravel.ru/index.php">"Karavella"</a> summer camp, camp counselor for 12–13-year-olds.
-* <b>2016</b>: <a href="https://www.caravel.ru/index.php">"Karavella"</a> summer camp, camp counselor for 10–12-year-olds.
+* <b>2016–2017</b>: <a href="https://www.caravel.ru/index.php">"Karavella"</a> summer camp, camp counselor.
 
 <img src="/images/summer_camp_me.jpg">
