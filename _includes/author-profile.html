@@ -20,7 +20,7 @@
   </div>
 
   <div class="author__urls-wrapper">
-    <button class="btn btn--inverse">Follow</button>
+    <button class="btn btn--inverse">More information</button>
     <ul class="author__urls social-icons">
       {% if author.position %}
         <li><i class="fa fa-fw fa-user" aria-hidden="true"></i> {{ author.position }}</li>
@@ -123,6 +123,15 @@
 {% endif %}
       {% if author.instagram %}
       <li><a href="https://instagram.com/{{ author.instagram }}"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
+      {% endif %}
+      {% if author.russian %}
+      <li style="margin-top:17px;"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> {{ author.russian }}</li>
+      {% endif %}
+      {% if author.chinese %}
+      <li><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> {{ author.chinese }}</li>
+      {% endif %}
+      {% if author.serbian %}
+      <li><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> {{ author.serbian }}</li>
       {% endif %}
     </ul>
   </div>
