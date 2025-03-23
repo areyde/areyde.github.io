@@ -27,63 +27,63 @@
       <li><i class="flag-icon flag-icon-rus" aria-hidden="true"></i>&nbsp&nbsp{{ author.russian }}</li>
       {% endif %}
       {% if author.serbian %}
-      <li><i class="flag-icon flag-icon-srb" aria-hidden="true"></i>  {{ author.serbian }}</li>
+      <li><i class="flag-icon flag-icon-srb" aria-hidden="true"></i>&nbsp&nbsp{{ author.serbian }}</li>
       {% endif %}
       {% if author.chinese %}
-      <li style="margin-bottom:17px;"><i class="flag-icon flag-icon-chn" aria-hidden="true"></i>  {{ author.chinese }}</li>
+      <li style="margin-bottom:17px;"><i class="flag-icon flag-icon-chn" aria-hidden="true"></i>&nbsp&nbsp{{ author.chinese }}</li>
       {% endif %}
 
       {% if author.position %}
-        <li><i class="fa fa-fw fa-user" aria-hidden="true"></i>  {{ author.position }}</li>
+        <li><i class="fa fa-fw fa-user" aria-hidden="true"></i>&nbsp&nbsp{{ author.position }}</li>
       {% endif %}
       {% if author.employer %}
-        <li><i class="fa fa-fw fa-briefcase" aria-hidden="true"></i>  {{ author.employer }}</li>
+        <li><i class="fa fa-fw fa-briefcase" aria-hidden="true"></i>&nbsp&nbsp{{ author.employer }}</li>
       {% endif %}
       {% if author.location %}
-        <li ><i class="fa fa-fw fa-map-marked-alt" aria-hidden="true"></i>  {{ author.location }}</li>
+        <li ><i class="fa fa-fw fa-map-marked-alt" aria-hidden="true"></i>&nbsp&nbsp{{ author.location }}</li>
       {% endif %}
       {% if author.email %}
-      <li style="margin-bottom:10px;"><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i>  Email (click) </a></li>
+      <li style="margin-bottom:10px;"><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i>&nbsp&nbspEmail (click) </a></li>
       {% endif %}
         <li style="margin-bottom:10px; text-align: center"><b>Links to profiles</b></li>
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
       {% if author.twitter %}
-      <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i> Twitter</a></li>
+      <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i>&nbsp&nbspTwitter</a></li>
       {% endif %}
       {% if author.keybase %}
-      <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
+      <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i>&nbsp&nbspKeybase</a></li>
       {% endif %}
       {% if author.facebook %}
-      <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+      <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i>&nbsp&nbspFacebook</a></li>
       {% endif %}
       {% if author.google_plus %}
-      <li><a href="https://plus.google.com/+{{ author.google_plus }}"><i class="fab fa-fw fa-google-plus" aria-hidden="true"></i> Google+</a></li>
+      <li><a href="https://plus.google.com/+{{ author.google_plus }}"><i class="fab fa-fw fa-google-plus" aria-hidden="true"></i>&nbsp&nbspGoogle+</a></li>
       {% endif %}
       {% if author.linkedin %}
-      <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
+      <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i>&nbsp&nbspLinkedIn</a></li>
       {% endif %}
       {% if author.xing %}
-      <li><a href="https://www.xing.com/profile/{{ author.xing }}"><i class="fab fa-fw fa-xing-square" aria-hidden="true"></i> XING</a></li>
+      <li><a href="https://www.xing.com/profile/{{ author.xing }}"><i class="fab fa-fw fa-xing-square" aria-hidden="true"></i>&nbsp&nbspXING</a></li>
       {% endif %}
       {% if author.github %}
-      <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+      <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i>&nbsp&nbspGitHub</a></li>
       {% endif %}
       {% if author.tumblr %}
-      <li><a href="https://{{ author.tumblr }}.tumblr.com"><i class="fab fa-fw fa-tumblr-square" aria-hidden="true"></i> Tumblr</a></li>
+      <li><a href="https://{{ author.tumblr }}.tumblr.com"><i class="fab fa-fw fa-tumblr-square" aria-hidden="true"></i>&nbsp&nbspTumblr</a></li>
       {% endif %}
       {% if author.googlescholar %}
-      <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar ai-fw"></i> Google Scholar</a></li>
+      <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar ai-fw"></i>&nbsp&nbspGoogle Scholar</a></li>
       {% endif %}
       {% if author.dblp %}
-      <li><a href="{{ author.dblp }}"><i class="ai ai-dblp ai-fw"></i> dblp</a></li>
+      <li><a href="{{ author.dblp }}"><i class="ai ai-dblp ai-fw"></i>&nbsp&nbspdblp</a></li>
       {% endif %}
       {% if author.researchgate %}
-      <li><a href="{{ author.researchgate }}"><i class="ai ai-researchgate ai-fw" aria-hidden="true"></i> ResearchGate</a></li>
+      <li><a href="{{ author.researchgate }}"><i class="ai ai-researchgate ai-fw" aria-hidden="true"></i>&nbsp&nbspResearchGate</a></li>
       {% endif %}
       {% if author.orcid %}
-      <li><a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw"></i> ORCID</a></li>
+      <li><a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw"></i>&nbsp&nbspORCID</a></li>
       {% endif %}
       {% if author.bitbucket %}
         <li><a href="https://bitbucket.org/{{ author.bitbucket }}"><i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
@@ -134,7 +134,7 @@
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
 {% endif %}
       {% if author.instagram %}
-      <li><a href="https://instagram.com/{{ author.instagram }}"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
+      <li><a href="https://instagram.com/{{ author.instagram }}"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i>&nbsp&nbspInstagram</a></li>
       {% endif %}
     </ul>
   </div>
