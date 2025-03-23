@@ -22,6 +22,7 @@
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Details</button>
     <ul class="author__urls social-icons">
+      <li style="margin-bottom:17px; text-align: center"><b>Personal information</b></li>
       {% if author.russian %}
       <li><i class="flag-icon flag-icon-rus" aria-hidden="true"></i> {{ author.russian }}</li>
       {% endif %}
@@ -41,7 +42,7 @@
       {% if author.location %}
         <li style="margin-bottom:17px;"><i class="fa fa-fw fa-map-marked-alt" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
-        <li style="margin-bottom:17px; text-align: center">Links</li>
+        <li style="margin-bottom:17px; text-align: center"><b>Links</b></li>
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
