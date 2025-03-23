@@ -22,7 +22,7 @@
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Details</button>
     <ul class="author__urls social-icons">
-      <li style="margin-bottom:10px; text-align: center"><b>Personal information</b></li>
+      <li style="margin-bottom:12px; text-align: center"><b>Personal information</b></li>
       {% if author.russian %}
       <li><i class="flag-icon flag-icon-rus" aria-hidden="true"></i>&nbsp&nbsp{{ author.russian }}</li>
       {% endif %}
@@ -30,7 +30,7 @@
       <li><i class="flag-icon flag-icon-srb" aria-hidden="true"></i>&nbsp&nbsp{{ author.serbian }}</li>
       {% endif %}
       {% if author.chinese %}
-      <li style="margin-bottom:17px;"><i class="flag-icon flag-icon-chn" aria-hidden="true"></i>&nbsp&nbsp{{ author.chinese }}</li>
+      <li style="margin-bottom:12px;"><i class="flag-icon flag-icon-chn" aria-hidden="true"></i>&nbsp&nbsp{{ author.chinese }}</li>
       {% endif %}
 
       {% if author.position %}
@@ -43,9 +43,9 @@
         <li ><i class="fa fa-fw fa-map-marked-alt" aria-hidden="true"></i>&nbsp&nbsp{{ author.location }}</li>
       {% endif %}
       {% if author.email %}
-      <li style="margin-bottom:10px;"><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i>&nbsp&nbspEmail (click) </a></li>
+      <li style="margin-bottom:12px;"><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i>&nbsp&nbspEmail (click) </a></li>
       {% endif %}
-        <li style="margin-bottom:10px; text-align: center"><b>Links to profiles</b></li>
+        <li style="margin-bottom:12px; text-align: center"><b>Links to profiles</b></li>
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
