@@ -26,6 +26,8 @@ author_profile: true
 
 <p style="text-align: center;"><b>2025 год. </b></p>
 
+<b><a href="https://areyde.com/poetry/2025-04-08">"Золото, персики, цвет Самарканда…"</a></b> — 08.04.2025
+
 <b><a href="https://areyde.com/poetry/2025-03-13">"Что делать, если в мире — боль…"</a></b> — 13.03.2025
 
 <b><a href="https://areyde.com/poetry/2025-02-28">"Реет весна. Расцветают акации…"</a></b> — 28.02.2025
