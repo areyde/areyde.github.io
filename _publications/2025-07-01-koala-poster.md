@@ -6,6 +6,7 @@ collection: publications
 permalink: /publications/2025-07-01-koala-poster
 date: 2025-07-01
 venue: "<b>ITiCSE'25</b>"
+pdf: "https://www.researchgate.net/publication/391076087_KOALA_Customizable_IDE_Data_Collection_Tool"
 tool: 'https://github.com/JetBrains-Research/tasktracker-3'
 level: 'A'
 counter_id: 'C34'
