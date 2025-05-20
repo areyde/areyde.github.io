@@ -26,7 +26,7 @@
       </div>
     {% endif %}
 
-    {% if post.collection == 'publications' or post.collection == 'publicationsphysics' %}
+    {% if post.collection == 'publications' or post.collection == 'publicationsphysics' or post.collection == 'publicationsphilosophy' %}
       {% if post.status == "preprint" %}
       <h3 class="archive__item-title" itemprop="headline" style="line-height: 150%; margin-bottom:-18px">
         {% if post.link %}
@@ -62,7 +62,7 @@
 
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%month, %Y" }} </p>
-        {% elsif post.collection == 'publications' or post.collection == 'publicationsphysics' %}
+        {% elsif post.collection == 'publications' or post.collection == 'publicationsphysics' or post.collection == 'publicationsphilosophy' %}
           {% if post.status == "accepted" %}
           <p style="padding-top:0; margin-bottom:9px;"> {{ post.authors }} <br>
             <b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Accepted to {{ post.venue }}{% if post.level %} <span style="color:#888888;">({{ post.level }})</span>{% endif %}{% if post.language %}<span style="color:#888888;">, in </span><span style="color:#888888; font-weight: bold;">{{ post.language }}</span>{% endif %}. <span style="color:#ad7f00;"><b>{{ post.award }}</b></span></p>

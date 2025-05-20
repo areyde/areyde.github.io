@@ -15,7 +15,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<h2 >Laser Technologies</h2>
+<h2>Chinese Philosophy</h2>
+
+{% for post in site.publicationsphilosophy reversed %}
+{% include archive-single.html %}
+{% endfor %}
+
+<h2>Laser Technologies</h2>
 
 {% for post in site.publicationsphysics reversed %}
   {% include archive-single.html %}

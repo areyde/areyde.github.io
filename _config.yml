@@ -186,6 +186,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  publicationsphilosophy:
+    output: true
+    permalink: /:collection/:path/
   publicationsphysics:
     output: true
     permalink: /:collection/:path/
@@ -239,6 +242,15 @@ defaults:
   - scope:
       path: ""
       type: publicationsphysics
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _publicationsphilosophy
+  - scope:
+      path: ""
+      type: publicationsphilosophy
     values:
       layout: single
       author_profile: true
