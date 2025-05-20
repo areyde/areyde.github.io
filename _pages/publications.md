@@ -9,19 +9,25 @@ author_profile: true
 
 <p style="margin-bottom: -10px; padding-bottom: 0; color: #888888"><i><b>C</b> — Conference papers. <b>J</b> — Journal papers. <b>T</b> — Theses. <b>P</b> — Pre-prints.</i></p>
 
-<h2 >Software Engineering</h2>
+<ul>
+    <li><a href="#se"><b>Software Engineering</b></a></li>
+    <li><a href="#philosophy"><b>Chinese Philosophy</b></a></li>
+    <li><a href="#physics"><b>Laser Technologies</b></a></li>
+</ul>
+
+<h2 id="se">Software Engineering</h2>
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-<h2>Chinese Philosophy</h2>
+<h2 id="philosophy">Chinese Philosophy</h2>
 
 {% for post in site.publicationsphilosophy reversed %}
 {% include archive-single.html %}
 {% endfor %}
 
-<h2>Laser Technologies</h2>
+<h2 id="physics">Laser Technologies</h2>
 
 {% for post in site.publicationsphysics reversed %}
   {% include archive-single.html %}
