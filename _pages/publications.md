@@ -9,7 +9,7 @@ author_profile: true
 
 <p style="margin-bottom: -5px; padding-bottom: 0; color: #888888"><i><b>C</b> — Conference papers. <b>J</b> — Journal papers. <b>T</b> — Theses. <b>P</b> — Pre-prints.</i></p>
 
-<p style="margin-bottom: -5px;">Contents:</p>
+<p style="margin-bottom: -5px;"><b>Contents:</b></p>
 <ul>
     <li><a href="#se"><b>Software Engineering</b></a></li>
     <li><a href="#philosophy"><b>Chinese Philosophy</b></a></li>
