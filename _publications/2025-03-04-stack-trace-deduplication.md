@@ -1,12 +1,13 @@
 ---
 title: "Stack Trace Deduplication: Faster, More Accurately, and in More Realistic Scenarios"
 authors: '<i>Egor Shibaev, Denis Sushentsev, Yaroslav Golubev, and Aleksandr Khvorov</i>'
-status: "accepted"
+status: "published"
 collection: publications
 permalink: /publications/2025-03-04-stack-trace-deduplication
 date: 2025-03-04
-venue: "<b>SANER'25</b>"
+venue: "the proceedings of <b>SANER'25</b>"
 level: "A"
+paperurl: "https://doi.org/10.1109/SANER64311.2025.00054"
 pdf: 'https://arxiv.org/abs/2412.14802'
 data: 'https://zenodo.org/records/14364858'
 tool: 'https://github.com/JetBrains-Research/stack-trace-deduplication'
