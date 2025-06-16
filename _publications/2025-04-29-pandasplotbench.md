@@ -1,12 +1,13 @@
 ---
 title: "Drawing Pandas: A Benchmark for LLMs in Generating Plotting Code"
 authors: '<i>Timur Galimzyanov, Sergey Titov, Yaroslav Golubev, and Egor Bogomolov</i>'
-status: "accepted"
+status: "published"
 collection: publications
 permalink: /publications/2025-04-29-pandasplotbench
 date: 2025-04-29
-venue: "<b>MSR'25</b>"
+venue: "the proceedings of <b>MSR'25</b>"
 level: "A"
+paperurl: "https://doi.org/10.1109/MSR66628.2025.00083"
 pdf: 'https://arxiv.org/abs/2412.02764'
 data: 'https://huggingface.co/datasets/JetBrains-Research/plot_bench'
 tool: 'https://github.com/JetBrains-Research/PandasPlotBench'
