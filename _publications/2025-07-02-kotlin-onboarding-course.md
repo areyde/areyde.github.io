@@ -1,11 +1,12 @@
 ---
 title: "Blending Project-Based and in-IDE Learning: The Kotlin Onboarding Course for Enhanced Programming Skills"
 authors: '<i>Anastasiia Birillo, Ilya Vlasov, and Yaroslav Golubev</i>'
-status: "accepted"
+status: "published"
 collection: publications
 permalink: /publications/2025-07-02-kotlin-onboarding-course
 date: 2025-07-02
-venue: "<b>ITiCSE'25</b>"
+venue: "the proceedings of <b>ITiCSE'25</b>"
+paperurl: "https://doi.org/10.1145/3724389.3731263"
 data: 'https://plugins.jetbrains.com/plugin/21067-kotlin-onboarding-introduction'
 pdf: "https://www.researchgate.net/publication/391076744_Blending_Project-Based_and_in-IDE_Learning_The_Kotlin_Onboarding_Course_for_Enhanced_Programming_Skills"
 level: 'A'
