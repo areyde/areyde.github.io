@@ -41,7 +41,8 @@ author_profile: true
 
 <h3>Organizer</h3>
 
-<b>2025</b>: <a href="https://ide-workshop.github.io/">IDE</a> (Proceedings & Web Chair) <br>
+<b>2026</b>: <a href="https://ide-workshop.github.io/">IDE</a> (General Chair) <br>
+<b>2025</b>: <a href="https://jetbrains-research.github.io/ase2025-context-collection-workshop/">Context Collection Workshop</a> (Proceedings Chair), <a href="https://ide-workshop.github.io/content/ide-2025.html">IDE</a> (Proceedings & Web Chair) <br>
 <b>2024</b>: <a href="https://ide-workshop.github.io/content/ide-2024.html">IDE</a> (Co-Creator, Proceedings & Web Chair) <br>
 <b>2021</b>: <a href="https://iwor.github.io/iwor2021/index.html">IWoR</a> (Proceedings Chair)<br>
 <b>2016</b>: <a href="http://lpc.ifmo.ru/flamn16/">FLAMN</a> (Volunteer)
