@@ -37,6 +37,10 @@ jobs:
         env:
           SCHOLAR_USER_ID: "qb_dl6AAAAAJ"   # <-- put your Scholar ID here
 
+      - name: Set up authenticated git remote
+        run: |
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+
       - name: Commit & push if data changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
@@ -44,6 +48,6 @@ jobs:
           branch: master  # or 'main'
           commit_user_name: github-actions[bot]
           commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
-          push_options: '--force'
+          push_options: --force
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
