@@ -75,23 +75,32 @@ def fetch_citations_with_retries(user_id: str,
 def main() -> None:
     total = fetch_citations_with_retries(SCHOLAR_USER_ID)
 
+    # Re-fetch with 'filled=True' now that we're using a working proxy
+    logging.info("Fetching full profile for h-index…")
+    profile = scholarly.search_author_id(SCHOLAR_USER_ID, filled=True)
+    h_index = profile.get("hindex", 0)
+
+    # Prepare new data
+    new_data = {"total": total, "h_index": h_index}
+
     # Ensure _data directory exists
     CITATION_YAML.parent.mkdir(parents=True, exist_ok=True)
 
-    # Read current value if the YAML file exists
-    current = {}
+    # Load current file if exists
+    old_data = {}
     if CITATION_YAML.exists():
-        current = yaml.safe_load(CITATION_YAML.read_text()) or {}
+        old_data = yaml.safe_load(CITATION_YAML.read_text()) or {}
 
-    # Only write when the number actually changes
-    if current.get("total") == total:
-        logging.info("Citation count unchanged (%s) – nothing to commit.", total)
+    # Check if anything actually changed
+    if old_data.get("total") == total and old_data.get("h_index") == h_index:
+        logging.info("Citation data unchanged – nothing to commit.")
         return
 
+    # Save updated YAML
     CITATION_YAML.write_text(
-        yaml.dump({"total": total}, sort_keys=False, default_flow_style=False)
+        yaml.dump(new_data, sort_keys=False, default_flow_style=False)
     )
-    logging.info("Updated _data/citations.yml → total: %s", total)
+    logging.info("Updated _data/citations.yml → %s", new_data)
 
 if __name__ == "__main__":
     main()
