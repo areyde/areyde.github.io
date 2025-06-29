@@ -35,13 +35,12 @@ jobs:
       - name: Scrape Google Scholar & update _data file
         run: python .github/workflows/update_citations.py
         env:
-          SCHOLAR_USER_ID: "D5Fw5_AAAAAJ"   # <-- put your Scholar ID here
+          SCHOLAR_USER_ID: "qb_dl6AAAAAJ"   # <-- put your Scholar ID here
 
       - name: Commit & push if data changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: refresh citation count [skip ci]"
-          no_push: false
-          branch: ${{ github.ref }}
+          branch: master                      # or 'main', depending on your repo
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
