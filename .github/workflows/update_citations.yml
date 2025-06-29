@@ -22,11 +22,14 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
+      - name: Install dependencies (with proxy-safe httpx)
         run: |
           python -m pip install --quiet "httpx<0.24" scholarly PyYAML
-          python -m pip install --quiet scholarly PyYAML
-          python -c "import httpx, scholarly, sys; print('httpx', httpx.__version__, '| scholarly', scholarly.__version__)"
+
+      - name: Print versions for debug
+        run: |
+          python -c "import httpx; print('httpx version:', httpx.__version__)"
+          python -c "import scholarly; print('scholarly imported OK')"
 
 
       - name: Scrape Google Scholar & update _data file
