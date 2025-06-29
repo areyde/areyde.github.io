@@ -23,6 +23,7 @@ def get_citations_with_retries(user_id, attempts=8, wait=3):
     raise RuntimeError("All proxies failed or Google blocked us")
 
 def main():
+    user_id = os.environ["SCHOLAR_USER_ID"].strip()
     total = get_citations_with_retries(user_id)
 
     # Path to Jekyll data file
