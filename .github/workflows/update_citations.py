@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import os, yaml, pathlib
-from scholarly import scholarly, ProxyGenerator
-import logging, time
+import logging, time, random
+from scholarly import scholarly, ProxyGenerator, ProxyGeneratorError
 
 logging.basicConfig(level=logging.INFO)
 
