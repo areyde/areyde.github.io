@@ -7,7 +7,9 @@ USER_ID = os.environ["SCHOLAR_USER_ID"].strip()
 def fetch_citations_with_retries(user_id, max_attempts=10, wait_max_sec=4):
     """Try up to `max_attempts` proxies before giving up."""
     pg = ProxyGenerator()
-    pg.FreeProxies(rand=True, n=max_attempts)   # get exactly that many
+    pg.FreeProxies()
+    random.shuffle(pg.proxy_list)
+    pg.proxy_list = pg.proxy_list[:max_attempts]
     scholarly.use_proxy(pg)
 
     for attempt in range(1, max_attempts + 1):
