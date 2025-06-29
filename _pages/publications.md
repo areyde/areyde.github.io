@@ -16,6 +16,8 @@ author_profile: true
     <li><a href="#physics"><b>Laser Technologies</b></a></li>
 </ul>
 
+<p>{{ site.data.citations.total }}</p>
+
 <h2 id="se">Software Engineering</h2>
 
 {% for post in site.publications reversed %}
