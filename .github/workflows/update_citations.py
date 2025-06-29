@@ -1,51 +1,97 @@
-import os, random, time, logging, yaml, pathlib
-from scholarly import scholarly, ProxyGenerator
+#!/usr/bin/env python
+"""
+update_citations.py  ·  GitHub Actions helper for Jekyll
 
-logging.basicConfig(level=logging.INFO)
-USER_ID = os.environ["SCHOLAR_USER_ID"].strip()
+• Fetches total citation count from Google Scholar
+• Retries through a small pool of free HTTPS proxies
+• Updates _data/citations.yml only when the number changes
+"""
 
-def fetch_citations_with_retries(user_id, max_attempts=10, wait_max_sec=4):
-    """Try up to `max_attempts` proxies before giving up."""
-    pg = ProxyGenerator()
-    pg.FreeProxies()
-    random.shuffle(pg.proxy_list)
-    pg.proxy_list = pg.proxy_list[:max_attempts]
-    scholarly.use_proxy(pg)
+import logging
+import os
+import pathlib
+import random
+import time
 
-    for attempt in range(1, max_attempts + 1):
+import requests
+import yaml
+from scholarly import ProxyGenerator, scholarly
+
+# ──────────────────────────── configuration ──────────────────────────── #
+
+MAX_ATTEMPTS      = 10          # how many different proxies to try
+WAIT_MAX_SEC      = 4           # max random sleep between retries
+PROXY_SOURCE_URL  = "https://www.proxy-list.download/api/v1/get?type=https"
+CITATION_YAML     = pathlib.Path("_data/citations.yml")
+SCHOLAR_USER_ID   = os.environ["SCHOLAR_USER_ID"].strip()
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(levelname)s:%(name)s:%(message)s",
+)
+
+# ──────────────────────────── helpers ────────────────────────────────── #
+
+def fetch_free_proxies(n: int) -> list[str]:
+    """Return up to `n` random HTTPS proxy strings (“host:port”)."""
+    logging.info("Fetching free proxy list…")
+    resp = requests.get(PROXY_SOURCE_URL, timeout=10)
+    resp.raise_for_status()
+    proxies = [line.strip() for line in resp.text.splitlines() if line.strip()]
+    random.shuffle(proxies)
+    return proxies[:n]
+
+def fetch_citations_with_retries(user_id: str,
+                                 max_attempts: int = MAX_ATTEMPTS,
+                                 wait_max_sec: int = WAIT_MAX_SEC) -> int:
+    """Try multiple proxies until we get the total citation count."""
+    proxies = fetch_free_proxies(max_attempts)
+
+    for attempt, proxy_str in enumerate(proxies, 1):
         try:
-            logging.info("Attempt %d/%d", attempt, max_attempts)
-            profile = scholarly.search_author_id(user_id)   # filled=False (lighter)
-            return profile["citedby"]
-        except AttributeError as e:
-            # CAPTCHA or page layout failure
-            logging.warning("Blocked/captcha: %s", e)
-        except Exception as e:
-            logging.warning("Proxy error: %s", e)
+            logging.info("Attempt %d/%d via %s", attempt, max_attempts, proxy_str)
+            proxy = ProxyGenerator()
+            proxy.SingleProxy(http=proxy_str, https=proxy_str)
+            scholarly.use_proxy(proxy)
 
-        scholarly.use_proxy(pg)                      # rotate to next proxy
+            profile = scholarly.search_author_id(user_id)   # filled=False by default
+            total = profile["citedby"]
+            logging.info("Success! Total citations = %s", total)
+            return total
+
+        except AttributeError as e:       # CAPTCHA / unexpected HTML
+            logging.warning("Blocked (CAPTCHA?) – %s", e)
+        except Exception as e:            # proxy failure, network error, etc.
+            logging.warning("Proxy error – %s", e)
+
         sleep = random.uniform(1, wait_max_sec)
-        logging.info("Sleeping %.1fs and trying next proxy…", sleep)
+        logging.info("Sleeping %.1fs before next proxy…", sleep)
         time.sleep(sleep)
 
-    raise RuntimeError("All proxies failed — Google still blocking us")
+    raise RuntimeError("All proxies failed – Google still blocking us")
 
-def main():
-    total = fetch_citations_with_retries(USER_ID)
+# ──────────────────────────── main routine ───────────────────────────── #
 
-    data_path = pathlib.Path("_data/citations.yml")
-    data_path.parent.mkdir(exist_ok=True)
+def main() -> None:
+    total = fetch_citations_with_retries(SCHOLAR_USER_ID)
 
+    # Ensure _data directory exists
+    CITATION_YAML.parent.mkdir(parents=True, exist_ok=True)
+
+    # Read current value if the YAML file exists
     current = {}
-    if data_path.exists():
-        current = yaml.safe_load(data_path.read_text()) or {}
+    if CITATION_YAML.exists():
+        current = yaml.safe_load(CITATION_YAML.read_text()) or {}
 
+    # Only write when the number actually changes
     if current.get("total") == total:
-        logging.info("Citation count unchanged: %s", total)
+        logging.info("Citation count unchanged (%s) – nothing to commit.", total)
         return
 
-    data_path.write_text(yaml.dump({"total": total}, default_flow_style=False))
-    logging.info("Updated citation count to %s", total)
+    CITATION_YAML.write_text(
+        yaml.dump({"total": total}, sort_keys=False, default_flow_style=False)
+    )
+    logging.info("Updated _data/citations.yml → total: %s", total)
 
 if __name__ == "__main__":
     main()

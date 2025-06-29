@@ -24,7 +24,7 @@ jobs:
 
       - name: Install dependencies (with proxy-safe httpx)
         run: |
-          python -m pip install --quiet "httpx<0.24" scholarly PyYAML
+          python -m pip install --quiet "httpx<0.24" scholarly requests PyYAML
 
       - name: Print versions for debug
         run: |
