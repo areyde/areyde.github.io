@@ -51,6 +51,9 @@ Before my work in software engineering, I used to [do research](https://areyde.c
 While I did not get far, my studies related to laser-matter interaction, specifically, laser irradiation with ultra-short (femtosecond) pulses. 
 With a major in laser technologies in biological and medical applications, my last studies were dedicated to combatting viruses, as well as creating colloidal solutions of nanoparticles with antibacterial properties. 🧫
 
+<a href="https://scholar.google.com/citations?user=qb_dl6AAAAAJ&hl=en">Google Scholar</a> says I have <b>{{ site.data.citations.total }}</b> citations and an h-index of <b>{{ site.data.citations.h_index }}</b>. Cool! (I wrote this scraper and want to use i to the fullest!) 🤓
+
+
 <h2 style="margin-top: -5px;">Hobbies 🎨</h2>
 
 My main hobby (and a calling, I hope) outside the realm of software engineering is [writing poetry](https://areyde.com/poetry/) (only in Russian so far). 📜
