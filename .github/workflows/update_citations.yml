@@ -24,6 +24,7 @@ jobs:
 
       - name: Install dependencies
         run: |
+          python -m pip install --quiet "httpx<1.0" scholarly PyYAML
           python -m pip install --quiet scholarly PyYAML
 
       - name: Scrape Google Scholar & update _data file
