@@ -43,4 +43,4 @@ jobs:
           commit_message: "chore: refresh citation count [skip ci]"
           branch: master                      # or 'main', depending on your repo
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
