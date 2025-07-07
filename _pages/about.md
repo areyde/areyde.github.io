@@ -11,9 +11,9 @@ My name is Yaroslav Golubev, I am a research administrator and a data analyst at
 [JetBrains Research](https://research.jetbrains.org/), led by [Dr. Timofey Bryksin](https://jzuken.github.io/). 
 I also enjoy philosophy, linguistics, history, Chinese language and culture, and writing poetry. Feel free to [drop me a line](mailto:yaroslav.golubev[at]jetbrains.com)! ✍️
 
-<h2 style="margin-top: -5px;">Background 🖼️</h2>
+<h2 style="margin-top: -5px;">Background & Education 🖼️</h2>
 
-Born and raised in Saint Petersburg. ⚓
+Born and raised in Saint Petersburg, Russia. ⚓
 
 In 2018, I obtained a Bachelor's degree in <b>Applied Physics</b> 👨‍🔬 from [ITMO University](https://en.itmo.ru/), with a major in laser
 technologies, and planned to become a researcher. While there, I worked as a lab assistant, a guide in the educational museum of optics, as well as a
@@ -26,7 +26,13 @@ with a major in biological and medical applications. During the first year, I wo
 
 In 2025, I obtained a Bachelor's degree with honors in <b>Philosophy</b> 💭 from [Herzen University](https://en.hspu.org/), focusing on Chinese philosophy. I studied
 Taoism a lot, especially Zhuangzi, and conducted research about the concept of relativity in ancient Taoist texts. 
-I also [helped out as an assistant](https://areyde.com/eastern_studies_and_esotericism/)  in research centers dedicated to Eastern culture, mysticism, and esotericism, as well as helped organize and conduct several scientific conferences. ☯️
+I also [helped out as an assistant](https://areyde.com/eastern_studies_and_esotericism/)  in research centers dedicated to Eastern culture, esotericism, and mysticism.
+In 2022, I moved to the lovely Belgrade, Serbia, and thus finished my education remotely. 🏰
+
+Since 2025, I am getting a Master's degree in <b>Religious Studies</b> 🛐 from the [Russian Christian Academy for Humanities](https://rhga.ru/?siteLang=en), with a major
+in mystical and esoteric teachings. I am planning to carry out research about esoteric teachings within Russian emigration in Yugoslavia
+a hundred years ago. I also became a member of the [Association for the Study of Esotericism and Mysticism](https://aiem-asem.org/maineng)
+and still help out with organizing seminars and scientific conferences. 🔮
 
 <h2 style="margin-top: -5px;">Research 🔬</h2>
 
@@ -57,7 +63,8 @@ With a major in laser technologies in biological and medical applications, my la
 <h2 style="margin-top: -5px;">Hobbies 🎨</h2>
 
 My main hobby (and a calling, I hope) outside the realm of software engineering is [writing poetry](https://areyde.com/poetry/) (only in Russian so far). 📜
-As can be seen from my further education, I also love [philosophy](https://areyde.com/favourite_philosophers/) and care especially deeply about Eastern philosophy — Taoism, Buddhism, and Ājīvika, — as well as mysticism and esotericism. 🔮
+As evident from my education, I also love [philosophy](https://areyde.com/favourite_philosophers/) and care especially deeply about Eastern philosophy 
+— Taoism, Buddhism, Jainism, and Ājīvika, — as well as various religious movements all over the world. 📿
 Another major love of mine is the Chinese language and sharing with people how awesome it is. 
 In addition to learning it, I love [analyzing its content, popularity, history, and evolution](https://areyde.com/chinese/). In general, 
 I am interested in all major humanitarian fields, especially linguistics and history. 🏛️
