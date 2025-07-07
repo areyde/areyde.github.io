@@ -32,7 +32,7 @@ In 2022, I moved to the lovely Belgrade, Serbia, and thus finished my education 
 Since 2025, I am getting a Master's degree in <b>Religious Studies</b> 🛐 from the [Russian Christian Academy for Humanities](https://rhga.ru/?siteLang=en), with a major
 in studying mystical and esoteric teachings. I am planning to carry out research about esoteric movements within Russian emigration in Yugoslavia
 a hundred years ago. I also became a member of the [Association for the Study of Esotericism and Mysticism](https://aiem-asem.org/maineng)
-and still help out with organizing seminars and scientific conferences. 🔮
+and still help out with organizing seminars and scientific conferences there. 🔮
 
 <h2 style="margin-top: -5px;">Research 🔬</h2>
 
