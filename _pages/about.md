@@ -36,7 +36,7 @@ and still help out with organizing seminars and scientific conferences there. �
 
 <h2 style="margin-top: -5px;">Research 🔬</h2>
 
-<h3 style="margin-top: -2px;">Software Engineering & AI</h3>
+<h3 style="margin-top: -1px;">Software Engineering & AI</h3>
 
 While I used to carry out research of my own, I realized that I enjoy helping other people more, and became a <b>research administrator</b>, with the goal of supporting other researchers, both administratively and academically. 🤝
 Nowadays, I mostly assist in different stages of projects, from planning to writing. Throughout the years, this enabled me to touch on [all kinds of subjects](https://areyde.com/publications/), including serverless computing, embeddings of code, Jupyter notebooks, code completion, code quality, computer science education, psychology of programming, and others.
@@ -55,16 +55,18 @@ to the analytical and the descriptive side of things. Specific topics of my rese
 * evolution of software ecosystems, 🌱
 * AI assistants. 🦾
 
-<h3 style="margin-top: -3px;">Laser Technologies</h3>
+<h3 style="margin-top: -2px;">Laser Technologies</h3>
 
-Before my work in software engineering, I used to [do research](https://areyde.com/physics_conferences/) in the field of <b>laser physics</b>. 💥
+Before my work in software engineering, I used to [do research](https://areyde.com/physics_conferences/) in the field of laser physics. 💥
 While I did not get far, my studies related to laser-matter interaction, specifically, laser irradiation with ultra-short (femtosecond) pulses. 
 With a major in laser technologies in biological and medical applications, my last studies were dedicated to combatting viruses, as well as creating colloidal solutions of nanoparticles with antibacterial properties. 🧫
 
 <h3 style="margin-top: -3px;">Humanities</h3>
 
-I studied Taoism a lot, especially Zhuangzi, and conducted research about the concept of relativity in ancient Taoist texts.
-I am planning to carry out research about esoteric movements within Russian emigration in Yugoslavia a hundred years ago.
+Humanities are an important part of my life that exist in parallel to my main job. 🏺 My research in this regard exists only
+as part of my education and is in Russia. In my philosophical degree, I studied Taoism a lot, especially Zhuangzi,
+and conducted research about the concept of relativity in ancient Taoist texts. Now, as a part of my religious studies,
+I am starting to research esoteric movements within Russian emigration in Yugoslavia a hundred years ago. 🪬
 
 <a href="https://scholar.google.com/citations?user=qb_dl6AAAAAJ&hl=en">Google Scholar</a> says I have <b>{{ site.data.citations.total }}</b> citations and an h-index of <b>{{ site.data.citations.h_index }}</b>. Cool! (I wrote this auto-scraper, I am very proud of it, and I want to use it to the fullest!) 🤓
 
