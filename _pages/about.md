@@ -22,21 +22,21 @@ as a representative of Russian students. Every summer, I also worked as a camp c
 
 In 2020, I obtained a Master's degree with honors in <b>Laser Technologies</b> ⚡ from the same university,
 with a major in biological and medical applications. During the first year, I worked as an engineer in the lab and a 
-[scientific interviewer](https://areyde.com/interviews/) at the university's news portal, and also led the School of Laser Technologies for highschoolers. While studying there, I was lucky to join JetBrains and fell in love with data science. 📊
+[scientific interviewer](https://areyde.com/interviews/) at the university's news portal, and also led the School of Laser Technologies for highschoolers. 
+While studying there, I was lucky to join JetBrains and fell in love with data science. 📊
 
-In 2025, I obtained a Bachelor's degree with honors in <b>Philosophy</b> 💭 from [Herzen University](https://en.hspu.org/), focusing on Chinese philosophy. I studied
-Taoism a lot, especially Zhuangzi, and conducted research about the concept of relativity in ancient Taoist texts. 
-I also [helped out as an assistant](https://areyde.com/eastern_studies_and_esotericism/)  in research centers dedicated to Eastern culture, esotericism, and mysticism.
+In 2025, I obtained a Bachelor's degree with honors in <b>Philosophy</b> 💭 from [Herzen University](https://en.hspu.org/), focusing on 
+irrational and religious teachings, Eastern, and especially Chinese philosophy. 
+During this time, I studied the Chinese language and [helped out as an assistant](https://areyde.com/eastern_studies_and_esotericism/)  in research centers dedicated to Eastern culture, esotericism, and mysticism.
 In 2022, I moved to the lovely Belgrade, Serbia, and thus finished my education remotely. 🏰
 
 Since 2025, I am getting a Master's degree in <b>Religious Studies</b> 🛐 from the [Russian Christian Academy for Humanities](https://rhga.ru/?siteLang=en), with a major
-in studying mystical and esoteric teachings. I am planning to carry out research about esoteric movements within Russian emigration in Yugoslavia
-a hundred years ago. I also became a member of the [Association for the Study of Esotericism and Mysticism](https://aiem-asem.org/maineng)
+in studying mystical and esoteric teachings.  I also became a member of the [Association for the Study of Esotericism and Mysticism](https://aiem-asem.org/maineng)
 and still help out with organizing seminars and scientific conferences there. 🔮
 
 <h2 style="margin-top: -5px;">Research 🔬</h2>
 
-<h3 style="margin-top: -3px;">Software Engineering & AI</h3>
+<h3 style="margin-top: -2px;">Software Engineering & AI</h3>
 
 While I used to carry out research of my own, I realized that I enjoy helping other people more, and became a <b>research administrator</b>, with the goal of supporting other researchers, both administratively and academically. 🤝
 Nowadays, I mostly assist in different stages of projects, from planning to writing. Throughout the years, this enabled me to touch on [all kinds of subjects](https://areyde.com/publications/), including serverless computing, embeddings of code, Jupyter notebooks, code completion, code quality, computer science education, psychology of programming, and others.
@@ -62,6 +62,9 @@ While I did not get far, my studies related to laser-matter interaction, specifi
 With a major in laser technologies in biological and medical applications, my last studies were dedicated to combatting viruses, as well as creating colloidal solutions of nanoparticles with antibacterial properties. 🧫
 
 <h3 style="margin-top: -3px;">Humanities</h3>
+
+I studied Taoism a lot, especially Zhuangzi, and conducted research about the concept of relativity in ancient Taoist texts.
+I am planning to carry out research about esoteric movements within Russian emigration in Yugoslavia a hundred years ago.
 
 <a href="https://scholar.google.com/citations?user=qb_dl6AAAAAJ&hl=en">Google Scholar</a> says I have <b>{{ site.data.citations.total }}</b> citations and an h-index of <b>{{ site.data.citations.h_index }}</b>. Cool! (I wrote this auto-scraper, I am very proud of it, and I want to use it to the fullest!) 🤓
 
