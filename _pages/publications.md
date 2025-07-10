@@ -11,8 +11,8 @@ author_profile: true
 
 <p style="margin-bottom: -5px;"><b>Fields of study:</b></p>
 <ul>
-    <li><a href="#se"><b>Software Engineering</b></a></li>
-    <li><a href="#philosophy"><b>Chinese Philosophy</b></a></li>
+    <li><a href="#se"><b>Software Engineering & AI</b></a></li>
+    <li><a href="#humanities"><b>Humanities</b></a></li>
     <li><a href="#physics"><b>Laser Technologies</b></a></li>
 </ul>
 
@@ -24,7 +24,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<h2 id="philosophy">Chinese Philosophy</h2>
+<h2 id="humanities">Humanities</h2>
 
 {% for post in site.publicationsphilosophy reversed %}
 {% include archive-single.html %}

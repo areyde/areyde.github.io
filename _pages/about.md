@@ -36,7 +36,7 @@ and still help out with organizing seminars and scientific conferences there. �
 
 <h2 style="margin-top: -5px;">Research 🔬</h2>
 
-<h3>Software Engineering & AI</h3>
+<h3 style="margin-top: -5px;">Software Engineering & AI</h3>
 
 While I used to carry out research of my own, I realized that I enjoy helping other people more, and became a <b>research administrator</b>, with the goal of supporting other researchers, both administratively and academically. 🤝
 Nowadays, I mostly assist in different stages of projects, from planning to writing. Throughout the years, this enabled me to touch on [all kinds of subjects](https://areyde.com/publications/), including serverless computing, embeddings of code, Jupyter notebooks, code completion, code quality, computer science education, psychology of programming, and others.
