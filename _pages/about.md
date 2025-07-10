@@ -55,7 +55,7 @@ to the analytical and the descriptive side of things. Specific topics of my rese
 * evolution of software ecosystems, 🌱
 * AI assistants. 🦾
 
-<h3 style="margin-top: -2px;">Laser Technologies</h3>
+<h3 style="margin-top: -1px;">Laser Technologies</h3>
 
 Before my work in software engineering, I used to [do research](https://areyde.com/physics_conferences/) in the field of laser physics. 💥
 While I did not get far, my studies related to laser-matter interaction, specifically, laser irradiation with ultra-short (femtosecond) pulses. 
@@ -64,8 +64,8 @@ With a major in laser technologies in biological and medical applications, my la
 <h3 style="margin-top: -3px;">Humanities</h3>
 
 Humanities are an important part of my life that exist in parallel to my main job. 🏺 My research in this regard exists only
-as part of my education and is in Russia. In my philosophical degree, I studied Taoism a lot, especially Zhuangzi,
-and conducted research about the concept of relativity in ancient Taoist texts. Now, as a part of my religious studies,
+as part of my education. In my philosophical degree, I studied Taoism a lot, especially Zhuangzi,
+and conducted research about the concept of relativity in ancient Taoist texts. Now, as part of my religious studies,
 I am starting to research esoteric movements within Russian emigration in Yugoslavia a hundred years ago. 🪬
 
 <a href="https://scholar.google.com/citations?user=qb_dl6AAAAAJ&hl=en">Google Scholar</a> says I have <b>{{ site.data.citations.total }}</b> citations and an h-index of <b>{{ site.data.citations.h_index }}</b>. Cool! (I wrote this auto-scraper, I am very proud of it, and I want to use it to the fullest!) 🤓
