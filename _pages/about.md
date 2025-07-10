@@ -63,7 +63,7 @@ With a major in laser technologies in biological and medical applications, my la
 
 <h3 style="margin-top: -3px;">Humanities</h3>
 
-Humanities are an important part of my life that exist in parallel to my main job. 🏺 My research in this regard exists only
+Humanities are an important part of my life that exists in parallel to my main job. 🏺 My research in this regard exists only
 as part of my education. In my philosophical degree, I studied Taoism a lot, especially Zhuangzi,
 and conducted research about the concept of relativity in ancient Taoist texts. Now, as part of my religious studies,
 I am starting to research esoteric movements within Russian emigration in Yugoslavia a hundred years ago. 🪬
