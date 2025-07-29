@@ -27,12 +27,13 @@ While studying there, I was lucky to join JetBrains and fell in love with data s
 
 In 2025, I obtained a Bachelor's degree with honors in <b>Philosophy</b> 💭 from [Herzen University](https://en.hspu.org/), focusing on 
 irrational and religious teachings, Eastern, and especially Chinese philosophy. 
-During this time, I studied the Chinese language and [helped out as an assistant](https://areyde.com/eastern_studies_and_esotericism/)  in research centers dedicated to Eastern culture, esotericism, and mysticism.
+During this time, I studied the Chinese language and [served as an administrator](https://areyde.com/eastern_studies_and_esotericism/)  in research centers dedicated to Eastern culture, esotericism, and mysticism.
 In 2022, I moved to the lovely Belgrade, Serbia, and thus finished my education remotely. 🏰
 
 Since 2025, I am getting a Master's degree in <b>Religious Studies</b> 🛐 from the [Russian Christian Academy for Humanities](https://rhga.ru/?siteLang=en), with a major
 in studying mystical and esoteric teachings.  I also became a member of the [Association for the Study of Esotericism and Mysticism](https://aiem-asem.org/maineng)
-and still help out with organizing seminars and scientific conferences there. 🔮
+and started fully managing the association's YouTube channel. I also still help out with organizing seminars and scientific conferences there,
+promoting the academic studies of non-academic topics. 🔮
 
 <h2 style="margin-top: -5px;">Research 🔬</h2>
 
