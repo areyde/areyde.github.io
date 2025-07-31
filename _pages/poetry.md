@@ -26,6 +26,8 @@ author_profile: true
 
 <p style="text-align: center;"><b>2025 год. </b></p>
 
+<b><a href="https://areyde.com/poetry/2025-07-31">"Громко смеются красивые люди…"</a></b> — 31.07.2025
+
 <b><a href="https://areyde.com/poetry/2025-06-08">"Недолог час твой, летняя заря…"</a></b> — 08.06.2025
 
 <b><a href="https://areyde.com/poetry/2025-05-30">"Берег изрезан следами борьбы…"</a></b> — 30.05.2025
