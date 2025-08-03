@@ -74,12 +74,15 @@ I am starting to explore esoteric movements within Russian emigration in Yugosla
 
 <h2 style="margin-top: -5px;">Hobbies 🎨</h2>
 
-My main hobby (and a calling, I hope) outside the realm of software engineering is [writing poetry](https://areyde.com/poetry/) (only in Russian so far). 📜
-As evident from my education, I also love [philosophy](https://areyde.com/favourite_philosophers/) and care especially deeply about Eastern philosophy 
-— Taoism, Buddhism, Jainism, and Ājīvika, — as well as various religious movements all over the world. 📿
+All my main hobbies are humanities — which is why I try to study them for as long as I can.
+I like [writing poetry](https://areyde.com/poetry/), drawing on my favourite literature, namely, Russian classics of the second half of the 19th century. 📜
+I also love [philosophy](https://areyde.com/favourite_philosophers/) and care especially deeply about Eastern philosophy 
+— Chinese (Taoism, Chan Buddhism) and Indian (Śramaṇa/Nāstika traditions: Buddhism, Jainism, Ājīvika), — as well as various religious movements all over the world. 📿
 Another major love of mine is the Chinese language and sharing with people how awesome it is. 
-In addition to learning it, I love [analyzing its content, popularity, history, and evolution](https://areyde.com/chinese/). In general, 
-I am interested in all major humanitarian fields, especially linguistics and history. 🏛️
+In addition to learning it, I love [analyzing its content, popularity, history, and evolution](https://areyde.com/chinese/) — and care about linguistics in general. 💬
+Finally, more recently I fell in love with history, especially from the 7th century (Tang dynasty in China, the emergence of Islam, start of true Middle Ages)
+to ≈1929 (Great Depression, collectivization, start of peak authoritarianism), mostly Chinese, Russian, and that of Central Asia. ️🪶
+A more narrow period from ≈1860s to the end of the First World War is my main inspiration and passion in everything — history, poetry, prose, painting, classical music, and overall aesthetics. 🏛
 
-Finally, while I am not an avid traveler, I did write down 
+P. S. While I am not an avid traveler, I did write down 
 [all the places where I have been](https://areyde.com/travels/). There aren't too many of them, but luckily, the number can only go up! 🧳
