@@ -32,7 +32,7 @@ In 2022, I moved to the lovely Belgrade, Serbia, and thus finished my education 
 
 Since 2025, I am getting a Master's degree in <b>Religious Studies</b> 🛐 from the [Russian Christian Academy for Humanities](https://rhga.ru/?siteLang=en), with a major
 in studying mystical and esoteric teachings.  I also became a member of the [Association for the Study of Esotericism and Mysticism](https://aiem-asem.org/maineng)
-and started fully managing the association's YouTube channel. I also still help out with organizing seminars and scientific conferences there,
+and started fully managing the association's YouTube channel. I still help out with organizing seminars and scientific conferences there,
 promoting the academic studies of non-academic topics. 🔮
 
 <h2 style="margin-top: -5px;">Research 🔬</h2>
@@ -78,11 +78,11 @@ All my main hobbies are humanities — which is why I try to study them for as l
 I like [writing poetry](https://areyde.com/poetry/), drawing on my favourite literature, namely, Russian classics of the second half of the 19th century. 📜
 I also love [philosophy](https://areyde.com/favourite_philosophers/) and care especially deeply about Eastern philosophy 
 — Chinese (Taoism, Chan Buddhism) and Indian (Śramaṇa/Nāstika traditions: Buddhism, Jainism, Ājīvika), — as well as various religious movements all over the world. 📿
-Another major love of mine is the Chinese language and sharing with people how awesome it is. 
+Another major love of mine is the Chinese language. 
 In addition to learning it, I love [analyzing its content, popularity, history, and evolution](https://areyde.com/chinese/) — and care about linguistics in general. 💬
 Finally, more recently I fell in love with history, especially from the 7th century (Tang dynasty in China, the emergence of Islam, start of true Middle Ages)
 to ≈1929 (Great Depression, collectivization, start of peak authoritarianism), mostly Chinese, Russian, and that of Central Asia. ️🪶
-A more narrow period from ≈1860s to the end of the First World War is my main inspiration and passion in everything — history, poetry, prose, painting, classical music, and overall aesthetics. 🏛
+A more narrow period from ≈1860s to the end of the First World War is my main inspiration and passion in everything — history, poetry, prose, paintings, classical music, and overall aesthetics. 🏛
 
 P. S. While I am not an avid traveler, I did write down 
 [all the places where I have been](https://areyde.com/travels/). There aren't too many of them, but luckily, the number can only go up! 🧳
