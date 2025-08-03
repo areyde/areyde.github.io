@@ -82,7 +82,7 @@ Another major love of mine is the Chinese language.
 In addition to learning it, I love [analyzing its content, popularity, history, and evolution](https://areyde.com/chinese/) — and care about linguistics in general. 💬
 Finally, more recently I fell in love with history, especially from the 7th century (Tang dynasty in China, the emergence of Islam, start of true Middle Ages)
 to ≈1929 (Great Depression, collectivization, start of peak authoritarianism), mostly Chinese, Russian, and that of Central Asia. ️🪶
-A more narrow period from ≈1860s to the end of the First World War is my main inspiration and passion in everything — history, poetry, prose, paintings, classical music, and overall aesthetics. 🏛
+A more narrow period from ≈1860s to the end of the First World War is my main inspiration and passion in everything — history, poetry, prose, paintings, classical music, and overall aesthetics. 🏛️
 
 P. S. While I am not an avid traveler, I did write down 
 [all the places where I have been](https://areyde.com/travels/). There aren't too many of them, but luckily, the number can only go up! 🧳
