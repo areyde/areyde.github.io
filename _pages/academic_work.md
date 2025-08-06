@@ -100,7 +100,7 @@ author_profile: true
 
 <b>2025</b>:<br>
 – Advisor for the <i><a href="https://plugins.jetbrains.com/plugin/27941-data-visualization-in-python">"Data Visualization in Python"</a></i> in-IDE learning course.<br>
-– Co-author of a tutorial <i>"Creating in-IDE Programming Courses"</i> at <a href="https://sigcse2025.sigcse.org/track/sigcse-ts-2025-tutorials#event-overview">SIGCSE'25</a>.
+– Co-author of a tutorial <i><a href="https://dl.acm.org/doi/10.1145/3641555.3704762">"Creating in-IDE Programming Courses"</a></i> at <a href="https://sigcse2025.sigcse.org/track/sigcse-ts-2025-tutorials#event-overview">SIGCSE'25</a>.
 
 <hr color="#888888" size="4" noshade>
 
