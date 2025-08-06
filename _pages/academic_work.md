@@ -78,12 +78,12 @@ author_profile: true
 
 <h3>Teaching</h3>
 
-<b>2024</b>: an invited one-time lecturer in the <i>"Scientific Computing"</i> course at <a href="https://constructor.university/">Constructor University</a>. <br>
+<b>2024</b>: Invited one-time lecturer in the <i>"Scientific Computing"</i> course at <a href="https://constructor.university/">Constructor University</a>. <br>
 <b>2021–2022</b>:<br>
-– a co-lecturer and assistant in the <i>"Basics of Machine Learning"</i> course at <a href="https://239.ru/">Saint Petersburg Lyceum 239</a> and <a href="http://www.school.ioffe.ru/">Saint Petersburg School of Physics and Engineering</a>.<br>
-– a co-lecturer and assistant in the <i>"Structures and Algorithms for Computer Data Processing"</i> course at <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
-<b>2017–2020</b>: an organizer, lecturer, and scientific advisor in the <i>School of Laser Technologies</i> at <a href="https://en.itmo.ru/">ITMO University</a>.<br>
-<b>2014–2020</b>: an invited lecturer at <a href='http://s526.spb.ru/'>my local school</a>, reading lecture courses and popularizing various subjects to students, including classical Russian literature, linguistics, laser physics, and computer science.
+– Co-lecturer and assistant in the <i>"Basics of Machine Learning"</i> course at <a href="https://239.ru/">Saint Petersburg Lyceum 239</a> and <a href="http://www.school.ioffe.ru/">Saint Petersburg School of Physics and Engineering</a>.<br>
+– Co-lecturer and assistant in the <i>"Structures and Algorithms for Computer Data Processing"</i> course at <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
+<b>2017–2020</b>: Organizer, lecturer, and scientific advisor in the <i>School of Laser Technologies</i> at <a href="https://en.itmo.ru/">ITMO University</a>.<br>
+<b>2014–2020</b>: Invited lecturer at <a href='http://s526.spb.ru/'>my local school</a>, reading lecture courses and popularizing various subjects to students, including classical Russian literature, linguistics, laser physics, and computer science.
 
 <h3>Advising</h3>
 
