@@ -50,7 +50,9 @@ author_profile: true
 <h3>Awardee</h3>
 <b>2022</b>: ACM SIGSOFT Distinguished Paper Award at <a href="https://conf.researchr.org/home/msr-2022">MSR</a> (for the paper <i><a href="https://areyde.com/publications/2022-05-18-jupyter-analysis">"A Large-Scale Comparison of Python Code in Jupyter Notebooks and Scripts"</a></i>)<br>
 <b>2021</b>: Best Tool Demo Award at <a href="https://icsme2021.github.io/">ICSME</a> (for the paper <i><a href="https://areyde.com/publications/2021-09-27-sorrel">"Sorrel: an IDE Plugin for Managing Licenses and Detecting License Incompatibilities"</a></i>)<br>
-<b>2018</b>: Winner of the Contest for Getting into the Master's Program at <a href="https://kmu.itmo.ru/static/English/54/English">CYS</a> (for the talk <i><a href="https://areyde.com/files/cys2018/abstract.pdf">"The Dynamics of Laser Ablation Thresholds of Bulk and Thin-film Aluminum Targets under the Influence of Double Femtosecond Laser Pulses"</a></i>, in Russian), Gratitude Award at the Section for Highschoolers at <a href="https://kmu.itmo.ru/static/English/54/English">CYS</a> (for the talk <i><a href="https://areyde.com/files/cys2018/advisory.pdf">"Studying the Spectra of Laser-induced Plasma of Pharmaceuticals for Their Analysis"</a></i>, in Russian)<br>
+<b>2018</b>:<br>
+– Winner of the Contest for Getting into the Master's Program at <a href="https://kmu.itmo.ru/static/English/54/English">CYS</a> (for the talk <i><a href="https://areyde.com/files/cys2018/abstract.pdf">"The Dynamics of Laser Ablation Thresholds of Bulk and Thin-film Aluminum Targets under the Influence of Double Femtosecond Laser Pulses"</a></i>, in Russian)<br>
+– Gratitude Award at the Section for Highschoolers at <a href="https://kmu.itmo.ru/static/English/54/English">CYS</a> (for the talk <i><a href="https://areyde.com/files/cys2018/advisory.pdf">"Studying the Spectra of Laser-induced Plasma of Pharmaceuticals for Their Analysis"</a></i>, in Russian)<br>
 <b>2017</b>: Best Student's Talk Award at <a href="https://kmu.itmo.ru/static/English/54/English">CYS</a> (for the talk <i><a href="https://areyde.com/files/cys2017/abstract.pdf">"Laser-induced Formation of Nanostructures from Silver Films under the Influence of Nanosecond Pulses"</a></i>, in Russian)<br>
 
 <hr color="#888888" size="4" noshade>
@@ -77,25 +79,28 @@ author_profile: true
 <h3>Teaching</h3>
 
 <b>2024</b>: an invited one-time lecturer in the <i>"Scientific Computing"</i> course at <a href="https://constructor.university/">Constructor University</a>. <br>
-<b>2021–2022</b>: a co-lecturer and assistant in the <i>"Basics of Machine Learning"</i> course at <a href="https://239.ru/">Saint Petersburg Lyceum 239</a> and <a href="http://www.school.ioffe.ru/">Saint Petersburg School of Physics and Engineering</a>.<br>
-<b>2021–2022</b>: a co-lecturer and assistant in the <i>"Structures and Algorithms for Computer Data Processing"</i> course at <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
+<b>2021–2022</b>:<br>
+– a co-lecturer and assistant in the <i>"Basics of Machine Learning"</i> course at <a href="https://239.ru/">Saint Petersburg Lyceum 239</a> and <a href="http://www.school.ioffe.ru/">Saint Petersburg School of Physics and Engineering</a>.<br>
+– a co-lecturer and assistant in the <i>"Structures and Algorithms for Computer Data Processing"</i> course at <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
 <b>2017–2020</b>: an organizer, lecturer, and scientific advisor in the <i>School of Laser Technologies</i> at <a href="https://en.itmo.ru/">ITMO University</a>.<br>
 <b>2014–2020</b>: an invited lecturer at <a href='http://s526.spb.ru/'>my local school</a>, reading lecture courses and popularizing various subjects to students, including classical Russian literature, linguistics, laser physics, and computer science.
 
 <h3>Advising</h3>
 
-<b>2021–2022</b>.<br>
+<b>2021–2022</b>:<br>
 – Advisor for the research project of Olesya Subbotina, <i>"Creating a Plugin to Detect Test Smells in Python Projects"</i>, <a href="https://www.hse.ru/en/">HSE University</a>.<br>
 – Advisor for the academic internship of Anton Ivanov, <i>"Extracting Code Duplicates as soon as They are Introduced in the IDE"</i>, <a href="https://www.hse.ru/en/">HSE University</a>.<br>
-<b>2020–2021</b>.<br>
+<b>2020–2021</b>:<br>
 – Consultant for the Bachelor's thesis of Dmitry Pogrebnoy, <i>"Development of a Software License Compatibility Check System"</i>, <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
 – Reviewer for the Bachelor's thesis of Alina Dzestelova, <i>"Recognizing Images with Signs of Violence Using Convolutional Neural Networks"</i>, <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
-<b>2017–2018</b>.<br>
+<b>2017–2018</b>:<br>
 – Advisor for the research project of Sofia Sviridova, Ekaterina Karpova, and Ivan Yakovlev, <i>"Studying the Spectra of Laser-induced Plasma of Pharmaceuticals for Their Analysis"</i>, School of Laser Technologies, <a href="https://en.itmo.ru/">ITMO University</a>.<br>
 
 <h3>Other</h3>
 
-<b>2025</b>: co-author of a tutorial <i>"Creating in-IDE Programming Courses"</i> at <a href="https://sigcse2025.sigcse.org/track/sigcse-ts-2025-tutorials#event-overview">SIGCSE'25</a>.
+<b>2025</b>:<br>
+– Advisor for the <i><a href="https://plugins.jetbrains.com/plugin/27941-data-visualization-in-python">"Data Visualization in Python"</a></i> in-IDE learning course.<br>
+– Co-author of a tutorial <i>"Creating in-IDE Programming Courses"</i> at <a href="https://sigcse2025.sigcse.org/track/sigcse-ts-2025-tutorials#event-overview">SIGCSE'25</a>.
 
 <hr color="#888888" size="4" noshade>
 
