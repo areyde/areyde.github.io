@@ -79,7 +79,7 @@ author_profile: true
 <h3>Teaching</h3>
 
 <b>2024</b>: Invited one-time lecturer in the <i>"Scientific Computing"</i> course at <a href="https://constructor.university/">Constructor University</a>. <br>
-<b>2021–2022</b>:<br>
+<b>2022</b>:<br>
 – Co-lecturer and assistant in the <i>"Basics of Machine Learning"</i> course at <a href="https://239.ru/">Saint Petersburg Lyceum 239</a> and <a href="http://www.school.ioffe.ru/">Saint Petersburg School of Physics and Engineering</a>.<br>
 – Co-lecturer and assistant in the <i>"Structures and Algorithms for Computer Data Processing"</i> course at <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
 <b>2017–2020</b>: Organizer, lecturer, and scientific advisor in the <i>School of Laser Technologies</i> at <a href="https://en.itmo.ru/">ITMO University</a>.<br>
@@ -87,14 +87,13 @@ author_profile: true
 
 <h3>Advising</h3>
 
-<b>2021–2022</b>:<br>
+<b>2022</b>:<br>
 – Advisor for the research project of Olesya Subbotina, <i>"Creating a Plugin to Detect Test Smells in Python Projects"</i>, <a href="https://www.hse.ru/en/">HSE University</a>.<br>
 – Advisor for the academic internship of Anton Ivanov, <i>"Extracting Code Duplicates as soon as They are Introduced in the IDE"</i>, <a href="https://www.hse.ru/en/">HSE University</a>.<br>
-<b>2020–2021</b>:<br>
+<b>2021</b>:<br>
 – Consultant for the Bachelor's thesis of Dmitry Pogrebnoy, <i>"Development of a Software License Compatibility Check System"</i>, <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
 – Reviewer for the Bachelor's thesis of Alina Dzestelova, <i>"Recognizing Images with Signs of Violence Using Convolutional Neural Networks"</i>, <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
-<b>2017–2018</b>:<br>
-– Advisor for the research project of Sofia Sviridova, Ekaterina Karpova, and Ivan Yakovlev, <i>"Studying the Spectra of Laser-induced Plasma of Pharmaceuticals for Their Analysis"</i>, School of Laser Technologies, <a href="https://en.itmo.ru/">ITMO University</a>.<br>
+<b>2018</b>: Advisor for the research project of Sofia Sviridova, Ekaterina Karpova, and Ivan Yakovlev, <i>"Studying the Spectra of Laser-induced Plasma of Pharmaceuticals for Their Analysis"</i>, School of Laser Technologies, <a href="https://en.itmo.ru/">ITMO University</a>.
 
 <h3>Other</h3>
 
@@ -106,5 +105,5 @@ author_profile: true
 
 <h2>Miscellaneous</h2>
 
-<b>2017–2018</b>. For short periods of time, worked as an assistant and an engineer in the <a href="https://en.itmo.ru/en/department/516/International_Research_Laboratory_for_Micro-_and_Nanotechnology_Lasers.htm">International Laboratory of Laser Micro- and Nanotechnologies</a> at <a href="https://en.itmo.ru/">ITMO University</a>, mostly helping with the writing of academic papers.<br>
-<b>2016–2017</b>. Briefly worked as a secretary in the <a href="https://int.itmo.ru/en/departments/structure/17">International Students office</a> at <a href="https://en.itmo.ru/">ITMO University</a>. As part of this, participated in the meeting of <a href="https://en.itmo.ru/en/page/249/The_International_Council.htm">ITMO University’s International Council</a>, as well as the <a href="https://areyde.com/brics/">THE BRICS & Emerging Economies Universities Summit</a> as a representative of Russian students.
+<b>2017–2018</b>: For short periods of time, worked as an assistant and an engineer in the <a href="https://en.itmo.ru/en/department/516/International_Research_Laboratory_for_Micro-_and_Nanotechnology_Lasers.htm">International Laboratory of Laser Micro- and Nanotechnologies</a> at <a href="https://en.itmo.ru/">ITMO University</a>, mostly helping with the writing of academic papers.<br>
+<b>2016–2017</b>: Briefly worked as a secretary in the <a href="https://int.itmo.ru/en/departments/structure/17">International Students office</a> at <a href="https://en.itmo.ru/">ITMO University</a>. As part of this, participated in the meeting of <a href="https://en.itmo.ru/en/page/249/The_International_Council.htm">ITMO University’s International Council</a>, as well as the <a href="https://areyde.com/brics/">THE BRICS & Emerging Economies Universities Summit</a> as a representative of Russian students.
