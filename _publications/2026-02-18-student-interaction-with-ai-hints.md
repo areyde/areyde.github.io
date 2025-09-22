@@ -1,6 +1,6 @@
 ---
 title: "Understanding Student Interaction with AI-Powered Next-Step Hints: Strategies and Challenges"
-authors: '<i>Anastasiia Birillo, Aleksei Rostovskii, Yaroslav Golubev and Hieke Keuning</i>'
+authors: '<i>Anastasiia Birillo, Aleksei Rostovskii, Yaroslav Golubev, and Hieke Keuning</i>'
 status: "accepted"
 collection: publications
 permalink: /publications/2026-02-18-student-interaction-with-ai-hints
