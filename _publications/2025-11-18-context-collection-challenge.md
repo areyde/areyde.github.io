@@ -1,6 +1,6 @@
 ---
 title: "Challenge on Optimization of Context Collection for Code Completion"
-authors: '<i>Dmitry Ustalov, Egor Bogomolov, **Alexander Bezzubov, Yaroslav Golubev, Evgeniy Glukhov, Georgii Levtsov, and Vladimir Kovalenko</i>'
+authors: '<i>Dmitry Ustalov, Egor Bogomolov, Alexander Bezzubov, Yaroslav Golubev, Evgeniy Glukhov, Georgii Levtsov, and Vladimir Kovalenko</i>'
 status: "accepted"
 collection: publications
 permalink: /publications/2025-11-18-context-collection-challenge
