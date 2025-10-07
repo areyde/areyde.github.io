@@ -21,7 +21,7 @@ from scholarly import ProxyGenerator, scholarly
 
 MAX_ATTEMPTS      = 10          # how many different proxies to try
 WAIT_MAX_SEC      = 4           # max random sleep between retries
-PROXY_SOURCE_URL  = "https://www.proxy-list.download/api/v1/get?type=https"
+PROXY_SOURCE_URL = "https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/http.txt"
 CITATION_YAML     = pathlib.Path("_data/citations.yml")
 SCHOLAR_USER_ID   = os.environ["SCHOLAR_USER_ID"].strip()
 
