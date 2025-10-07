@@ -1,11 +1,11 @@
 ---
 title: "Towards Realistic Evaluation of Commit Message Generation by Matching Online and Offline Settings"
 authors: '<i>Petr Tsvetkov, Aleksandra Eliseeva, Danny Dig, Alexander Bezzubov, Yaroslav Golubev, Timofey Bryksin, and Yaroslav Zharov</i>'
-status: "accepted"
+status: "published"
 collection: publications
 permalink: /publications/2025-05-02-cmg-evaluation
 date: 2025-05-02
-venue: "<b>ICSE'25</b>"
+venue: "the proceedings of <b>ICSE'25</b>"
 level: "A*"
 pdf: 'https://arxiv.org/abs/2410.12046'
 paperurl: 'https://doi.org/10.1109/ICSE-SEIP66354.2025.00058'
