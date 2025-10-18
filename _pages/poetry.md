@@ -26,6 +26,8 @@ author_profile: true
 
 <p style="text-align: center;"><b>2025 год. </b></p>
 
+<b><a href="https://areyde.com/poetry/2025-10-18">"Какая тягота бы мною ни владела…"</a></b> — 18.10.2025
+
 <b><a href="https://areyde.com/poetry/2025-10-07">"Иду, куда ведёт дорога…"</a></b> — 07.10.2025
 
 <b><a href="https://areyde.com/poetry/2025-08-29">"Сижу в тенях закрытого театра…"</a></b> — 29.08.2025
