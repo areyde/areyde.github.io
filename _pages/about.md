@@ -46,7 +46,7 @@ It is a great privilege to learn more about these areas from my colleagues. I al
 The overarching theme of <b>my own studies</b> in software engineering was mining large corpora of existing source code and analyzing them to discover various
 patterns, as well as better understand how developers write software. While
 I was lucky to participate in a number of practical collaborations, my personal interest always leaned closer
-to the analytical and the descriptive side of things. Specific topics of my research are:
+to the analytical and the descriptive side of things. Specific topics of my research were:
 
 * code clones, 🐑
 * open-source software licenses, 📝
@@ -60,7 +60,7 @@ to the analytical and the descriptive side of things. Specific topics of my rese
 
 Before my work in software engineering, I used to [do research](https://areyde.com/physics_conferences/) in the field of laser physics. 💥
 While I did not get far, my studies related to laser-matter interaction, specifically, laser irradiation with ultra-short (femtosecond) pulses. 
-With a major in laser technologies in biological and medical applications, my last studies were dedicated to combatting viruses, as well as creating colloidal solutions of nanoparticles with antibacterial properties. 🧫
+With a major in laser technologies in biological and medical applications, my last studies were dedicated to combatting viruses, as well as creating colloidal solutions of nanoparticles with antibacterial properties (topical in 2020). 🧫
 
 <h3 style="margin-top: -3px;">Humanities</h3>
 
