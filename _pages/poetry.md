@@ -24,7 +24,7 @@ author_profile: true
 
 <hr color="#888888" size="4" noshade>
 
-<p style="text-align: center;"><b>2025 год. </b></p>
+<p style="text-align: center;"><b>2025 год был годом красоты и телесности. </b></p>
 
 <b><a href="https://areyde.com/poetry/2025-11-13">"Не говорите, что чего-то в мире нет…"</a></b> — 13.11.2025
 
