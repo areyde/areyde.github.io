@@ -67,7 +67,7 @@ With a major in laser technologies in biological and medical applications, my la
 Humanities are an important part of my life that takes place in parallel to my main job. 🏺 My research in this regard exists mostly
 as part of my education. In my philosophical degree, I studied Taoism a lot, especially Zhuangzi,
 and conducted research about the concept of relativity in ancient Taoist texts. Now, as part of my religious studies,
-I am starting to explore esoteric movements within Russian emigration in Yugoslavia a hundred years ago. 🪬
+I am exploring esoteric practices within Russian emigration in Yugoslavia a hundred years ago. 🪬
 
 <a href="https://scholar.google.com/citations?user=qb_dl6AAAAAJ&hl=en">Google Scholar</a> says I have <b>{{ site.data.citations.total }}</b> citations and an h-index of <b>{{ site.data.citations.h_index }}</b>. Cool! (I wrote this auto-scraper, I am very proud of it, and I want to use it to the fullest!) 🤓
 
