@@ -26,6 +26,8 @@ author_profile: true
 
 <p style="text-align: center;"><b>2025 год был годом красоты и телесности. </b></p>
 
+<b><a href="https://areyde.com/poetry/2025-12-04">"Здесь галлов рубили Юноны сыны…"</a></b> — 04.12.2025
+
 <b><a href="https://areyde.com/poetry/2025-11-13">"Не говорите, что чего-то в мире нет…"</a></b> — 13.11.2025
 
 <b><a href="https://areyde.com/poetry/2025-10-18">"Какая тягота бы мною ни владела…"</a></b> — 18.10.2025
