@@ -6,7 +6,7 @@ collection: publications
 permalink: /publications/2026-04-18-ai-longitudinal-logs
 date: 2026-04-18
 venue: "<b>ICSE'26</b>"
-counter_id: 'C41'
+counter_id: 'C42'
 level: 'A*'
 pdf: 'https://arxiv.org/abs/2601.10258'
 data: 'https://zenodo.org/records/18220544'

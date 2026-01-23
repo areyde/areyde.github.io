@@ -15,7 +15,7 @@ author_profile: true
 
 <h3>Author</h3>
 
-<b>2026</b>: <a href="https://conf.researchr.org/home/icse-2026">ICSE</a>, <a href="https://sigcse2026.sigcse.org/track/sigcse-ts-2026-Papers">SIGCSE</a><br>
+<b>2026</b>: <a href="https://conf.researchr.org/home/icse-2026">ICSE</a>, <a href="https://conf.researchr.org/home/msr-2026">MSR</a>, <a href="https://sigcse2026.sigcse.org/track/sigcse-ts-2026-Papers">SIGCSE</a><br>
 <b>2025</b>: <a href="https://comped.acm.org/2025/">CompEd</a>, <a href="https://jetbrains-research.github.io/ase2025-context-collection-workshop/">Context Collection Workshop</a>, <a href="https://dl4c.github.io/">DL4Code</a>, <a href="https://conf.researchr.org/home/fse-2025">FSE</a>, <a href="https://conf.researchr.org/home/icse-2025">ICSE</a>, <a href="https://conf.researchr.org/home/icsme-2025">ICSME</a>, <a href="https://iticse.acm.org/2025/">ITiCSE</a>, <a href="https://conf.researchr.org/home/msr-2025">MSR</a>, <a href="https://conf.researchr.org/home/saner-2025">SANER</a><br>
 <b>2024</b>: <a href="https://icer2024.acm.org/track/icer-2024-lightning-talks-and-posters">ICER</a>, <a href="https://www.kolicalling.fi/">Koli Calling</a><br>
 <b>2023</b>: <a href="https://conf.researchr.org/home/ase-2023">ASE</a>, <a href="https://conf.researchr.org/home/esem-2023">ESEM</a>, <a href="https://conf.researchr.org/home/icse-2023">ICSE</a>, <a href="https://iticse.acm.org/2023/">ITiCSE</a>, <a href="https://conf.researchr.org/home/msr-2023">MSR</a>, <a href="https://www.ppig.org/workshops/2023-annual-workshop/call-for-papers/">PPIG</a><br>
