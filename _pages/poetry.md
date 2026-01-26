@@ -24,6 +24,12 @@ author_profile: true
 
 <hr color="#888888" size="4" noshade>
 
+<p style="text-align: center;"><b>2026 год…</b></p>
+
+<b><a href="https://areyde.com/poetry/2026-01-26">"Я поражён отравленной стрелой…"</a></b> — 26.01.2026
+
+<hr color="#888888" size="4" noshade>
+
 <p style="text-align: center;"><b>2025 год был годом красоты и телесности. </b></p>
 
 <b><a href="https://areyde.com/poetry/2025-12-04">"Здесь галлов рубили Юноны сыны…"</a></b> — 04.12.2025
