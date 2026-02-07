@@ -26,6 +26,8 @@ author_profile: true
 
 <p style="text-align: center;"><b>2026 год…</b></p>
 
+<b><a href="https://areyde.com/poetry/2026-02-07">"Прости, любимая, такого дурака!.."</a></b> — 07.02.2026
+
 <b><a href="https://areyde.com/poetry/2026-01-31">"Лишь об одном умоляю, Боже…"</a></b> — 31.01.2026
 
 <b><a href="https://areyde.com/poetry/2026-01-26">"Я поражён отравленной стрелой…"</a></b> — 26.01.2026
