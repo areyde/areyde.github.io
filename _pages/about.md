@@ -84,4 +84,4 @@ Finally, more recently I fell in love with history, especially from the 7th cent
 to ≈1929 (Great Depression, collectivization, start of peak authoritarianism), mostly Chinese, Russian, and that of Central Asia. ️🪶
 A more narrow period from ≈1860s to the end of the First World War is my main inspiration and passion in everything — history, poetry, prose, paintings, classical music, and overall aesthetics. 🏛️
 
-P. S. I also wrote down and visualized [all the places where I have been](https://areyde.com/travels/). Luckily, their number can only go up! 🧳
+P. S. I also wrote down and visualized [all the places where I have ever been](https://areyde.com/travels/). Even plane and train tracks. Luckily, their number can only go up! 🧳
