@@ -11,9 +11,9 @@ author_profile: true
 
 {% endif %}
 
-<h2>Academic conferences</h2>
+<h2>Authorship & Participation</h2>
 
-<h3>Author</h3>
+<h3>Conferences</h3>
 
 <b>2026</b>: <a href="https://conf.researchr.org/home/icse-2026">ICSE</a>, <a href="https://conf.researchr.org/home/msr-2026">MSR</a>, <a href="https://sigcse2026.sigcse.org/track/sigcse-ts-2026-Papers">SIGCSE</a><br>
 <b>2025</b>: <a href="https://comped.acm.org/2025/">CompEd</a>, <a href="https://jetbrains-research.github.io/ase2025-context-collection-workshop/">Context Collection Workshop</a>, <a href="https://dl4c.github.io/">DL4Code</a>, <a href="https://conf.researchr.org/home/fse-2025">FSE</a>, <a href="https://conf.researchr.org/home/icse-2025">ICSE</a>, <a href="https://conf.researchr.org/home/icsme-2025">ICSME</a>, <a href="https://iticse.acm.org/2025/">ITiCSE</a>, <a href="https://conf.researchr.org/home/msr-2025">MSR</a>, <a href="https://conf.researchr.org/home/saner-2025">SANER</a><br>
@@ -31,26 +31,14 @@ author_profile: true
 
 <span style="color: #888888"><i>Note: some conferences related to laser physics did not have publications or proceedings, see the full list of such talks <a href="https://areyde.com/physics_conferences/">here</a>.</i></span>
 
-<h3>Reviewer</h3>
+<h3>Journals</h3>
 
-<b>2027</b>: <a href="https://conf.researchr.org/track/fse-2027/fse-2027-papers">FSE</a> (Research Track PC), <a href="https://conf.researchr.org/track/icse-2027/icse-2027-research-track">ICSE</a> (Research Track PC)<br>
-<b>2026</b>: <a href="https://conf.researchr.org/track/ase-2026/ase-2026-research-track">ASE</a> (Research Track PC, Industry Showcase Track PC), <a href="https://conf.researchr.org/home/chase-2026">CHASE</a> (PC), <a href="https://conf.researchr.org/track/ease-2026/ease-2026-industry-papers">EASE</a> (Industry Track PC, Posters and Vision PC), <a href="https://conf.researchr.org/track/fse-2026/fse-2026-software-engineering-education">FSE</a> (SEET Track PC, Artifact Evaluation PC), <a href="https://conf.researchr.org/track/icse-2026/icse-2026-research-track">ICSE</a> (Research Track PC, Artifact Evaluation PC), <a href="https://iticse.acm.org/2026/">ITiCSE</a> (Experience Reports and Tools Track PC), <a href="https://conf.researchr.org/home/msr-2026">MSR</a> (Technical Track PC), <a href="https://2026.quatic.org/thematic-tracks/generative-ai-in-ict-education">QUATIC</a> (Generative AI in ICT Education Track PC)<br>
-<b>2025</b>: <a href="https://conf.researchr.org/track/ase-2025/ase-2025-papers">ASE</a> (Research Track PC, Industry Showcase Track PC), <a href="https://conf.researchr.org/home/chase-2025">CHASE</a> (PC), <a href="https://comped.acm.org/2025/call-for-papers/">CompEd</a> (Computing Education Research Track PC), <a href="https://conf.researchr.org/track/ease-2025/ease-2025-industry-papers">EASE</a> (Industry Track PC, Posters and Vision PC), <a href="https://conf.researchr.org/track/icse-2025/icse-2025-artifact-evaluation">ICSE</a> (Artifact Evaluation PC), <a href="https://conf.researchr.org/series/isec">ISEC</a> (Research Track PC), <a href="https://iticse.acm.org/2025/">ITiCSE</a> (Experience Reports and Tools Track PC), <a href="https://2025.msrconf.org/track/msr-2025-technical-papers">MSR</a> (Technical Track PC), <a href="https://sigcse2025.sigcse.org/track/sigcse-ts-2025-Papers">SIGCSE</a> (Computing Education Research Track PC, Demonstrations Track PC)<br>
-<b>2024</b>: <a href="https://conf.researchr.org/track/apsec-2024/apsec-2024-software-engineering-in-practice">APSEC</a> (SEIP Track PC), <a href="https://conf.researchr.org/track/ase-2024/ase-2024-papers">ASE</a> (Research Track PC, Artifact Evaluation PC), <span style="color:#AAAAAA"><a href="https://2024.esec-fse.org/track/fse-2024-industry">FSE</a> (Industry Track Sub-reviewer)</span>, <a href="https://conf.researchr.org/track/icpc-2024/icpc-2024-early-research-achievements-era">ICPC</a> (ERA Track PC), <a href="https://conf.researchr.org/track/icse-2024/icse-2024-software-engineering-in-practice">ICSE</a> (SEIP Track PC), <a href="https://www.kolicalling.fi/">Koli Calling</a> (PC), <a href="https://2024.msrconf.org/track/msr-2024-technical-papers">MSR</a> (Technical Track PC), <a href="https://sigcse2024.sigcse.org/track/sigcse-ts-2024-Papers-1">SIGCSE</a> (Computing Education Research Track PC)<br>
-<b>2023</b>: <span style="color:#AAAAAA"><a href="https://conf.researchr.org/track/ase-2023/ase-2023-papers">ASE</a> (Research Track Sub-reviewer)</span>, <span style="color:#AAAAAA"><a href="https://conf.researchr.org/track/ease-2023/ease-2023-industry">EASE</a> (Industry Track Sub-reviewer)</span>, <span style="color:#AAAAAA"><a href="https://2023.esec-fse.org/track/fse-2023-industry">FSE</a> (Industry Track Sub-reviewer)</span>, <a href="https://conf.researchr.org/track/icsme-2023/icsme-2023-artifact-evaluation-track-and-rose-festival">ICSME</a> (Artifact Evaluation Track PC), <a href="https://2023.issta.org/track/issta-2023-tool-demonstrations">ISSTA</a> (Tool Demonstrations Track PC), <a href="https://conf.researchr.org/track/msr-2023/msr-2023-technical-papers">MSR</a> (Technical Track PC), <a href="https://saner2023.must.edu.mo/restrack">SANER</a> (Research Track PC), <a href="https://sigcse2023.sigcse.org/track/sigcse-ts-2023-posters">SIGCSE</a> (Poster Track PC)<br>
-<b>2022</b>: <span style="color:#AAAAAA"><a href="https://conf.researchr.org/track/ase-2022/ase-2022-research-papers">ASE</a> (Research Track Sub-reviewer)</span>, <span style="color:#AAAAAA"><a href="https://2022.esec-fse.org/track/fse-2022-industry">FSE</a> (Industry Track Sub-reviewer)</span>, <a href="https://cyprusconferences.org/icsme2022/new-ideas-and-emerging-results/">ICSME</a> (Artifact Evaluation Track PC, NIER Track PC), <a href="https://iwor.github.io/iwor2022/">IWoR</a> (PC), <a href="https://conf.researchr.org/track/msr-2022/msr-2022-technical-papers">MSR</a> (Technical Track PC, <span style="color:#AAAAAA">Data and Tool Showcase Track Sub-reviewer</span>), <span style="color:#AAAAAA"><a href="https://saner2022.uom.gr/tooltrack">SANER</a> (Tool Track Sub-reviewer)</span>, <span style="color:#AAAAAA"><a href="https://seim-conf.org/en/">SEIM</a> (Sub-reviewer)</span><br>
-<b>2021</b>: <a href="https://icsme2021.github.io/cfp/AEandROSETrack.html">ICSME</a> (Artifact Evaluation Track PC), <a href="https://2021.msrconf.org/track/msr-2021-shadow-pc?">MSR</a> (Shadow PC)
+<b>2025</b>: <a href="https://www.sciencedirect.com/journal/information-and-software-technology">Information and Software Technology</a><br>
+<b>2023</b>: <a href="https://www.sciencedirect.com/journal/information-and-software-technology">Information and Software Technology</a><br>
+<b>2021</b>: <a href="https://www.sciencedirect.com/journal/applied-surface-science">Applied Surface Science</a><br>
+<b>2017</b>: <a href="https://www.springer.com/journal/11082">Optical and Quantum Electronics</a>
 
-<h3>Organizer</h3>
-
-<b>2027</b>: <a href="https://conf.researchr.org/track/icse-2027/icse-2027-competition-track">ICSE</a> (Competitions Track Proceedings Chair) <br>
-<b>2026</b>: <a href="https://ide-workshop.github.io/">IDE</a> (General Chair) <br>
-<b>2025</b>: <a href="https://jetbrains-research.github.io/ase2025-context-collection-workshop/">Context Collection Workshop</a> (Proceedings Chair), <a href="https://ide-workshop.github.io/content/ide-2025.html">IDE</a> (Proceedings & Web Chair) <br>
-<b>2024</b>: <a href="https://ide-workshop.github.io/content/ide-2024.html">IDE</a> (Co-Creator, Proceedings & Web Chair) <br>
-<b>2021</b>: <a href="https://iwor.github.io/iwor2021/index.html">IWoR</a> (Proceedings Chair)<br>
-<b>2016</b>: <a href="http://lpc.ifmo.ru/flamn16/">FLAMN</a> (Volunteer)
-
-<h3>Awardee</h3>
+<h3>Awards</h3>
 <b>2022</b>: ACM SIGSOFT Distinguished Paper Award at <a href="https://conf.researchr.org/home/msr-2022">MSR</a> (for the paper <i><a href="https://areyde.com/publications/2022-05-18-jupyter-analysis">"A Large-Scale Comparison of Python Code in Jupyter Notebooks and Scripts"</a></i>)<br>
 <b>2021</b>: Best Tool Demo Award at <a href="https://icsme2021.github.io/">ICSME</a> (for the paper <i><a href="https://areyde.com/publications/2021-09-27-sorrel">"Sorrel: an IDE Plugin for Managing Licenses and Detecting License Incompatibilities"</a></i>)<br>
 <b>2018</b>:<br>
@@ -60,16 +48,28 @@ author_profile: true
 
 <hr color="#888888" size="4" noshade>
 
-<h2>Academic journals</h2>
+<h2>Service</h2>
 
-<h3>Author</h3>
+<h3>Program committees and reviews at conferences</h3>
 
-<b>2025</b>: <a href="https://www.sciencedirect.com/journal/information-and-software-technology">Information and Software Technology</a><br>
-<b>2023</b>: <a href="https://www.sciencedirect.com/journal/information-and-software-technology">Information and Software Technology</a><br>
-<b>2021</b>: <a href="https://www.sciencedirect.com/journal/applied-surface-science">Applied Surface Science</a><br>
-<b>2017</b>: <a href="https://www.springer.com/journal/11082">Optical and Quantum Electronics</a>
+<b>2027</b>: <a href="https://conf.researchr.org/track/fse-2027/fse-2027-papers">FSE</a> (Research Track PC), <a href="https://conf.researchr.org/track/icse-2027/icse-2027-research-track">ICSE</a> (Research Track PC)<br>
+<b>2026</b>: <a href="https://conf.researchr.org/track/ase-2026/ase-2026-research-track">ASE</a> (Research Track PC, Industry Showcase Track PC), <a href="https://conf.researchr.org/home/chase-2026">CHASE</a> (PC), <a href="https://conf.researchr.org/track/ease-2026/ease-2026-industry-papers">EASE</a> (Industry Track PC, Posters and Vision PC), <a href="https://conf.researchr.org/track/fse-2026/fse-2026-software-engineering-education">FSE</a> (SEET Track PC, Artifact Evaluation PC), <a href="https://conf.researchr.org/track/icse-2026/icse-2026-research-track">ICSE</a> (Research Track PC, Artifact Evaluation PC), <a href="https://iticse.acm.org/2026/">ITiCSE</a> (Experience Reports and Tools Track PC), <a href="https://conf.researchr.org/home/msr-2026">MSR</a> (Technical Track PC), <a href="https://2026.quatic.org/thematic-tracks/generative-ai-in-ict-education">QUATIC</a> (Generative AI in ICT Education Track PC)<br>
+<b>2025</b>: <a href="https://conf.researchr.org/track/ase-2025/ase-2025-papers">ASE</a> (Research Track PC, Industry Showcase Track PC), <a href="https://conf.researchr.org/home/chase-2025">CHASE</a> (PC), <a href="https://comped.acm.org/2025/call-for-papers/">CompEd</a> (Computing Education Research Track PC), <a href="https://conf.researchr.org/track/ease-2025/ease-2025-industry-papers">EASE</a> (Industry Track PC, Posters and Vision PC), <a href="https://conf.researchr.org/track/icse-2025/icse-2025-artifact-evaluation">ICSE</a> (Artifact Evaluation PC), <a href="https://conf.researchr.org/series/isec">ISEC</a> (Research Track PC), <a href="https://iticse.acm.org/2025/">ITiCSE</a> (Experience Reports and Tools Track PC), <a href="https://2025.msrconf.org/track/msr-2025-technical-papers">MSR</a> (Technical Track PC), <a href="https://sigcse2025.sigcse.org/track/sigcse-ts-2025-Papers">SIGCSE</a> (Computing Education Research Track PC, Demonstrations Track PC)<br>
+<b>2024</b>: <a href="https://conf.researchr.org/track/apsec-2024/apsec-2024-software-engineering-in-practice">APSEC</a> (SEIP Track PC), <a href="https://conf.researchr.org/track/ase-2024/ase-2024-papers">ASE</a> (Research Track PC, Artifact Evaluation PC), <span style="color:#AAAAAA"><a href="https://2024.esec-fse.org/track/fse-2024-industry">FSE</a> (Industry Track Sub-reviewer)</span>, <a href="https://conf.researchr.org/track/icpc-2024/icpc-2024-early-research-achievements-era">ICPC</a> (ERA Track PC), <a href="https://conf.researchr.org/track/icse-2024/icse-2024-software-engineering-in-practice">ICSE</a> (SEIP Track PC), <a href="https://www.kolicalling.fi/">Koli Calling</a> (PC), <a href="https://2024.msrconf.org/track/msr-2024-technical-papers">MSR</a> (Technical Track PC), <a href="https://sigcse2024.sigcse.org/track/sigcse-ts-2024-Papers-1">SIGCSE</a> (Computing Education Research Track PC)<br>
+<b>2023</b>: <span style="color:#AAAAAA"><a href="https://conf.researchr.org/track/ase-2023/ase-2023-papers">ASE</a> (Research Track Sub-reviewer)</span>, <span style="color:#AAAAAA"><a href="https://conf.researchr.org/track/ease-2023/ease-2023-industry">EASE</a> (Industry Track Sub-reviewer)</span>, <span style="color:#AAAAAA"><a href="https://2023.esec-fse.org/track/fse-2023-industry">FSE</a> (Industry Track Sub-reviewer)</span>, <a href="https://conf.researchr.org/track/icsme-2023/icsme-2023-artifact-evaluation-track-and-rose-festival">ICSME</a> (Artifact Evaluation Track PC), <a href="https://2023.issta.org/track/issta-2023-tool-demonstrations">ISSTA</a> (Tool Demonstrations Track PC), <a href="https://conf.researchr.org/track/msr-2023/msr-2023-technical-papers">MSR</a> (Technical Track PC), <a href="https://saner2023.must.edu.mo/restrack">SANER</a> (Research Track PC), <a href="https://sigcse2023.sigcse.org/track/sigcse-ts-2023-posters">SIGCSE</a> (Poster Track PC)<br>
+<b>2022</b>: <span style="color:#AAAAAA"><a href="https://conf.researchr.org/track/ase-2022/ase-2022-research-papers">ASE</a> (Research Track Sub-reviewer)</span>, <span style="color:#AAAAAA"><a href="https://2022.esec-fse.org/track/fse-2022-industry">FSE</a> (Industry Track Sub-reviewer)</span>, <a href="https://cyprusconferences.org/icsme2022/new-ideas-and-emerging-results/">ICSME</a> (Artifact Evaluation Track PC, NIER Track PC), <a href="https://iwor.github.io/iwor2022/">IWoR</a> (PC), <a href="https://conf.researchr.org/track/msr-2022/msr-2022-technical-papers">MSR</a> (Technical Track PC, <span style="color:#AAAAAA">Data and Tool Showcase Track Sub-reviewer</span>), <span style="color:#AAAAAA"><a href="https://saner2022.uom.gr/tooltrack">SANER</a> (Tool Track Sub-reviewer)</span>, <span style="color:#AAAAAA"><a href="https://seim-conf.org/en/">SEIM</a> (Sub-reviewer)</span><br>
+<b>2021</b>: <a href="https://icsme2021.github.io/cfp/AEandROSETrack.html">ICSME</a> (Artifact Evaluation Track PC), <a href="https://2021.msrconf.org/track/msr-2021-shadow-pc?">MSR</a> (Shadow PC)
 
-<h3>Reviewer</h3>
+<h3>Organization and chairing</h3>
+
+<b>2027</b>: <a href="https://conf.researchr.org/track/icse-2027/icse-2027-competition-track">ICSE</a> (Competitions Track Proceedings Chair) <br>
+<b>2026</b>: <a href="https://ide-workshop.github.io/">IDE</a> (General Chair) <br>
+<b>2025</b>: <a href="https://jetbrains-research.github.io/ase2025-context-collection-workshop/">Context Collection Workshop</a> (Proceedings Chair), <a href="https://ide-workshop.github.io/content/ide-2025.html">IDE</a> (Proceedings & Web Chair) <br>
+<b>2024</b>: <a href="https://ide-workshop.github.io/content/ide-2024.html">IDE</a> (Co-Creator, Proceedings & Web Chair) <br>
+<b>2021</b>: <a href="https://iwor.github.io/iwor2021/index.html">IWoR</a> (Proceedings Chair)<br>
+<b>2016</b>: <a href="http://lpc.ifmo.ru/flamn16/">FLAMN</a> (Volunteer)
+
+<h3>Reviewing in journals</h3>
 
 <b>2026</b>: <a href="https://www.sciencedirect.com/journal/information-and-software-technology">Information and Software Technology</a>, <a href="https://www.sciencedirect.com/journal/journal-of-systems-and-software">Journal of Systems and Software</a>, <a href="https://www.sciencedirect.com/journal/science-of-computer-programming">Science of Computer Programming</a>, <a href="https://dl.acm.org/journal/tosem">Transactions on Software Engineering and Methodology</a><br>
 <b>2025</b>: <a href="https://www.springer.com/journal/10664">Empirical Software Engineering</a>, <a href="https://www.computer.org/csdl/journal/ts">Transactions on Software Engineering</a>, <a href="https://dl.acm.org/journal/tosem">Transactions on Software Engineering and Methodology</a> <br>
