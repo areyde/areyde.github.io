@@ -52,7 +52,7 @@ the links point to modern re-prints.
 * Peter Adamson and Jonardon Ganeri, [_Classical Indian Philosophy_](https://www.amazon.com/Classical-Indian-Philosophy-history-philosophy-ebook/dp/B0822WTPMC). Oxford University Press, 2020, 432 p.
 * Arthur Llewellyn Basham, [_History and Doctrines of the Ājīvikas: A Vanished Indian Religion_](https://www.amazon.com/History-Doctrines-Ajivikas-Vanished-Religion/dp/8120812042). Luzac & Co, 1951, 344 p.
 
-<h2>History<h2>
+<h2>History</h2>
 
 <h3>World</h3>
 * Peter Frankopan, [The Silk Roads: A New History of the World](https://www.amazon.com/Silk-Roads-Illustrated-History-World/dp/1547600217). Bloomsbury, 2015, 656 p.
