@@ -54,7 +54,7 @@ the links point to modern re-prints.
 
 <h2>History<h2>
 
-<h3>World</h>
+<h3>World</h3>
 * Peter Frankopan, [The Silk Roads: A New History of the World](https://www.amazon.com/Silk-Roads-Illustrated-History-World/dp/1547600217). Bloomsbury, 2015, 656 p.
 * John Morris Roberts, [_History of the World_](https://www.amazon.com/Penguin-History-World-Sixth/dp/1846144434). Alfred A. Knopf, 1976, 1127 p.
 
