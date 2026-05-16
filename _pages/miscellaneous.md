@@ -29,6 +29,7 @@ author_profile: true
 <ul>
   <li><b><a href="https://areyde.com/chinese/">中文数据库</a></b> — the Chinese language database, a resource for studying and learning Chinese. <b style="color:#888888;">(2018–...)</b></li>
   <li><b><a href="https://areyde.com/eastern_studies_and_esotericism/">"Ориентир" и АИЭМ</a></b> — семинары и научные конференции по восточной культуре и эзотерике. <b style="color:#888888;">(2023–...)</b></li>
+  <li><b><a href="https://areyde.com/library/">Library of humanities</a></b> — a list of books on humanities I have read. <b style="color:#888888;">(2015–...)</b></li>
   <li><b><a href="https://areyde.com/favourite_philosophers/">Favourite philosophers</a></b> — a list of my favourite thinkers that I learned about. <b style="color:#888888;">(2024)</b></li>
   <li><b><a href="https://areyde.com/western_thought/">The timeline of Western thought</a></b> — all major Western philosophers put on a timeline. <b style="color:#888888;">(2023)</b></li>
 </ul>
@@ -44,7 +45,7 @@ author_profile: true
 
 <ul>
   <li><b><a href="https://areyde.com/interviews/">Interviews with researchers</a></b> — my brief work at ITMO University. <b style="color:#888888;">(2019)</b></li>
-  <li><b><a href="https://areyde.com/books/">Редактура книг</a></b> — для одного анонимного подполковника. <b style="color:#888888;">(2017–2020)</b></li>
+  <li><b><a href="https://areyde.com/editorship/">Редактура книг</a></b> — для одного анонимного подполковника. <b style="color:#888888;">(2017–2020)</b></li>
   <li><b><a href="https://areyde.com/music/">Music</a></b> — various songs we recorded with friends. <b style="color:#888888;">(2017–2019)</b></li>
   <li><b><a href="https://areyde.com/worldskills/">WorldSkills</a></b> — my participation in a contest in Laser Technologies. <b style="color:#888888;">(2017)</b></li>
   <li><b><a href="https://areyde.com/summer_camps/">Summer camps</a></b> — my summer work with kids. <b style="color:#888888;">(2016–2018)</b></li>
