@@ -7,14 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-When I was in high school, I read a lot of fiction, mainly XIX century classics (see, for instance, my [project on "War and Peace"](https://areyde.com/war_and_peace/)).
+When I was in high school, I read a lot of fiction, mainly XIX century classics (see, for instance, [my project on "War and Peace"](https://areyde.com/war_and_peace/)).
 I remember sitting in the Physics class, having to prepare for exams, and instead laying out books on top of textbooks and reading them.
-However, interestingly, this all changed when I went to university: I stopped reading fiction and basically never went back to it (I write a bit about that [here](https://areyde.com/notes/2025-02-23)).
-Instead, I started reading non-fiction, and since [my visit to South Africa](https://areyde.com/brics/) in 2016, increasingly started reading non-fiction about philosophy, history, and other fiels of humanities.
-This, of course, exacerbated when I enrolled in my degrees in Philosophy and Religious Studies.
+However, interestingly, this has changed when I went to university: I stopped reading fiction and basically never went back to it (I write a bit about that [here](https://areyde.com/notes/2025-02-23)).
+Instead, I started reading non-fiction, and since [my visit to South Africa in 2016](https://areyde.com/brics/), increasingly started reading non-fiction about philosophy, history, and other fields of humanities.
+This, of course, became even more pronounced when I entered my degrees in Philosophy and Religious Studies.
 
-On this page, I simply wanted to keep an account on all the various books on humanities I have read, in hopes they may prove useful to somebody. 
-I write all the titles in original, but myself read them in English or Russian translations if needed. I specify the <i>original</i> year of publication, even if
+On this page, I simply want to keep an account on all the various books on humanities I have read, in hopes they may prove useful to somebody. 
+I write all the titles in original, but I myself read them in English or Russian translations if needed. I specify the <i>original</i> year of publication, even if
 the links point to modern re-prints.
 
 <h2>Philosophy</h2>
@@ -106,7 +106,7 @@ the links point to modern re-prints.
 * Константин Богуцкий, [_Гермес Трисмегист и герметическая традиция Востока и Запада_](https://www.litres.ru/book/raznoe-4340152/germes-trismegist-i-germeticheskaya-tradiciya-vostoka-i-zap-3702985/). Ирис / Алетейя, 1998, 623 с.
 
 <h3>Magic</h3>
-* Андрей Валентинович Петров, [_Феномен теургии: философия и магия в античности_]. РХГИ / СПбГУ, 2003, 415 с.
+* Андрей Валентинович Петров, [_Феномен теургии: философия и магия в античности_](https://rusneb.ru/catalog/000199_000009_002460715/). РХГИ / СПбГУ, 2003, 415 с.
 
 <h2>Other</h2>
 
