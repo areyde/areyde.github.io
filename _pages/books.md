@@ -61,12 +61,12 @@ the links point to modern re-prints.
 
 <h2>History</h2>
 
-<b>World</b>
+<b>World history</b>
 
 * Peter Frankopan, [_The Silk Roads: A New History of the World_](https://www.amazon.com/Silk-Roads-Illustrated-History-World/dp/1547600217). Bloomsbury, 2015, 656 p.
 * John Morris Roberts, [_History of the World_](https://www.amazon.com/Penguin-History-World-Sixth/dp/1846144434). Alfred A. Knopf, 1976, 1127 p.
 
-<b>China</b>
+<b>History of China</b>
 
 * John Keay, [_China: A History_](https://www.amazon.com/China-History-John-Keay/dp/0465025188). HarperPress, 2008, 609 p.
 * Edward Hetzel Schafer, [_The Golden Peaches of Samarkand: A Study of T'ang Exotics_](https://www.amazon.com/Golden-Peaches-Samarkand-Study-Exotics-ebook/dp/B01MFCKG5W). University of California Press, 1963, 432 p.
@@ -103,9 +103,9 @@ the links point to modern re-prints.
 * Павел Семёнович Гуревич, [_Религиоведение_](https://www.litres.ru/book/pavel-gurevich-10110/religiovedenie-3-e-izd-per-i-dop-uchebnik-dlya-bakala-11953481/). МПСИ, 2005, 696 с.
 * Алексей Юрьевич Рахманин и др., [_Религиоведение_](https://www.litres.ru/book/aleksey-urevich-rahm/religiovedenie-uchebnik-i-praktikum-dlya-akademichesk-12110001/). Юрайт, 2016, 307 с.
 
-<h2>Esoteriology</h2>
+<h2>Esotericism</h2>
 
-<b>General</b>
+<b>Overviews</b>
 
 * Kocku von Stuckrad, [_Was ist Esoterik? Kleine Geschichte des geheimen Wissens_](https://www.amazon.com/Western-Esotericism-History-Secret-Knowledge/dp/1845530349). C. H. Beck, 2004, 280 p.
 * Arthur Versluis, [_Magic and Mysticism: An Introduction to Western Esoteric Traditions_](https://www.amazon.com/Magic-Mysticism-Introduction-Esoteric-Traditions-ebook/dp/B00EMLDEVU). Rowman & Littlefield, 2007, 208 p.
