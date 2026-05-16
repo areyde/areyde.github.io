@@ -30,8 +30,8 @@ the links point to modern re-prints.
 * Thomas Whittaker, [_The Neo-Platonists: A Study in the History of Hellenism_](https://www.amazon.com/Neo-Platonists-History-Hellenism-Classic-Reprint-ebook/dp/B0GGW6LP19). Cambridge University Press, 1901, 244 p.
 * Александр Осипович Маковельский, [_Досократики: первые греческие мыслители в их творениях, в свидетельствах древности и в свете новейших исследований_](https://www.litres.ru/book/aleksandr-makovelskiy/dosokratiki-ch-1-doeleatovskiy-period-561585/). М. А. Голубев, 1914–1915, 2 тома: 246 с. + 254 с. 
 * Александр Иосифович Зайцев, [_Культурный переворот в Древней Греции VIII–V вв. до н. э._](https://www.ozon.ru/product/kulturnyy-perevorot-v-drevney-gretsii-651326147/?at=6WtZgRRJASRZ5gllIjjyrnlcB1r3QBc7ON0RKTPMml2g). ЛГУ, 1984, 208 с.
-* Андрей Валерьевич Лебедев, [Логос Гераклита. Реконструкция мысли и слова](https://www.ozon.ru/product/lebedev-a-v-logos-geraklita-rekonstruktsiya-mysli-i-slova-s-novym-kriticheskim-izdaniem-2973163197). Наука, 2014, 533 с.
-* Роман Викторович Светлов, [История античной философии](https://www.ozon.ru/product/istoriya-antichnoy-filosofii-uchebnik-bakalavra-teologii-svetlov-roman-viktorovich-stepanova-846668546/). Юрайт, 2016, 288 с.
+* Андрей Валерьевич Лебедев, [_Логос Гераклита. Реконструкция мысли и слова_](https://www.ozon.ru/product/lebedev-a-v-logos-geraklita-rekonstruktsiya-mysli-i-slova-s-novym-kriticheskim-izdaniem-2973163197). Наука, 2014, 533 с.
+* Роман Викторович Светлов, [_История античной философии_](https://www.ozon.ru/product/istoriya-antichnoy-filosofii-uchebnik-bakalavra-teologii-svetlov-roman-viktorovich-stepanova-846668546/). Юрайт, 2016, 288 с.
 
 <b>Overviews of Chinese philosophy</b>
 
@@ -44,10 +44,10 @@ the links point to modern re-prints.
 * Владимир Вячеславович Малявин, [_Даосские каноны. Философская проза. Книга 2. Чжуан-цзы_](https://sredotochie.ru/kniga-chzhuan-czy-vnutrennij-razdel-vladimir-malyavin-2017/). Роща, 2017, 2 тома: 388 с. + 452 с.
 * Евгений Алексеевич Торчинов, [_Даосизм. Опыт историко-религиоведческого описания_](https://gnosis.study/library/%D0%93%D0%BD%D0%BE%D0%B7%D0%B8%D1%81/%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8%20%D0%B8%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%B8/RUS/%D0%A2%D0%BE%D1%80%D1%87%D0%B8%D0%BD%D0%BE%D0%B2%20%D0%95.%D0%90.%20-%20%D0%94%D0%B0%D0%BE%D1%81%D0%B8%D0%B7%D0%BC.%20%D0%9E%D0%BF%D1%8B%D1%82%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%BE-%D1%80%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D0%BE%D0%B2%D0%B5%D0%B4%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D1%8F.pdf). Андреев и сыновья, 1993, 312 с.
 
-<b>Overvies of Russian philosophy</b>
+<b>Overviews of Russian philosophy</b>
 
-* Михаил Александрович Маслин, [История русской философии](https://www.ozon.ru/product/istoriya-russkoy-filosofii-uchebnik-dlya-vuzov-maslin-mihail-aleksandrovich-1097046642). Республика, 2001, 639 с.
-* Леонид Наумович Столович, [История русский философии](https://www.ozon.ru/product/stolovich-l-n-istoriya-russkoy-filosofii-respublika-2005g-stolovich-leonid-naumovich-3858876705). Республика, 2005, 495 с.
+* Михаил Александрович Маслин, [_История русской философии_](https://www.ozon.ru/product/istoriya-russkoy-filosofii-uchebnik-dlya-vuzov-maslin-mihail-aleksandrovich-1097046642). Республика, 2001, 639 с.
+* Леонид Наумович Столович, [_История русский философии_](https://www.ozon.ru/product/stolovich-l-n-istoriya-russkoy-filosofii-respublika-2005g-stolovich-leonid-naumovich-3858876705). Республика, 2005, 495 с.
 
 <b>Classic Russian philosophy</b>
 
@@ -63,7 +63,7 @@ the links point to modern re-prints.
 
 <b>World</b>
 
-* Peter Frankopan, [The Silk Roads: A New History of the World](https://www.amazon.com/Silk-Roads-Illustrated-History-World/dp/1547600217). Bloomsbury, 2015, 656 p.
+* Peter Frankopan, [_The Silk Roads: A New History of the World_](https://www.amazon.com/Silk-Roads-Illustrated-History-World/dp/1547600217). Bloomsbury, 2015, 656 p.
 * John Morris Roberts, [_History of the World_](https://www.amazon.com/Penguin-History-World-Sixth/dp/1846144434). Alfred A. Knopf, 1976, 1127 p.
 
 <b>China</b>
@@ -87,8 +87,8 @@ the links point to modern re-prints.
 
 * Hongyuan Dong, [_A History of the Chinese Language_](https://www.amazon.com/History-Chinese-Language-Hongyuan-Dong/dp/0415660408). Routledge, 2014, 218 p.
 * Imre Galambos, [_Orthography of Early Chinese Writing: Evidence from Newly Excavated Manuscripts_](https://edit.elte.hu/xmlui/bitstream/handle/10831/86334/BM-1_GI_Orthography_2008-06-22.pdf). Eötvös Loránd University, 2006, 190 p.
-* Владимир Иванович Горелов, [Лексикология китайского языка](https://books.google.rs/books/about/%D0%9B%D0%B5%D0%BA%D1%81%D0%B8%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D0%BA%D0%B8%D1%82%D0%B0%D0%B9%D1%81%D0%BA.html?id=FPLSAQAACAAJ&redir_esc=y). Просвещение, 1984, 216 с.
-* Иван Дмитриевич Кленин и Владимир Фёдорович Щичко, [Лексикология китайского языка](https://www.litres.ru/book/v-schichko/leksikologiya-kitayskogo-yazyka-10015143/). Восточная книга, 2013, 272 с.
+* Владимир Иванович Горелов, [_Лексикология китайского языка_](https://books.google.rs/books/about/%D0%9B%D0%B5%D0%BA%D1%81%D0%B8%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D0%BA%D0%B8%D1%82%D0%B0%D0%B9%D1%81%D0%BA.html?id=FPLSAQAACAAJ&redir_esc=y). Просвещение, 1984, 216 с.
+* Иван Дмитриевич Кленин и Владимир Фёдорович Щичко, [_Лексикология китайского языка_](https://www.litres.ru/book/v-schichko/leksikologiya-kitayskogo-yazyka-10015143/). Восточная книга, 2013, 272 с.
 * Владимир Фёдорович Щичко, Лариса Александровна Радус и Леонид Гимадитдинович Абдрахимов, [_Курс лекций по истории китайского языка_](https://www.labirint.ru/books/550241/).ВКН, 2015, 192 с.
 * 王鼐 (Ван Най), [_中华文明史话：汉字史话 (История китайских иероглифов)_](https://www.litres.ru/book/van-nay-21076612/istoriya-kitayskih-ieroglifov-48417743/). 中国大百科全书出版社, 2018, 198 p.
 
