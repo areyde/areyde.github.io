@@ -13,6 +13,8 @@ However, interestingly, this has changed when I went to university: I stopped re
 Instead, I started reading non-fiction, and since [my visit to South Africa in 2016](https://areyde.com/brics/), increasingly started reading non-fiction about philosophy, history, and other fields of humanities.
 This, of course, became even more pronounced when I entered my degrees in Philosophy and Religious Studies.
 
+In Saint-Petersburg, I had a small but pretty personal library of my favourite such books. Unfortunately, I had to leave it behind when the war started.
+Since then, I maintain my library in an electronic format, to bring it with me wherever life takes me. 
 On this page, I simply want to keep an account on all the various books on humanities I have read, in hopes they may prove useful to somebody. 
 I write all the titles in original, but I myself read them in English or Russian translations if needed. I specify the <i>original</i> year of publication, even if
 the links point to modern re-prints.
@@ -32,6 +34,7 @@ the links point to modern re-prints.
 * Александр Иосифович Зайцев, [_Культурный переворот в Древней Греции VIII–V вв. до н. э._](https://www.ozon.ru/product/kulturnyy-perevorot-v-drevney-gretsii-651326147/?at=6WtZgRRJASRZ5gllIjjyrnlcB1r3QBc7ON0RKTPMml2g). ЛГУ, 1984, 208 с.
 * Андрей Валерьевич Лебедев, [_Логос Гераклита. Реконструкция мысли и слова_](https://www.ozon.ru/product/lebedev-a-v-logos-geraklita-rekonstruktsiya-mysli-i-slova-s-novym-kriticheskim-izdaniem-2973163197). Наука, 2014, 533 с.
 * Роман Викторович Светлов, [_История античной философии_](https://www.ozon.ru/product/istoriya-antichnoy-filosofii-uchebnik-bakalavra-teologii-svetlov-roman-viktorovich-stepanova-846668546/). Юрайт, 2016, 288 с.
+* Анна Сергеевна Степанова, [_Философия Древней Стои_](https://www.rulit.me/author/stepanova-anna-sergeevna/filosofiya-drevnej-stoi-download-376524.html). Алетейя / KN, 1995, 272 с.
 
 <b>Overviews of Chinese philosophy</b>
 
