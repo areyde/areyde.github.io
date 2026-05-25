@@ -35,6 +35,7 @@ the links point to modern re-prints.
 * Андрей Валерьевич Лебедев, [_Логос Гераклита. Реконструкция мысли и слова_](https://www.ozon.ru/product/lebedev-a-v-logos-geraklita-rekonstruktsiya-mysli-i-slova-s-novym-kriticheskim-izdaniem-2973163197). Наука, 2014, 533 с.
 * Роман Викторович Светлов, [_История античной философии_](https://www.ozon.ru/product/istoriya-antichnoy-filosofii-uchebnik-bakalavra-teologii-svetlov-roman-viktorovich-stepanova-846668546/). Юрайт, 2016, 288 с.
 * Анна Сергеевна Степанова, [_Философия Древней Стои_](https://www.rulit.me/author/stepanova-anna-sergeevna/filosofiya-drevnej-stoi-download-376524.html). Алетейя / KN, 1995, 272 с.
+* Ольга Марковна Танхилевич, [_Эпикур и эпикуреизм_](https://www.koob.ru/tanhilevich_o_m/epicurus_epicureanism). Новая Москва, 1926, 146 с.
 
 <b>Overviews of Chinese philosophy</b>
 
