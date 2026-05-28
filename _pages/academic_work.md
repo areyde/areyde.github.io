@@ -33,10 +33,10 @@ author_profile: true
 
 <h3>Journals</h3>
 
-<b>2025</b>: <a href="https://www.sciencedirect.com/journal/information-and-software-technology">Information and Software Technology</a><br>
-<b>2023</b>: <a href="https://www.sciencedirect.com/journal/information-and-software-technology">Information and Software Technology</a><br>
-<b>2021</b>: <a href="https://www.sciencedirect.com/journal/applied-surface-science">Applied Surface Science</a><br>
-<b>2017</b>: <a href="https://www.springer.com/journal/11082">Optical and Quantum Electronics</a>
+<b>2025</b>: <a href="https://www.sciencedirect.com/journal/information-and-software-technology">IST</a><br>
+<b>2023</b>: <a href="https://www.sciencedirect.com/journal/information-and-software-technology">IST</a><br>
+<b>2021</b>: <a href="https://www.sciencedirect.com/journal/applied-surface-science">Appl. Surf. Sci.</a><br>
+<b>2017</b>: <a href="https://www.springer.com/journal/11082">Opt. Quantum Electron.</a>
 
 <h3>Awards</h3>
 <b>2022</b>: ACM SIGSOFT Distinguished Paper Award at <a href="https://conf.researchr.org/home/msr-2022">MSR</a> (for the paper <i><a href="https://areyde.com/publications/2022-05-18-jupyter-analysis">"A Large-Scale Comparison of Python Code in Jupyter Notebooks and Scripts"</a></i>)<br>
@@ -50,7 +50,7 @@ author_profile: true
 
 <h2>Service</h2>
 
-<h3>Program committees and reviews at conferences</h3>
+<h3>Program Committees and Reviews at Conferences</h3>
 
 <b>2027</b>: <a href="https://conf.researchr.org/track/fse-2027/fse-2027-papers">FSE</a> (Research Track PC), <a href="https://conf.researchr.org/track/icse-2027/icse-2027-research-track">ICSE</a> (Research Track PC)<br>
 <b>2026</b>: <a href="https://conf.researchr.org/track/ase-2026/ase-2026-research-track">ASE</a> (Research Track PC, Industry Showcase Track PC), <a href="https://conf.researchr.org/home/chase-2026">CHASE</a> (PC), <a href="https://cseet26.techconf.org/track/industry">CSEE&T</a> (Industry Track PC), <a href="https://conf.researchr.org/track/ease-2026/ease-2026-industry-papers">EASE</a> (Industry Track PC, Posters and Vision PC), <a href="https://conf.researchr.org/track/fse-2026/fse-2026-software-engineering-education">FSE</a> (SEET Track PC, Artifact Evaluation PC), <a href="https://conf.researchr.org/home/harmony-2026">HARMONY</a> (PC), <a href="https://conf.researchr.org/track/icse-2026/icse-2026-research-track">ICSE</a> (Research Track PC, Artifact Evaluation PC), <a href="https://iticse.acm.org/2026/">ITiCSE</a> (Experience Reports and Tools Track PC), <a href="https://conf.researchr.org/home/msr-2026">MSR</a> (Technical Track PC), <a href="https://2026.quatic.org/thematic-tracks/generative-ai-in-ict-education">QUATIC</a> (Generative AI in ICT Education Track PC)<br>
@@ -60,7 +60,7 @@ author_profile: true
 <b>2022</b>: <span style="color:#AAAAAA"><a href="https://conf.researchr.org/track/ase-2022/ase-2022-research-papers">ASE</a> (Research Track Sub-reviewer)</span>, <span style="color:#AAAAAA"><a href="https://2022.esec-fse.org/track/fse-2022-industry">FSE</a> (Industry Track Sub-reviewer)</span>, <a href="https://cyprusconferences.org/icsme2022/new-ideas-and-emerging-results/">ICSME</a> (Artifact Evaluation Track PC, NIER Track PC), <a href="https://iwor.github.io/iwor2022/">IWoR</a> (PC), <a href="https://conf.researchr.org/track/msr-2022/msr-2022-technical-papers">MSR</a> (Technical Track PC, <span style="color:#AAAAAA">Data and Tool Showcase Track Sub-reviewer</span>), <span style="color:#AAAAAA"><a href="https://saner2022.uom.gr/tooltrack">SANER</a> (Tool Track Sub-reviewer)</span>, <span style="color:#AAAAAA"><a href="https://seim-conf.org/en/">SEIM</a> (Sub-reviewer)</span><br>
 <b>2021</b>: <a href="https://icsme2021.github.io/cfp/AEandROSETrack.html">ICSME</a> (Artifact Evaluation Track PC), <a href="https://2021.msrconf.org/track/msr-2021-shadow-pc?">MSR</a> (Shadow PC)
 
-<h3>Organization and chairing</h3>
+<h3>Organization and Chairing</h3>
 
 <b>2027</b>: <a href="https://conf.researchr.org/track/icse-2027/icse-2027-competition-track">ICSE</a> (Competitions Track Proceedings Chair) <br>
 <b>2026</b>: <a href="https://ide-workshop.github.io/">IDE</a> (General Chair) <br>
@@ -69,12 +69,12 @@ author_profile: true
 <b>2021</b>: <a href="https://iwor.github.io/iwor2021/index.html">IWoR</a> (Proceedings Chair)<br>
 <b>2016</b>: <a href="http://lpc.ifmo.ru/flamn16/">FLAMN</a> (Volunteer)
 
-<h3>Reviewing in journals</h3>
+<h3>Reviewing in Journals</h3>
 
-<b>2026</b>: <a href="https://www.sciencedirect.com/journal/information-and-software-technology">Information and Software Technology</a>, <a href="https://www.sciencedirect.com/journal/journal-of-systems-and-software">Journal of Systems and Software</a>, <a href="https://www.sciencedirect.com/journal/science-of-computer-programming">Science of Computer Programming</a>, <a href="https://dl.acm.org/journal/tosem">Transactions on Software Engineering and Methodology</a><br>
-<b>2025</b>: <a href="https://www.springer.com/journal/10664">Empirical Software Engineering</a>, <a href="https://www.computer.org/csdl/journal/ts">Transactions on Software Engineering</a>, <a href="https://dl.acm.org/journal/tosem">Transactions on Software Engineering and Methodology</a> <br>
-<b>2024</b>: <a href="https://www.computer.org/csdl/journal/ts">Transactions on Software Engineering</a>, <a href="https://dl.acm.org/journal/tosem">Transactions on Software Engineering and Methodology</a> <br>
-<b>2023</b>: <a href="https://www.springer.com/journal/10664">Empirical Software Engineering</a>, <a href="https://www.sciencedirect.com/journal/science-of-computer-programming">Science of Computer Programming</a>, <a href="https://dl.acm.org/journal/tosem">Transactions on Software Engineering and Methodology</a>
+<b>2026</b>: <a href="https://www.sciencedirect.com/journal/information-and-software-technology">IST</a>, <a href="https://www.sciencedirect.com/journal/journal-of-systems-and-software">JSS</a>, <a href="https://www.sciencedirect.com/journal/science-of-computer-programming">SCICO</a>, <a href="https://dl.acm.org/journal/tosem">TOSEM</a><br>
+<b>2025</b>: <a href="https://www.springer.com/journal/10664">EMSE</a>, <a href="https://dl.acm.org/journal/tosem">TOSEM</a>, <a href="https://www.computer.org/csdl/journal/ts">TSE</a><br>
+<b>2024</b>: <a href="https://dl.acm.org/journal/tosem">TOSEM</a>, <a href="https://www.computer.org/csdl/journal/ts">TSE</a><br>
+<b>2023</b>: <a href="https://www.springer.com/journal/10664">EMSE</a>, <a href="https://www.sciencedirect.com/journal/science-of-computer-programming">SCICO</a>, <a href="https://dl.acm.org/journal/tosem">TOSEM</a>
 
 <hr color="#888888" size="4" noshade>
 
@@ -89,7 +89,7 @@ author_profile: true
 <b>2017–2020</b>: Organizer, lecturer, and scientific advisor in the <i>School of Laser Technologies</i> at <a href="https://en.itmo.ru/">ITMO University</a>.<br>
 <b>2014–2020</b>: Invited lecturer at <a href='http://s526.spb.ru/'>my local school</a>, reading lecture courses and popularizing various subjects to students, including classical Russian literature, linguistics, laser physics, and computer science.
 
-<h3>Advising</h3>
+<h3>Advising & Review</h3>
 
 <b>2022</b>:<br>
 – Advisor for the research project of Olesya Subbotina, <i>"Creating a Plugin to Detect Test Smells in Python Projects"</i>, <a href="https://www.hse.ru/en/">HSE University</a>.<br>
