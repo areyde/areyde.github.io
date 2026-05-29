@@ -202,4 +202,4 @@ author_profile: true
 
 <hr color="#888888" size="4" noshade>
 
-<i>Данный сборник существует также в виде <a href="https://docs.google.com/document/d/13j5Av955FV2KmvLcB1ihd0R0414HjlQwgHHk-7OPK8k/edit?usp=sharing">свёрстанной книги</a> (бесконечно обновляющейся).</i>
+<i>Данный сборник существует также в виде <a href="https://docs.google.com/document/d/13j5Av955FV2KmvLcB1ihd0R0414HjlQwgHHk-7OPK8k/edit?usp=sharing">свёрстанной книги</a> (бесконечно обновляющейся). Некоторые мои стихи печатались в <a href="https://aiem-asem.org/newsletter">"Вестнике АИЭМ"</a> (конкретно, в выпусках <a href="http://areyde.com/files/vestnik/vestnik-18.pdf">№18</a> и <a href="http://areyde.com/files/vestnik/vestnik-19.pdf">№19</a>).</i> 
