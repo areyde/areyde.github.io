@@ -91,7 +91,7 @@ author_profile: true
 
 <h3>Advising & Review</h3>
 
-<b>2018</b>: Reviewer for the Master's thesis of Vladislav Krasulenkov, <i>"Setting Up a Pipeline for Working with ML Models for Use in Quantum Chemistry"</i>, <a href="https://en.itmo.ru/">ITMO University</a>.<br>
+<b>2026</b>: Reviewer for the Master's thesis of Vladislav Krasulenkov, <i>"Setting Up a Pipeline for Working with ML Models for Use in Quantum Chemistry"</i>, <a href="https://en.itmo.ru/">ITMO University</a>.<br>
 <b>2022</b>:<br>
 – Advisor for the research project of Olesya Subbotina, <i>"Creating a Plugin to Detect Test Smells in Python Projects"</i>, <a href="https://www.hse.ru/en/">HSE University</a>.<br>
 – Advisor for the academic internship of Anton Ivanov, <i>"Extracting Code Duplicates as soon as They are Introduced in the IDE"</i>, <a href="https://www.hse.ru/en/">HSE University</a>.<br>
