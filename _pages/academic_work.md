@@ -33,7 +33,7 @@ author_profile: true
 
 <h3>Journals</h3>
 
-<b>2026</b>: <a href="https://www.sciencedirect.com/journal/journal-of-systems-and-software">JSS</a><br>
+<b>2026</b>: <a href="https://dl.acm.org/newsletter/sigsoft">ACM SIGSOFT SEN</a>, <a href="https://www.sciencedirect.com/journal/journal-of-systems-and-software">JSS</a><br>
 <b>2025</b>: <a href="https://www.sciencedirect.com/journal/information-and-software-technology">IST</a><br>
 <b>2023</b>: <a href="https://www.sciencedirect.com/journal/information-and-software-technology">IST</a><br>
 <b>2021</b>: <a href="https://www.sciencedirect.com/journal/applied-surface-science">Appl. Surf. Sci.</a><br>
