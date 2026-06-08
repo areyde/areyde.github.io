@@ -31,8 +31,8 @@ During this time, I studied the Chinese language and [served as an administrator
 In 2022, I moved to the lovely Belgrade, Serbia, and thus finished my education remotely. 🏰
 
 Since 2025, I am getting a Master's degree in <b>Religious Studies</b> 🛐 from the [Russian Christian Academy for Humanities](https://rhga.ru/?siteLang=en), with a major
-in studying mystical and esoteric teachings.  I also became a member of the [Association for the Study of Esotericism and Mysticism](https://aiem-asem.org/maineng)
-and started fully managing the association's YouTube channel. I still help out with organizing seminars and scientific conferences there,
+in studying mystical and esoteric teachings. I also became a member of the [Association for the Study of Esotericism and Mysticism](https://aiem-asem.org/maineng)
+and started helping with the association's YouTube channel. I still help out with organizing seminars and scientific conferences there,
 promoting the academic studies of non-academic topics. 🔮
 
 <h2 style="margin-top: -5px;">Research 🔬</h2>
