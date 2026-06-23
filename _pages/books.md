@@ -30,9 +30,9 @@ the links point to modern re-prints.
 <b>Ancient Western philosophy</b>
 
 * Thomas Whittaker, [_The Neo-Platonists: A Study in the History of Hellenism_](https://www.amazon.com/Neo-Platonists-History-Hellenism-Classic-Reprint-ebook/dp/B0GGW6LP19). Cambridge University Press, 1901, 244 p.
-* Александр Осипович Маковельский, [_Досократики: первые греческие мыслители в их творениях, в свидетельствах древности и в свете новейших исследований_](https://www.litres.ru/book/aleksandr-makovelskiy/dosokratiki-ch-1-doeleatovskiy-period-561585/). М. А. Голубев, 1914–1915, 2 тома: 246 с. + 254 с. 
 * Александр Иосифович Зайцев, [_Культурный переворот в Древней Греции VIII–V вв. до н. э._](https://www.ozon.ru/product/kulturnyy-perevorot-v-drevney-gretsii-651326147/?at=6WtZgRRJASRZ5gllIjjyrnlcB1r3QBc7ON0RKTPMml2g). ЛГУ, 1984, 208 с.
 * Андрей Валерьевич Лебедев, [_Логос Гераклита. Реконструкция мысли и слова_](https://www.ozon.ru/product/lebedev-a-v-logos-geraklita-rekonstruktsiya-mysli-i-slova-s-novym-kriticheskim-izdaniem-2973163197). Наука, 2014, 533 с.
+* Александр Осипович Маковельский, [_Досократики: первые греческие мыслители в их творениях, в свидетельствах древности и в свете новейших исследований_](https://www.litres.ru/book/aleksandr-makovelskiy/dosokratiki-ch-1-doeleatovskiy-period-561585/). М. А. Голубев, 1914–1915, 2 тома: 246 с. + 254 с. 
 * Роман Викторович Светлов, [_История античной философии_](https://www.ozon.ru/product/istoriya-antichnoy-filosofii-uchebnik-bakalavra-teologii-svetlov-roman-viktorovich-stepanova-846668546/). Юрайт, 2016, 288 с.
 * Анна Сергеевна Степанова, [_Философия Древней Стои_](https://www.rulit.me/author/stepanova-anna-sergeevna/filosofiya-drevnej-stoi-download-376524.html). Алетейя / KN, 1995, 272 с.
 * Ольга Марковна Танхилевич, [_Эпикур и эпикуреизм_](https://www.koob.ru/tanhilevich_o_m/epicurus_epicureanism). Новая Москва, 1926, 146 с.
@@ -119,9 +119,10 @@ the links point to modern re-prints.
 * Александр Юрьевич Саплин, [_Астрология и религия: противоречия единства_](https://www.ozon.ru/product/saplin-yu-a-astrologiya-i-religiya-protivorechiya-edinstva-saplin-aleksandr-yurevich-899444946). Академия исследований культуры, 2023, 288 с.
 * Александр Юрьевич Саплин, [_История астрологии с древнейших времен до наших дней_](https://www.ozon.ru/product/istoriya-astrologii-s-drevneyshih-vremen-do-nashih-dney-1525215777). РХГА, 2020, 780 с.
 
-<b>Hermetism</b>
+<b>Hermetism & Gnosticism</b>
 
 * Florian Ebeling, [_Das Geheimnis des Hermes Trismegistos: Geschichte des Hermetismus von der Antike bis zur Neuzeit_](https://www.amazon.com/Secret-History-Hermes-Trismegistus-Hermeticism/dp/0801477492). C. H. Beck, 2005, 214 p.
+* Hans Jonas, [The Gnostic Religion: The Message of the Alien God and the Beginnings of Christianity](https://www.amazon.com/Gnostic-Religion-Message-Beginnings-Christianity/dp/0807058017). Beacon Press, 1958, 320 p.
 * Константин Богуцкий, [_Гермес Трисмегист и герметическая традиция Востока и Запада_](https://www.litres.ru/book/raznoe-4340152/germes-trismegist-i-germeticheskaya-tradiciya-vostoka-i-zap-3702985/). Ирис / Алетейя, 1998, 623 с.
 
 <b>Magic</b>
