@@ -121,6 +121,7 @@ the links point to modern re-prints.
 
 <b>Hermetism & Gnosticism</b>
 
+* David Brakke, [_The Gnostics: Myth, Ritual, and Diversity in Early Christianity_](https://www.amazon.com/dp/0674066030). Harvard University Press, 2010, 178 p.
 * Florian Ebeling, [_Das Geheimnis des Hermes Trismegistos: Geschichte des Hermetismus von der Antike bis zur Neuzeit_](https://www.amazon.com/Secret-History-Hermes-Trismegistus-Hermeticism/dp/0801477492). C. H. Beck, 2005, 214 p.
 * Hans Jonas, [_The Gnostic Religion: The Message of the Alien God and the Beginnings of Christianity_](https://www.amazon.com/Gnostic-Religion-Message-Beginnings-Christianity/dp/0807058017). Beacon Press, 1958, 320 p.
 * Евгений Васильевич Афонасин, [_Школа Валентина. Фрагменты и свидетельства_](https://www.livelib.ru/book/1000311553-shkola-valentina-fragmenty-i-svidetelstva-predislovie-perevod-i-kommentarij-ev-afonasina). Алетейя, 2002, 304 с.
