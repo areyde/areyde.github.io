@@ -126,6 +126,7 @@ the links point to modern re-prints.
 * Hans Jonas, [_The Gnostic Religion: The Message of the Alien God and the Beginnings of Christianity_](https://www.amazon.com/Gnostic-Religion-Message-Beginnings-Christianity/dp/0807058017). Beacon Press, 1958, 320 p.
 * Евгений Васильевич Афонасин, [_Школа Валентина. Фрагменты и свидетельства_](https://www.livelib.ru/book/1000311553-shkola-valentina-fragmenty-i-svidetelstva-predislovie-perevod-i-kommentarij-ev-afonasina). Алетейя, 2002, 304 с.
 * Константин Богуцкий, [_Гермес Трисмегист и герметическая традиция Востока и Запада_](https://www.litres.ru/book/raznoe-4340152/germes-trismegist-i-germeticheskaya-tradiciya-vostoka-i-zap-3702985/). Ирис / Алетейя, 1998, 623 с.
+* Марианна Казимировна Трофимов, [Историко-философские вопросы гностицизма (Наг-Хаммади, II, сочинения 2, 3, 6, 7)](https://www.klex.ru/22tn). Наука, 1979, 216 с.
 
 <b>Magic</b>
 
