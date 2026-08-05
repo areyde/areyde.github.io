@@ -11,7 +11,7 @@ author_profile: true
 
 <hr color="#888888" size="4" noshade>
 
-<b><a href="https://areyde.com/notes/2026-08-05">О ностальгии и метамодернизме</a></b> — 22.06.2025
+<b><a href="https://areyde.com/notes/2026-08-05">Об искусственном интеллекте и мистическом опыте</a></b> — 05.08.2026 <span style="color: #888888">(интервью <a href="http://areyde.com/files/vestnik/vestnik-20.pdf#page=16">"Вестнику АИЭМ"</a>)</span>
 
 <b><a href="https://areyde.com/notes/2025-06-22">О ностальгии и метамодернизме</a></b> — 22.06.2025
 
