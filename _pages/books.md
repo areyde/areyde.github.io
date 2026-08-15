@@ -46,7 +46,6 @@ the links point to modern re-prints.
 
 * Владимир Вячеславович Малявин, [_Дао-дэ цзин. Книга о пути жизни_](https://sredotochie.ru/kniga-dao-de-czin-kniga-o-puti-zhizni-vladimir-malyavin-2010-g/). Феория, 2019, 704 p.
 * Владимир Вячеславович Малявин, [_Даосские каноны. Философская проза. Книга 2. Чжуан-цзы_](https://sredotochie.ru/kniga-chzhuan-czy-vnutrennij-razdel-vladimir-malyavin-2017/). Роща, 2017, 2 тома: 388 с. + 452 с.
-* Евгений Алексеевич Торчинов, [_Даосизм. Опыт историко-религиоведческого описания_](https://gnosis.study/library/%D0%93%D0%BD%D0%BE%D0%B7%D0%B8%D1%81/%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8%20%D0%B8%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%B8/RUS/%D0%A2%D0%BE%D1%80%D1%87%D0%B8%D0%BD%D0%BE%D0%B2%20%D0%95.%D0%90.%20-%20%D0%94%D0%B0%D0%BE%D1%81%D0%B8%D0%B7%D0%BC.%20%D0%9E%D0%BF%D1%8B%D1%82%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%BE-%D1%80%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D0%BE%D0%B2%D0%B5%D0%B4%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D1%8F.pdf). Андреев и сыновья, 1993, 312 с.
 
 <b>Overviews of Russian philosophy</b>
 
@@ -102,10 +101,18 @@ the links point to modern re-prints.
 * Ignace Jay Gelb, [_A Study of Writing_](https://www.amazon.com/Study-Writing-Phoenix-Books/dp/0226286061). University of Chicago Press, 1952, 311 p.
 
 <h2>Religious Studies</h2>
+
+<b>Methodology</b>
+
 * Max Friedrich Müller, [_Introduction to the Science of Religion: Four Lectures Delivered at the Royal Institution, with Two Essays on False Analogies, and the Philosophy of Mythology_](https://www.amazon.com/Introduction-Science-Religion-Institution-Philosophy/dp/1372065520). Longmans, 1873, 412 p.
 * Jacques Waardenburg, [_Religionen und Religion: Systematische Einführung in die Religionswissenschaft_](https://www.amazon.com/Religionen-Religion-Sammlung-Gaschen-German/dp/3110103249). Walter de Gruyter, 1986, 277 p.
 * Павел Семёнович Гуревич, [_Религиоведение_](https://www.litres.ru/book/pavel-gurevich-10110/religiovedenie-3-e-izd-per-i-dop-uchebnik-dlya-bakala-11953481/). МПСИ, 2005, 696 с.
 * Алексей Юрьевич Рахманин и др., [_Религиоведение_](https://www.litres.ru/book/aleksey-urevich-rahm/religiovedenie-uchebnik-i-praktikum-dlya-akademichesk-12110001/). Юрайт, 2016, 307 с.
+
+<b>History of specific religions</b>
+
+* Евгений Алексеевич Торчинов, [_Введение в буддологию: курс лекций_](https://www.litres.ru/book/evgeniy-torchinov/vvedenie-v-buddizm-66983944/). Санкт-Петербургское философское общество, 2000, 304 с.
+* Евгений Алексеевич Торчинов, [_Даосизм. Опыт историко-религиоведческого описания_](https://gnosis.study/library/%D0%93%D0%BD%D0%BE%D0%B7%D0%B8%D1%81/%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8%20%D0%B8%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%B8/RUS/%D0%A2%D0%BE%D1%80%D1%87%D0%B8%D0%BD%D0%BE%D0%B2%20%D0%95.%D0%90.%20-%20%D0%94%D0%B0%D0%BE%D1%81%D0%B8%D0%B7%D0%BC.%20%D0%9E%D0%BF%D1%8B%D1%82%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%BE-%D1%80%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D0%BE%D0%B2%D0%B5%D0%B4%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D1%8F.pdf). Андреев и сыновья, 1993, 312 с.
 
 <h2>Esotericism</h2>
 
@@ -130,6 +137,7 @@ the links point to modern re-prints.
 
 <b>Magic</b>
 
+* Chris Gosden, [_The History of Magic: From Alchemy to Witchcraft, from the Ice Age to the Present_](https://www.amazon.com/dp/0374200122). Viking / Penguin, 2020, 512 p.
 * Андрей Валентинович Петров, [_Феномен теургии: философия и магия в античности_](https://rusneb.ru/catalog/000199_000009_002460715/). РХГИ / СПбГУ, 2003, 415 с.
 
 <h2>Other</h2>
