@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello! 👋"
+title: "Hi there! 👋"
 author_profile: true
 redirect_from: 
   - /about/
@@ -41,7 +41,7 @@ promoting the academic studies of non-academic topics. 🔮
 
 While I used to carry out research of my own, I realized that I enjoy helping other people more, and became a <b>research administrator</b>, with the goal of supporting other researchers, both administratively and academically. 🤝
 Nowadays, I mostly assist in different stages of projects, from planning to writing. Throughout the years, this enabled me to touch on [all kinds of subjects](https://areyde.com/publications/), including computer science education, stack trace processing, Jupyter notebooks, code completion, code quality, serverless computing, psychology of programming, and others.
-It is a great privilege to learn more about these areas from my colleagues. I also still do [academic work](https://areyde.com/academic_work/) like reviewing papers and organizing workshops, as well as occasionally giving classes. 🎓
+It is a great privilege to learn more about these areas from my colleagues. I also do a lot of [academic work](https://areyde.com/academic_work/) like reviewing papers and organizing workshops, as well as occasionally giving classes. 🎓
 
 The overarching theme of <b>my own studies</b> in software engineering was mining large corpora of existing source code and analyzing them to discover various
 patterns, as well as better understand how developers write software. While
@@ -70,6 +70,16 @@ and conducted research about the concept of relativity in ancient Taoist texts. 
 I am exploring esoteric practices within Russian emigration in Yugoslavia a hundred years ago. 🪬
 
 <a href="https://scholar.google.com/citations?user=qb_dl6AAAAAJ&hl=en">Google Scholar</a> says I have <b>{{ site.data.citations.total }}</b> citations and an h-index of <b>{{ site.data.citations.h_index }}</b>. Cool! (I wrote this auto-scraper, I am very proud of it, and I want to use it to the fullest!) 🤓
+
+<h2 style="margin-top: -5px;">Other work 🛠️</h2>
+
+Above, I mentioned the research, academic, and educational aspects of my work as the **research administrator**, but they are not the only ones. 💼
+I became an administrator when JetBrains Research was reformed as a fully fledged department and reached ~100 people, which means there is a lot of work to do help it function properly.
+I serve as a secretary in the department leadership, maintain various documentation, organize internal events, and try to improve the people's overall well-being. 🥰
+
+Additionally, I work part-time as a **data analyst**, analyzing open-source repositories to help with various product decisions. 🕵🏻
+I studied the structure, features, dependencies, and prevalence of projects in Kotlin, Java, Python, C#, Go, JavaScript, PHP, Rust, and many other languages. 
+Through this research, I helped Kotlin itself, virtually all JetBrains IDEs (IntelliJ IDEA, PyCharm, WebStorm, Rider, etc.), TeamCity, Amper, and some AI Products. 📈
 
 
 <h2 style="margin-top: -5px;">Hobbies 🎨</h2>
