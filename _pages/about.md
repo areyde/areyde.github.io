@@ -74,7 +74,7 @@ I am exploring esoteric practices within Russian emigration in Yugoslavia a hund
 <h2 style="margin-top: -5px;">Other work 🛠️</h2>
 
 Above, I mentioned the research, academic, and educational aspects of my work as the **research administrator**, but they are not the only ones. 💼
-I became an administrator when JetBrains Research was reformed as a fully fledged department and reached ~100 people, which means there is a lot of work to do help it function properly.
+JetBrains Research is a fully fledged R&D department and reached ~100 people, so there is a lot of work for it to function properly.
 I serve as a secretary in the department leadership, maintain various documentation, organize internal events, and try to improve the people's overall well-being. 🥰
 
 Additionally, I work part-time as a **data analyst**, analyzing open-source repositories to help with various product decisions. 🕵🏻
