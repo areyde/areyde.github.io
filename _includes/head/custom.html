@@ -41,14 +41,12 @@
         const url = new URL(window.location.href);
         const setting = url.searchParams.get('analytics');
 
-        // Allow special URLs to turn analytics off/on for this browser
         if (setting === 'off') {
             localStorage.setItem(key, 'true');
         } else if (setting === 'on') {
             localStorage.removeItem(key);
         }
 
-        // Remove ?analytics=off/on from the visible URL afterwards
         if (setting === 'off' || setting === 'on') {
             url.searchParams.delete('analytics');
             history.replaceState(
@@ -58,7 +56,6 @@
             );
         }
 
-        // Disable Google Analytics if this browser has opted out
         if (localStorage.getItem(key) === 'true') {
             window['ga-disable-G-B1PYH90B0L'] = true;
         }
