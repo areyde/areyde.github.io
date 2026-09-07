@@ -35,6 +35,36 @@
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
+<script>
+    (function () {
+        const key = 'areyde_disable_analytics';
+        const url = new URL(window.location.href);
+        const setting = url.searchParams.get('analytics');
+
+        // Allow special URLs to turn analytics off/on for this browser
+        if (setting === 'off') {
+            localStorage.setItem(key, 'true');
+        } else if (setting === 'on') {
+            localStorage.removeItem(key);
+        }
+
+        // Remove ?analytics=off/on from the visible URL afterwards
+        if (setting === 'off' || setting === 'on') {
+            url.searchParams.delete('analytics');
+            history.replaceState(
+                {},
+                document.title,
+                url.pathname + url.search + url.hash
+            );
+        }
+
+        // Disable Google Analytics if this browser has opted out
+        if (localStorage.getItem(key) === 'true') {
+            window['ga-disable-G-B1PYH90B0L'] = true;
+        }
+    })();
+</script>
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.analytics.google.tracking_id }}"></script>
 
