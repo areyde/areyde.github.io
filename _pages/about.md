@@ -32,8 +32,8 @@ During this time, I studied the Chinese language and [served as an administrator
 In 2022, I moved to the lovely Belgrade, Serbia, and thus finished my education remotely. 🏰
 
 Since 2025, I am getting a Master's degree in <b>Religious Studies</b> 🛐 from the [Russian Christian Academy for Humanities](https://rhga.ru/?siteLang=en), with a major
-in studying mystical and esoteric teachings. I also became a member of the [Association for the Study of Esotericism and Mysticism](https://aiem-asem.org/maineng)
-and started fully managing the association's YouTube channel. I still help out with organizing seminars and scientific conferences there,
+in studying mystical and esoteric teachings. I also became a member of the Association for the Study of Esotericism and Mysticism
+and started fully managing the association's YouTube channel. I still help out with [organizing seminars and scientific conferences](https://areyde.com/eastern_studies_and_esotericism/) there,
 promoting the academic studies of non-academic topics. 🔮
 
 <h2 style="margin-top: -5px;">Research 🔬</h2>
@@ -87,17 +87,17 @@ Through this research, I helped Kotlin itself, virtually all JetBrains IDEs (Int
 
 **Writing**. I am, and always was, a very text-based person. I think in text, perceive the world in text, and that's how I started writing papers in the first place.
 If I had to choose the most important thing I do in my life, that would be [writing poetry](https://areyde.com/poetry/). 
-For my inspiration, I draw on the Russian classics of the second half of the 19th century.
+For inspiration, I draw on my favourite literature, namely, the Russian classics of the second half of the 19th century.
 I also sometimes write random thoughts in the form of [essays](https://areyde.com/notes/). 📜
 
-**Even more humanities**. I love [philosophy](https://areyde.com/favourite_philosophers/) and care especially deeply about Eastern philosophy 
-— Chinese (Taoism, Chan Buddhism) and Indian (Śramaṇa/Nāstika traditions: Buddhism, Jainism, Ājīvika), — as well as various religious movements all over the world. 📿
-More recently I also fell in love with history, from the dawn of time to ≈1929 (I really do not like 20th century).
-I especially like all Chinese history, history of West Asia in the first centuries CE, Early Medieval times (islam and Tang dynasty), and the steppe history of Central Asia. ️🪶
-A more narrow period from ≈1860s to the end of the First World War is my main inspiration and passion in everything — history, poetry, prose, paintings, classical music, and overall aesthetics. 🏛️
+**Even more humanities**. In addition to philosophy and esoterics that I studied, more recently I also fell in love with history, from the dawn of time to ≈1929 (I really do not like the 20th century).
+I particularly like all Chinese history, history of West Asia in the first centuries CE, Early Medieval times (≈ islam and the Tang dynasty), and the steppe history of Central Asia. ️🪶
+A narrow period from ≈1860s to the end of the First World War is my main inspiration and passion in everything — history, poetry, prose, paintings, classical music, and overall aesthetics. 🏛️
 
 **Chinese language**. Another major love of mine is the Chinese language. 
-In addition to learning it, I love [analyzing its content, popularity, history, and evolution](https://areyde.com/chinese/) — and care about linguistics in general. 💬
+I learned it for my studies, but I also love analyzing its content, history, and evolution.
+I created and maintain the [Chinese language database](https://areyde.com/chinese/), which includes character and word frequency lists, HSK 2.0 and HSK 3.0 levels, pinyin, meanings, radicals, and stroke counts.
+It can be used to both analyze the language and learn it. 💬
 
-**Travel**. I like [walking and biking](https://areyde.com/srbija/) a lot.
+**Travel**. I like physical sports, in particular, [walking and biking](https://areyde.com/srbija/) a lot (and putting it on a map, of coruse).
 I also wrote down and visualized [all the places where I have ever been](https://areyde.com/travels/): more than 200 cities and towns in 22 countries. Luckily, their number can only go up! 🧳
