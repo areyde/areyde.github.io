@@ -1,15 +1,15 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Publications 📜"
     url: /publications/
 
   - title: "Academic work"
     url: /academic_work/
 
-  - title: '"О природе"'
+  - title: 'Стихи'
     url: /poetry/
 
-  - title: "中文数据库"
+  - title: "Chinese language"
     url: /chinese/
 
   - title: "Travels"
