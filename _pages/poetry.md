@@ -1,6 +1,7 @@
 ---
 layout: archive
-title: '"О природе" 🌏'
+title: '"О природе". Стихи 🌏'
+description: '"О природе" — постоянно обновляемый сборник стихов Ярослава Голубева.'
 permalink: /poetry/
 author_profile: true
 ---
