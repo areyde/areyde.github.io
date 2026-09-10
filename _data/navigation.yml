@@ -1,19 +1,19 @@
 # main links links
 main:
-  - title: "Publications 📜"
+  - title: "Publications"
     url: /publications/
 
-  - title: "Academic work 🎓"
+  - title: "Academic work"
     url: /academic_work/
 
-  - title: 'Стихи 🌏'
+  - title: 'Стихи'
     url: /poetry/
 
-  - title: "Chinese language 🐉"
+  - title: "Chinese language"
     url: /chinese/
 
-  - title: "Travels 🧳"
+  - title: "Travels"
     url: /travels/
 
-  - title: 'Everything else 🌌'
+  - title: 'Everything else'
     url: /everything/
