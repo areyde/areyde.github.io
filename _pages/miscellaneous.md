@@ -21,7 +21,7 @@ author_profile: true
 <b>Творчество:</b>
 
 <ul>
-  <li><b><a href="https://areyde.com/poetry/">"О природе"</a></b> — бесконечно обновляемый сборник стихов. <b style="color:#888888;">(2019–...)</b></li>
+  <li><b><a href="https://areyde.com/poetry/">«О природе»</a></b> — бесконечно обновляемый сборник стихов. <b style="color:#888888;">(2019–...)</b></li>
   <li><b><a href="https://areyde.com/notes/">Записки</a></b> — эссе на случайные темы. <b style="color:#888888;">(2024–...)</b></li>
 </ul>
 
@@ -29,7 +29,7 @@ author_profile: true
 
 <ul>
   <li><b><a href="https://areyde.com/chinese/">Chinese language database</a></b> — a resource for studying and learning Chinese. <b style="color:#888888;">(2018–...)</b></li>
-  <li><b><a href="https://areyde.com/eastern_studies_and_esotericism/">"Ориентир" и АИЭМ</a></b> — семинары и научные конференции по восточной культуре и эзотерике. <b style="color:#888888;">(2023–...)</b></li>
+  <li><b><a href="https://areyde.com/eastern_studies_and_esotericism/">«Ориентир» и АИЭМ</a></b> — семинары и научные конференции по восточной культуре и эзотерике. <b style="color:#888888;">(2023–...)</b></li>
   <li><b><a href="https://areyde.com/library/">Library of humanities</a></b> — my virtual library of books on humanities. <b style="color:#888888;">(2015–...)</b></li>
   <li><b><a href="https://areyde.com/favourite_philosophers/">Favourite philosophers</a></b> — a list of my favourite thinkers that I learned about. <b style="color:#888888;">(2024)</b></li>
   <li><b><a href="https://areyde.com/western_philosophy/">The timeline of Western philosophy</a></b> — all major Western philosophers put on a timeline. <b style="color:#888888;">(2023)</b></li>
@@ -52,7 +52,7 @@ author_profile: true
   <li><b><a href="https://areyde.com/summer_camps/">Summer camps</a></b> — my summer work with kids. <b style="color:#888888;">(2016–2018)</b></li>
   <li><b><a href="https://areyde.com/brics/">THE BRICS & Emerging Economies Universities Summit</a></b> — where I was a representative of Russian students. <b style="color:#888888;">(2016)</b></li>
   <li><b><a href="https://areyde.com/pathologic/">"Pathologic"</a></b> — a translation of a video game I took part in. <b style="color:#888888;">(2015)</b></li>
-  <li><b><a href="https://areyde.com/war_and_peace/">Схема героев романа "Война и Мир"</a></b> — школьный научный проект. <b style="color:#888888;">(2013)</b></li>
+  <li><b><a href="https://areyde.com/war_and_peace/">Схема героев романа «Война и мир»</a></b> — школьный научный проект. <b style="color:#888888;">(2013)</b></li>
   <li><b><a href="https://areyde.com/areyde/">"Areyde"</a></b> — where the name comes from. <b style="color:#888888;">(2008)</b></li>
 </ul>
 

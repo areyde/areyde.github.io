@@ -78,5 +78,5 @@ Your browser does not support the audio element.
 </tbody>
 </table>
 
-<img src="/images/album_cover.jpg">
+<img src="/images/album_cover.jpg" title="Hand-drawn album cover from our university music experiments." alt="Hand-drawn album cover from our university music experiments.">
 

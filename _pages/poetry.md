@@ -141,7 +141,7 @@ author_profile: true
 
 <b><a href="https://areyde.com/poetry/2023-06-27">«Туманное завтра! Опять и опять я…»</a></b> — 27.06.2023
 
-<b><a href="https://areyde.com/poetry/2023-06-19">««Служить» — мне нет милее в этом мире слова…»</a></b> — 19.06.2023
+<b><a href="https://areyde.com/poetry/2023-06-19">«"Служить" — мне нет милее в этом мире слова…»</a></b> — 19.06.2023
 
 <b><a href="https://areyde.com/poetry/2023-06-13">«Насколько беден наш язык…»</a></b> — 13.06.2023
 
@@ -207,4 +207,4 @@ author_profile: true
 
 <hr color="#888888" size="4" noshade>
 
-<i>Данный сборник существует также в виде <a href="https://docs.google.com/document/d/13j5Av955FV2KmvLcB1ihd0R0414HjlQwgHHk-7OPK8k/edit?usp=sharing">свёрстанной книги</a> (бесконечно обновляющейся). Некоторые мои стихи печатались в <a href="https://aiem-asem.org/newsletter">"Вестнике АИЭМ"</a> (конкретно, в выпусках <a href="http://areyde.com/files/vestnik/vestnik-18.pdf">№18</a>, <a href="http://areyde.com/files/vestnik/vestnik-19.pdf">№19</a> и <a href="http://areyde.com/files/vestnik/vestnik-20.pdf">№20</a>).</i> 
+<i>Данный сборник существует также в виде <a href="https://docs.google.com/document/d/13j5Av955FV2KmvLcB1ihd0R0414HjlQwgHHk-7OPK8k/edit?usp=sharing">свёрстанной книги</a> (бесконечно обновляющейся). Некоторые мои стихи печатались в <a href="https://aiem-asem.org/newsletter">«Вестнике АИЭМ»</a> (конкретно, в выпусках <a href="http://areyde.com/files/vestnik/vestnik-18.pdf">№18</a>, <a href="http://areyde.com/files/vestnik/vestnik-19.pdf">№19</a> и <a href="http://areyde.com/files/vestnik/vestnik-20.pdf">№20</a>).</i> 
