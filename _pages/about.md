@@ -90,14 +90,14 @@ If I had to choose the most important thing I do in my life, that would be [writ
 For inspiration, I draw on my favourite literature, namely, the Russian classics of the second half of the 19th century.
 I also sometimes write random thoughts in the form of [essays](https://areyde.com/notes/). 📜
 
-**Even more humanities**. In addition to philosophy and esoterics that I studied, more recently I also fell in love with history, from the dawn of time to ≈1929 (I really do not like the 20th century).
-I particularly like all Chinese history, history of West Asia in the first centuries CE, Early Medieval times (≈ islam and the Tang dynasty), and the steppe history of Central Asia. ️🪶
+**Even more humanities**. In addition to philosophy and esoterics that I studied, more recently I also fell in love with history, from the dawn of time to ≈1929 (I really do not like the 20th century). 🪶
+I particularly like all Chinese history, history of West Asia in the first centuries CE, Early Medieval times (≈ islam and the Tang dynasty), and the steppe history of Central Asia. ️
 A narrow period from ≈1860s to the end of the First World War is my main inspiration and passion in everything — history, poetry, prose, paintings, classical music, and overall aesthetics. 🏛️
 
 **Chinese language**. Another major love of mine is the Chinese language. 
 I learned it for my studies, but I also love analyzing its content, history, and evolution.
 I created and maintain the [Chinese language database](https://areyde.com/chinese/), which includes character and word frequency lists, HSK 2.0 and HSK 3.0 levels, pinyin, meanings, radicals, and stroke counts.
-It can be used to both analyze the language and learn it. 💬
+It can be used to both analyze the language and learn it. 🐉
 
 **Travel**. I like physical sports, in particular, [walking and biking](https://areyde.com/srbija/) a lot (and putting it on a map, of coruse).
 I also wrote down and visualized [all the places where I have ever been](https://areyde.com/travels/): more than 200 cities and towns in 22 countries. Luckily, their number can only go up! 🧳
