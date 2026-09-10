@@ -51,7 +51,7 @@ author_profile: true
   <li><b><a href="https://areyde.com/summer_camps/">Summer camps</a></b> — my summer work with kids. <b style="color:#888888;">(2016–2018)</b></li>
   <li><b><a href="https://areyde.com/brics/">THE BRICS & Emerging Economies Universities Summit</a></b> — where I was a representative of Russian students. <b style="color:#888888;">(2016)</b></li>
   <li><b><a href="https://areyde.com/pathologic/">"Pathologic"</a></b> — a translation of a video game I took part in. <b style="color:#888888;">(2015)</b></li>
-  <li><b><a href="https://areyde.com/war_and_peace/">Карта героев романа "Война и Мир"</a></b> — школьный научный проект. <b style="color:#888888;">(2013)</b></li>
+  <li><b><a href="https://areyde.com/war_and_peace/">Схема героев романа "Война и Мир"</a></b> — школьный научный проект. <b style="color:#888888;">(2013)</b></li>
   <li><b><a href="https://areyde.com/areyde/">"Areyde"</a></b> — where the name comes from. <b style="color:#888888;">(2008)</b></li>
 </ul>
 

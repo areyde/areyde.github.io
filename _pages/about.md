@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Hi there! 👋"
+description: "The personal website of Yaroslav Golubev, a Research Administrator from JetBrains Research. The website collects everything that I consider important in my life: research work, poetry, travels, and various random things I contributed to."
 author_profile: true
 redirect_from: 
   - /about/
