@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: 'Translation of "Pathologic" 🎭'
+description: "Credits for translating the game Pathologic from Russian to English."
 permalink: /pathologic/
 author_profile: true
 ---
@@ -12,5 +13,5 @@ In 2015, I briefly participated in a translation of a video game into English, n
 was just helping and practicing, and so translated very little, however, they still added me to the credits.
 It's a great honor, given the fact that this is a fantastic game and a cult classic.
 
-<img src="/images/pathologic.png">
+<img src="/images/pathologic.png" title="Credits for translating the game Pathologic from Russian to English" alt="Credits for translating the game Pathologic from Russian to English">
 

@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: 'WorldSkills Russia in Laser Technologies 🛠️'
+description: "My results when participating in WorldSkills Russia, in the Laser Technologies trade."
 permalink: /worldskills/
 author_profile: true
 ---
@@ -15,4 +16,4 @@ Nonetheless, this was a great experience that gave me more practical skills than
 combined. I made a lot of cool things from wood, plastic, and metal with my own hands, and — even more importantly! — used the
 access to a CO2 laser to engrave my ukulele! 🪕
 
-<img src="/images/worldskills_me.jpg">
+<img src="/images/worldskills_me.jpg" title="Yaroslav Golubev at World Skills" alt="Yaroslav Golubev at World Skills">

@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: 'Summer camps 🏕️'
+description: "My work in summer camps."
 permalink: /summer_camps/
 author_profile: true
 ---
@@ -16,4 +17,4 @@ to travel by myself for the first time, I remember those summers with love!
 * <b>2018</b>: <a href="https://www.cccpioner.com/">"Pioner"</a> summer camp, musical director.
 * <b>2016–2017</b>: <a href="https://www.caravel.ru/index.php">"Karavella"</a> summer camp, camp counselor.
 
-<img src="/images/summer_camp_me.jpg">
+<img src="/images/summer_camp_me.jpg" title="Yaroslav Golubev in summer camp" alt="Yaroslav Golubev in summer camp.">

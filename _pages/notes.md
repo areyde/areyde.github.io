@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: 'Записки ✍'
+description: "Короткие эссе по философии, написанные Ярославом Голубевым."
 permalink: /notes/
 author_profile: true
 ---

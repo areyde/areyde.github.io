@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: 'Abstracts from conferences in Laser Technologies without publications 💥'
+description: "A list of posters and talks by Yaroslav Golubev that relate to laser physics. These talks did not have full formal proceedings."
 permalink: /physics_conferences/
 author_profile: true
 ---

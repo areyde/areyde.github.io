@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Chinese Character & Word Database — Frequency, HSK, Learning 🐉"
+title: "Chinese character & word database — frequency, HSK, learning 🐉"
 description: "A free Mandarin Chinese database with character and word frequency lists, HSK 2.0 and HSK 3.0 levels, pinyin, meanings, radicals, and stroke counts."
 permalink: /chinese/
 author_profile: true

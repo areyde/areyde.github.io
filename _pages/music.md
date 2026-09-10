@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: 'Experiments with music 🎵'
+description: "Our early music experiments from university times. Includes our recordings of popular songs in English and Russian."
 permalink: /music/
 author_profile: true
 ---

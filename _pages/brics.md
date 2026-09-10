@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: 'THE BRICS & Emerging Economies Universities Summit 🧱'
+description: "The recording of the students' panel at the THE BRICS & Emerging Economies Universities Summit. Five students, including Yaroslav Golubev, are discussing education in their respective countries."
 permalink: /brics/
 author_profile: true
 ---

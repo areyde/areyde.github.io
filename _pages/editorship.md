@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: 'Редактура книг ✂️'
+description: "Редактура книг ветерану войн."
 permalink: /editorship/
 author_profile: true
 ---

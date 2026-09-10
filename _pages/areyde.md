@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: 'What does "Areyde" mean? ⚜️'
+description: "History of the name Areyde."
 permalink: /areyde/
 author_profile: true
 ---
@@ -19,5 +20,5 @@ turned out to be an anagram for _Beloved Ranger_. This made me forever sure that
 Finally, I had a sigil for Areyde — a white oak on the deep green background. One friend of mine drew Areyde as she imagined
 him, and I guess now I have this image to remind me of those times. And the name stuck.
 
-<img src="/images/areyde.jpg">
+<img src="/images/areyde.jpg" title='"Areyde" as envisioned by an artist' alt='"Areyde" as envisioned by an artist'>
 

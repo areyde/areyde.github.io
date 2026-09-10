@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: 'Interviews with researchers at ITMO University 🎙️'
+description: "The results of my work at ITMO University in 2019: interviews with researchers with the goal of promoting popular science."
 permalink: /interviews/
 author_profile: true
 ---

@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: 'Library of humanities 📚'
+description: "A collection of great books on humanities: philosophy, history, linguistics, religious studies."
 permalink: /library/
 author_profile: true
 ---

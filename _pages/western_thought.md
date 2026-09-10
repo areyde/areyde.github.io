@@ -1,8 +1,11 @@
 ---
 layout: archive
-title: 'The timeline of Western thought 🏛️'
-permalink: /western_thought/
+title: 'The timeline of Western philosophy 🏛️'
+description: "The timeline of Western philosophers. All western philosophers put on a convenient timeline, divided by eras and schools."
+permalink: /western_philosophy/
 author_profile: true
+redirect_from:
+  - /western_thought/
 ---
 
 {% include base_path %}
@@ -28,24 +31,24 @@ with some additions from various sources. The list is divided into charts as fol
 
 <h2>Ancient thought (71 names)</h2>
 
-<img src="/images/thought_1_ancient.png">
+<img src="/images/thought_1_ancient.png" title="Timeline of Ancient Western philosophy" alt="Timeline of Ancient Western philosophy. All Ancient Western philosophers put on a chart, by school.">
 
 <h2>Medieval thought (80 names)</h2>
 
-<img src="/images/thought_2_medieval.png">
+<img src="/images/thought_2_medieval.png" title="Timeline of Medieval Western philosophy" alt="Timeline of Medieval Western philosophy. All Medieval Western philosophers put on a chart, by school.">
 
 <h2>Renaissance thought (52 names)</h2>
 
-<img src="/images/thought_3_renaissance.png">
+<img src="/images/thought_3_renaissance.png" title="Timeline of Renaissance Western philosophy" alt="Timeline of Renaissance Western philosophy. All Renaissance Western philosophers put on a chart, by school.">
 
 <h2>Early Modern thought (70 names)</h2>
 
-<img src="/images/thought_4_early_modern.png">
+<img src="/images/thought_4_early_modern.png" title="Timeline of Early Modern Western philosophy" alt="Timeline of Early Modern Western philosophy. All Early Modern Western philosophers put on a chart, by school.">
 
 <h2>Late Modern thought (88 names)</h2>
 
-<img src="/images/thought_5_late_modern.png">
+<img src="/images/thought_5_late_modern.png" title="Timeline of Late Modern Western philosophy" alt="Timeline of Late Modern Western philosophy. All Late Modern Western philosophers put on a chart, by school.">
 
 <h2>Contemporary thought (104 names)</h2>
 
-<img src="/images/thought_6_contemporary.png">
+<img src="/images/thought_6_contemporary.png" title="Timeline of Contemporary Western philosophy" alt="Timeline of Contemporary Western philosophy. All Contemporary Western philosophers put on a chart, by school.">

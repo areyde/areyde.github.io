@@ -32,7 +32,7 @@ author_profile: true
   <li><b><a href="https://areyde.com/eastern_studies_and_esotericism/">"Ориентир" и АИЭМ</a></b> — семинары и научные конференции по восточной культуре и эзотерике. <b style="color:#888888;">(2023–...)</b></li>
   <li><b><a href="https://areyde.com/library/">Library of humanities</a></b> — my virtual library of books on humanities. <b style="color:#888888;">(2015–...)</b></li>
   <li><b><a href="https://areyde.com/favourite_philosophers/">Favourite philosophers</a></b> — a list of my favourite thinkers that I learned about. <b style="color:#888888;">(2024)</b></li>
-  <li><b><a href="https://areyde.com/western_thought/">The timeline of Western thought</a></b> — all major Western philosophers put on a timeline. <b style="color:#888888;">(2023)</b></li>
+  <li><b><a href="https://areyde.com/western_philosophy/">The timeline of Western philosophy</a></b> — all major Western philosophers put on a timeline. <b style="color:#888888;">(2023)</b></li>
 </ul>
 
 <b>Travels:</b>
