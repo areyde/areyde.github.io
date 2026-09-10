@@ -83,16 +83,21 @@ I studied the structure, features, dependencies, and prevalence of projects in K
 Through this research, I helped Kotlin itself, virtually all JetBrains IDEs (IntelliJ IDEA, PyCharm, WebStorm, Rider, etc.), TeamCity, Amper, and some AI Products. 📈
 
 
-<h2 style="margin-top: -5px;">Hobbies 🎨</h2>
+<h2 style="margin-top: -5px;">Beyond work 🎨</h2>
 
-All my main hobbies are humanities — which is why I try to study them for as long as I can.
-I like [writing poetry](https://areyde.com/poetry/), drawing on my favourite literature, namely, Russian classics of the second half of the 19th century. 📜
-I also love [philosophy](https://areyde.com/favourite_philosophers/) and care especially deeply about Eastern philosophy 
+**Writing**. I am, and always was, a very text-based person. I think in text, perceive the world in text, and that's how I started writing papers in the first place.
+If I had to choose the most important thing I do in my life, that would be [writing poetry](https://areyde.com/poetry/). 
+For my inspiration, I draw on the Russian classics of the second half of the 19th century.
+I also sometimes write random thoughts in the form of [essays](https://areyde.com/notes/). 📜
+
+**Even more humanities**. I love [philosophy](https://areyde.com/favourite_philosophers/) and care especially deeply about Eastern philosophy 
 — Chinese (Taoism, Chan Buddhism) and Indian (Śramaṇa/Nāstika traditions: Buddhism, Jainism, Ājīvika), — as well as various religious movements all over the world. 📿
-Another major love of mine is the Chinese language. 
-In addition to learning it, I love [analyzing its content, popularity, history, and evolution](https://areyde.com/chinese/) — and care about linguistics in general. 💬
-Finally, more recently I fell in love with history, especially from the 7th century (Tang dynasty in China, the emergence of Islam, start of true Middle Ages)
-to ≈1929 (Great Depression, collectivization, start of peak authoritarianism), mostly Chinese, Russian, and that of Central Asia. ️🪶
+More recently I also fell in love with history, from the dawn of time to ≈1929 (I really do not like 20th century).
+I especially like all Chinese history, history of West Asia in the first centuries CE, Early Medieval times (islam and Tang dynasty), and the steppe history of Central Asia. ️🪶
 A more narrow period from ≈1860s to the end of the First World War is my main inspiration and passion in everything — history, poetry, prose, paintings, classical music, and overall aesthetics. 🏛️
 
-P. S. I also wrote down and visualized [all the places where I have ever been](https://areyde.com/travels/): more than 200 cities and towns in 22 countries. Luckily, their number can only go up! 🧳
+**Chinese language**. Another major love of mine is the Chinese language. 
+In addition to learning it, I love [analyzing its content, popularity, history, and evolution](https://areyde.com/chinese/) — and care about linguistics in general. 💬
+
+**Travel**. I like [walking and biking](https://areyde.com/srbija/) a lot.
+I also wrote down and visualized [all the places where I have ever been](https://areyde.com/travels/): more than 200 cities and towns in 22 countries. Luckily, their number can only go up! 🧳
