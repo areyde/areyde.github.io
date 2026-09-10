@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: '(Almost) everything 🌌'
+description: "A map of all the pages on the website."
 permalink: /everything/
 author_profile: true
 ---

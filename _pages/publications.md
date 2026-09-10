@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Publications 📜"
+description: "The full list of publications of Yaroslav Golubev. The list mostly includes SE and AI research from JetBrains Research, but also some early work in physics from ITMO University and theses in humanities."
 permalink: /publications/
 author_profile: true
 ---

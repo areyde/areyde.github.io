@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Academic work 🎓"
+description: "A list of academic work of Yaroslav Golubev. It includes participation in scientific conferences, program committees, journal reviews, as well as educational activities."
 permalink: /academic_work/
 author_profile: true
 ---
