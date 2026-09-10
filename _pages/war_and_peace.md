@@ -3,6 +3,7 @@ layout: archive
 title: 'Схема героев романа «Война и мир» 🕊️'
 description: 'Схема (карта) героев романа Л. Н. Толстого «Война и мир»: все персонажи и связи между ними на одной большой схеме.'
 permalink: /war_and_peace/
+language: ru
 author_profile: true
 ---
 
