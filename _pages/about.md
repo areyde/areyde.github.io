@@ -91,7 +91,7 @@ For inspiration, I draw on my favourite literature, namely, the Russian classics
 I also sometimes write random thoughts in the form of [essays](https://areyde.com/notes/). 📜
 
 **Even more humanities**. In addition to philosophy and esoterics that I studied, more recently I also fell in love with history, from the dawn of time to ≈1929 (I really do not like the 20th century). 🪶
-I particularly like all Chinese history, history of West Asia in the first centuries CE, Early Medieval times (≈ islam and the Tang dynasty), and the steppe history of Central Asia. ️
+I particularly like Chinese history, history of West Asia in the first centuries CE, Early Medieval times (islam and the Tang dynasty), and the steppe history of Central Asia. ️
 A narrow period from ≈1860s to the end of the First World War is my main inspiration and passion in everything — history, poetry, prose, paintings, classical music, and overall aesthetics. 🏛️
 
 **Chinese language**. Another major love of mine is the Chinese language. 
