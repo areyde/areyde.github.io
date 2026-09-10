@@ -1,13 +1,14 @@
 ---
 layout: archive
-title: "Chinese language database (中文数据库) 🐉"
+title: "Chinese Character & Word Database — Frequency, HSK, Learning 🐉"
+description: "A free Mandarin Chinese database with character and word frequency lists, HSK 2.0 and HSK 3.0 levels, pinyin, meanings, radicals, and stroke counts."
 permalink: /chinese/
 author_profile: true
 ---
 
 {% include base_path %}
 
-The Chinese language is a great hobby of mine. While I am studying it in general too (although only in reading and writing),
+The Chinese language is a great hobby of mine. While I am studying it in general too,
 I enjoy learning and compiling facts about it even more. Specifically, I love everything that has to do with the Chinese
 writing system, including learning the characters, studying their history, and practicing calligraphy. The "discrete" nature
 of the Chinese language appeals to my love of statistics, because without grammatical forms and with a fixed set
@@ -18,14 +19,14 @@ The database consists of two large parts: one is dedicated to the language in ge
 and the second one is dedicated to my own progress in learning the language and can help those who want to
 start learning it.
 
-<h2 style="margin-top: -5px;">General information</h2>
+<h2 style="margin-top: -5px;">Character & word frequency, HSK, etc.</h2>
 
 The first part contains extensive lists of Chinese characters and words with statistics for them. This includes the lists of characters and words by frequency, 
 by HSK 2.0 and HSK 3.0 levels, etc. For all the characters in the lists, the database provides various data: pronunciation, meaning, dictionary keys, and stroke count. 
 For the words from the HSK levels, there are pronunciations and meanings. This general information is based on several studies and corpora (cited in the database itself)
 and can be used for various analysis. For example, some folks used it for ranging the suggestions on the pinyin keyboard. It can also be used for fun random statistics:
 
-<img src="/images/database.jpg">
+<img src="/images/database.jpg" title="General statistics about Chinese characters" alt="The image highlights various statistics about Chinese characters: most frequent syllables, tones, stroke count, HSK levels, etc.">
 
 <h2 style="margin-top: -5px;">Learning progress</h2>
 
