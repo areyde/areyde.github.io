@@ -99,5 +99,5 @@ I learned it for my studies, but I also love analyzing its content, history, and
 I created and maintain the [Chinese language database](https://areyde.com/chinese/), which includes character and word frequency lists, HSK 2.0 and HSK 3.0 levels, pinyin, meanings, radicals, and stroke counts.
 It can be used to both analyze the language and learn it. 🐉
 
-**Travel**. I like physical sports, in particular, [walking and biking](https://areyde.com/srbija/) a lot (and putting it on a map, of coruse).
+**Travel**. I like physical sports, in particular, [walking and biking](https://areyde.com/srbija/) a lot (and putting it on a map, of course).
 I also wrote down and visualized [all the places where I have ever been](https://areyde.com/travels/): more than 200 cities and towns in 22 countries. Luckily, their number can only go up! 🧳

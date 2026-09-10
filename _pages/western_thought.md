@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: 'The timeline of Western philosophy 🏛️'
-description: "The timeline of Western philosophers. All western philosophers put on a convenient timeline, divided by eras and schools."
+description: "A visual timeline of Western philosophy, with major philosophers organized by historical era and philosophical school."
 permalink: /western_philosophy/
 author_profile: true
 redirect_from:
