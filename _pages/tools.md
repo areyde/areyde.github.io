@@ -17,7 +17,7 @@ author_profile: true
 This includes various datasets (for training models or for studying further), benchmarks for evaluation, and tools for different
 aspects of software engineering research.</i></p>
 
-<h2>Datasets & benchmarks</h2>
+<h2>Datasets & Benchmarks</h2>
 
 <p style="color:#888888;"><i>With the advent of AI, benchmarks left the halls of academia and became mainstream in all conversations about technology.
 From the very start, JetBrains Research had a very open policy about publishing data — we basically published everything we were legally allowed to.
