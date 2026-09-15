@@ -1,14 +1,14 @@
 ---
 title: "Student Activity"
-description: "A detailed dataset of authentic step-by-step student solutions of Kotlin courses."
+description: "A detailed dataset of authentic step-by-step student solutions to programming tasks with AI hints."
 collection: datasets
 permalink: /datasets/student-activity
 redirect_from:
   - /dataset/student-activity
   - /dataset/student-activity/
-tag: 'A detailed dataset of authentic step-by-step student solutions of Kotlin courses.'
+tag: 'A detailed dataset of authentic step-by-step student solutions to programming tasks with AI hints.'
 pdf: 'https://arxiv.org/abs/2506.21266'
-paperurl: 'https://doi.org/10.1145/3736181.3747129'
-data: 'https://zenodo.org/records/15553341'
-abstract: "<p>This dataset contains authentic step-by-step <b>student solutions of Kotlin courses</b>. To conduct this study, we invited 28 students from two universities — 16 first-year Bachelor students and 12 third-year Bachelor students. They solved two Kotlin-based in-IDE courses. In total, more than 585 thousand activities in the IDE were collected, among them 94 thousand IDE actions, 3.4 thousand code executions and debugging interactions, and 21 thousand usages of hotkeys. This resulted in over 127 thousand code snapshots, allowing to trace the complete history of writing code in the IDE for each student in each task.</p>"
+paperurl: 'https://doi.org/10.1145/3770762.3772544'
+data: 'https://zenodo.org/records/17551130'
+abstract: "<p>This dataset contains authentic step-by-step <b>student solutions</b> of programming tasks using AI hints. To conduct this study, we invited  first- and second-year computer science Bachelor’s students who had previously completed at least one or two programming courses in any programming language other than Kotlin. They were solving the in-IDE <i>Kotlin Onboarding: Introduction</i> course using a newly-developed system of AI hints. In total, we collected 6,658,936 code lines, 1,364,943 IDE activity events, 960 textual hint requests, and 453 code hint requests, which were used for the analysis.</p>"
 ---
