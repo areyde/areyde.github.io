@@ -15,7 +15,8 @@ author_profile: true
 <ul>
   <li><b><a href="https://areyde.com/publications/">Publications</a></b> — papers about software engineering and laser physics. <b style="color:#888888;">(2015–...)</b></li>
   <li><b><a href="https://areyde.com/academic_work/">Academic work</a></b> — conferences, journals, service, teaching. <b style="color:#888888;">(2014–...)</b></li>
-<li><b><a href="https://areyde.com/physics_conferences/">Conference talks without publications</a></b> — at various local conferences about laser technologies. <b style="color:#888888;">(2014–2020)</b></li>
+  <li><b><a href="https://areyde.com/tools/">Software research tools</a></b> — various practical tools that we developed in our research. <b style="color:#888888;">(2019–...)</b></li>
+  <li><b><a href="https://areyde.com/physics_conferences/">Conference talks without publications</a></b> — at various local conferences about laser technologies. <b style="color:#888888;">(2014–2020)</b></li>
 </ul>
 
 <b>Творчество:</b>

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Tools"
+title: "Software research tools"
 description: "Software research tools developed or contributed to by Yaroslav Golubev, including Buckwheat, a multi-language source-code tokenizer."
 permalink: /tools/
 redirect_from:
