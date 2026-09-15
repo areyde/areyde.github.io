@@ -93,12 +93,12 @@ layout: default
           {% if page.video %}
           <a class="{{ color }}" href="{{ page.video }}">Video</a>
           {% endif %}
-        {% elsif page.collection == 'tools' or post.collection == 'datasets' %}
+        {% elsif page.collection == 'tools' or page.collection == 'datasets' %}
           {% if page.tool %}
           <a class="btn--research" href="{{ page.tool }}">Tool</a>
           {% endif %}
-          {% if post.data %}
-          <a class="btn--research" href="{{ post.data }}">Data</a>
+          {% if page.data %}
+          <a class="btn--research" href="{{ page.data }}">Data</a>
           {% endif %}
           {% if page.video %}
           <a class="btn--research" href="{{ page.video }}">Video</a>
@@ -108,9 +108,6 @@ layout: default
           {% endif %}
           {% if page.pdf %}
           <a class="btn--research" href="{{ page.pdf }}">Paper pre-print</a>
-          {% endif %}
-          {% if page.data %}
-          <a class="btn--research" href="{{ page.data }}">Data</a>
           {% endif %}
           {% if page.github %}
           <a class="btn--research" href="{{ page.github }}">GitHub</a>
