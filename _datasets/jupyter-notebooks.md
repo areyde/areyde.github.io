@@ -1,5 +1,5 @@
 ---
-title: "1,000,000 Jupyter Notebooks"
+title: "Jupyter Notebooks"
 description: "A dataset of 847,881 properly-licensed Jupyter notebooks."
 collection: datasets
 permalink: /datasets/jupyter-notebooks
