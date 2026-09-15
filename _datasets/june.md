@@ -1,12 +1,12 @@
 ---
 title: "JuNE"
-description: "A novel dataset of fine-grained execution logs for Jupyter notebooks."
+description: "A novel dataset of fine-grained execution logs for Jupyter notebooks: 100 hours of work and 9,207 cell executions."
 collection: datasets
 permalink: /datasets/june
 redirect_from:
   - /dataset/june
   - /dataset/june/
-tag: 'A novel dataset of fine-grained execution logs for Jupyter notebooks.'
+tag: 'A novel dataset of fine-grained execution logs for Jupyter notebooks: 100 hours of work and 9,207 cell executions.'
 pdf: 'https://arxiv.org/abs/2507.15831'
 data: 'https://doi.org/10.5281/zenodo.16098734'
 paperurl: 'https://doi.org/10.1016/j.jss.2026.112983'

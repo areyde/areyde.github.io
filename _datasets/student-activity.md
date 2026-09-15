@@ -1,12 +1,12 @@
 ---
 title: "Student Activity"
-description: "A detailed dataset of authentic step-by-step student solutions to programming tasks with AI hints."
+description: "A detailed dataset of authentic step-by-step student solutions to programming tasks with AI hints, with millions of code lines and IDE activity events."
 collection: datasets
 permalink: /datasets/student-activity
 redirect_from:
   - /dataset/student-activity
   - /dataset/student-activity/
-tag: 'A detailed dataset of authentic step-by-step student solutions to programming tasks with AI hints.'
+tag: 'A detailed dataset of authentic step-by-step student solutions to programming tasks with AI hints, with millions of code lines and IDE activity events.'
 pdf: 'https://arxiv.org/abs/2506.21266'
 paperurl: 'https://doi.org/10.1145/3770762.3772544'
 data: 'https://zenodo.org/records/17551130'

@@ -1,12 +1,12 @@
 ---
 title: "PandasPlotBench"
-description: "A human-curated benchmark designed to evaluate language models' effectiveness as assistants in visual data exploration."
+description: "A human-curated benchmark of 175 tasks designed to evaluate language models' effectiveness as assistants in visual data exploration."
 collection: datasets
 permalink: /datasets/pandas-plot-bench
 redirect_from:
   - /dataset/pandas-plot-bench
   - /dataset/pandas-plot-bench/
-tag: "A human-curated benchmark designed to evaluate language models' effectiveness as assistants in visual data exploration."
+tag: "A human-curated benchmark of 175 tasks designed to evaluate language models' effectiveness as assistants in visual data exploration."
 pdf: 'https://arxiv.org/abs/2412.02764'
 data: 'https://huggingface.co/datasets/JetBrains-Research/PandasPlotBench'
 paperurl: 'https://doi.org/10.1109/MSR66628.2025.00083'

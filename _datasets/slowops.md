@@ -1,12 +1,12 @@
 ---
 title: "SlowOps"
-description: "An industrial dataset of stack traces and their categories, aimed at evaluating different models for stack trace deduplication."
+description: "A large industrial dataset of 886,730 stack traces and their categories, aimed at evaluating different models for stack trace deduplication."
 collection: datasets
 permalink: /datasets/slowops
 redirect_from:
   - /dataset/slowops
   - /dataset/slowops/
-tag: 'An industrial of stack traces and their categories, aimed at evaluating different models for stack trace deduplication.'
+tag: 'A large industrial dataset of 886,730 stack traces and their categories, aimed at evaluating different models for stack trace deduplication.'
 pdf: 'https://arxiv.org/abs/2412.14802'
 data: 'https://zenodo.org/records/14364858'
 paperurl: 'https://doi.org/10.1109/SANER64311.2025.00054'

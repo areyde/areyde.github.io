@@ -1,12 +1,12 @@
 ---
 title: "AI Assistants Survey"
-description: "Results of a survey of 481 developers aimed at how AI assistants are used, focusing on specific software development activities and stages."
+description: "Results of the survey of 481 developers aimed at how AI assistants are used, focusing on specific software development activities and stages."
 collection: datasets
 permalink: /datasets/ai-assistants-survey
 redirect_from:
   - /dataset/ai-assistants-survey
   - /dataset/ai-assistants-survey/
-tag: 'Results of a survey of 481 developers aimed at how AI assistants are used, focusing on specific software development activities and stages.'
+tag: 'Results of the survey of 481 developers aimed at how AI assistants are used, focusing on specific software development activities and stages.'
 pdf: 'https://arxiv.org/abs/2406.07765'
 data: 'https://zenodo.org/records/13991547'
 paperurl: 'https://doi.org/10.1016/j.infsof.2024.107610'
