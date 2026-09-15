@@ -46,7 +46,7 @@ It is a great privilege to learn more about these areas from my colleagues. I al
 
 The overarching theme of <b>my own studies</b> in software engineering was mining large corpora of existing source code and analyzing them to discover various
 patterns, as well as better understand how developers write software. While
-I was lucky to participate in a number of [practical collaborations](https://areyde.com/tools/), my personal interest always leaned closer
+I was lucky to participate in a number of [practical collaborations](https://areyde.com/datasets_and_tools/), my personal interest always leaned closer
 to the analytical and the descriptive side of things. Specific topics of my research were:
 
 * code clones, 🐑

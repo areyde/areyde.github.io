@@ -105,13 +105,16 @@
           {% if post.video %}
           <a class="{{ color }}" href="{{ post.video }}">Video</a>
           {% endif %}
-        {% elsif post.collection == 'tools' %}
+        {% elsif post.collection == 'tools' or post.collection == 'datasets' %}
 
           {% if post.tag %}
           <p style="padding-top:0; margin-bottom:9px;">{{ post.tag }}</p>
           {% endif %}
           {% if post.tool %}
           <a class="btn--research" href="{{ post.tool }}">Tool</a>
+          {% endif %}
+          {% if post.data %}
+          <a class="btn--research" href="{{ post.data }}">Tool</a>
           {% endif %}
           {% if post.video %}
           <a class="btn--research" href="{{ post.video }}">Video</a>
