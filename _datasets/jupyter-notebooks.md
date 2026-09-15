@@ -5,7 +5,7 @@ collection: datasets
 permalink: /datasets/jupyter-notebooks
 redirect_from:
   - /dataset/jupyter-notebooks
-  - /datasets/jupyter-notebooks/
+  - /dataset/jupyter-notebooks/
 paperurl: 'https://doi.org/10.1145/3524842.3528447'
 data: 'https://zenodo.org/records/6555157'
 pdf: 'https://arxiv.org/abs/2203.16718'

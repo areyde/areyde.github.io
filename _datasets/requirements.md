@@ -1,6 +1,6 @@
 ---
-title: "requirement.txt Files"
-description: "A dataset of requirements.txt files for 7,132 Python projects, with their versions from 2011 to 2020"
+title: "requirements.txt Files"
+description: "A dataset of requirements.txt files for 7,132 Python projects, with their versions from 2011 to 2020."
 collection: datasets
 permalink: /datasets/requirements
 redirect_from:
