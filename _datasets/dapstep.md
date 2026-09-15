@@ -6,7 +6,7 @@ permalink: /datasets/dapstep
 redirect_from:
   - /dataset/dapstep
   - /dataset/dapstep/
-tag: 'A dataset of stack traces and developer labels for assignee predictions. I helped write the paper about it.'
+tag: 'A dataset of stack traces and developer labels for assignee predictions.'
 pdf: 'https://arxiv.org/abs/2201.05256'
 data: 'https://github.com/Sushentsev/DapStep'
 paperurl: 'https://doi.org/10.1109/SANER53432.2022.00033'
