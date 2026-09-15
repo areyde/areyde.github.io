@@ -2,6 +2,8 @@
 title: "Kotless"
 collection: tools
 permalink: /tools/kotless
+redirect_from:
+  - /tool/kotless
 paperurl: 'https://doi.org/10.1109/ASE.2019.00114'
 pdf: 'https://arxiv.org/pdf/2105.13866.pdf'
 tool: 'https://github.com/JetBrains/kotless'

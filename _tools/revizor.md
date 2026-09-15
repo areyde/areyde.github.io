@@ -2,6 +2,8 @@
 title: "Revizor"
 collection: tools
 permalink: /tools/revizor
+redirect_from:
+  - /tool/revizor
 tool: 'https://github.com/JetBrains-Research/revizor'
 video: 'https://www.youtube.com/watch?v=5eLs14nco7E'
 pdf: 'https://arxiv.org/pdf/2108.11199.pdf'
