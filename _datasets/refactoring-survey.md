@@ -2,10 +2,10 @@
 title: "Refactoring Usage Survey"
 description: "Results of the largest survey on software refactoring: 1,183 users of IntelliJ-based IDEs."
 collection: datasets
-permalink: /datasets/refactoring_survey
+permalink: /datasets/refactoring-survey
 redirect_from:
-  - /dataset/refactoring_survey
-  - /dataset/refactoring_survey/
+  - /dataset/refactoring-survey
+  - /dataset/refactoring-survey/
 tag: 'Results of the largest survey on software refactoring: 1,183 users of IntelliJ-based IDEs. I was the main driver of the research, participated in designing the survey, and analyzed the data.'
 pdf: 'https://arxiv.org/abs/2107.07357'
 data: 'https://zenodo.org/records/4923175'
