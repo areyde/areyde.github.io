@@ -5,6 +5,7 @@ collection: tools
 permalink: /tools/jupyter-tooling
 redirect_from:
   - /tool/jupyter-tooling
+  - /tool/jupyter-tooling/
 paperurl: 'https://doi.org/10.1016/j.jss.2026.112983'
 tool: 'https://doi.org/10.5281/zenodo.16098734'
 pdf: 'https://arxiv.org/abs/2507.15831'

@@ -5,6 +5,7 @@ collection: tools
 permalink: /tools/rhubarb
 redirect_from:
   - /tool/rhubarb
+  - /tool/rhubarb/
 paperurl: 'https://doi.org/10.1145/3699538.3699548'
 tool: 'https://github.com/hyperskill/code-submissions-clustering'
 pdf: 'https://arxiv.org/abs/2403.19398'

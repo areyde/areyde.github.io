@@ -5,6 +5,7 @@ collection: tools
 permalink: /tools/koala
 redirect_from:
   - /tool/koala
+  - /tool/koala/
 paperurl: 'https://doi.org/10.1145/3736181.3747129'
 tool: 'https://github.com/JetBrains-Research/KOALA'
 pdf: 'https://arxiv.org/abs/2506.21266'

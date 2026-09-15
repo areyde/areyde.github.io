@@ -5,6 +5,7 @@ collection: tools
 permalink: /tools/matroskin
 redirect_from:
   - /tool/matroskin
+  - /tool/matroskin/
 paperurl: 'https://doi.org/10.1145/3524842.3528447'
 tool: 'https://github.com/JetBrains-Research/Matroskin'
 pdf: 'https://arxiv.org/abs/2203.16718'

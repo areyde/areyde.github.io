@@ -5,6 +5,7 @@ collection: tools
 permalink: /tools/sorrel
 redirect_from:
   - /tool/sorrel
+  - /tool/sorrel/
 tool: 'https://github.com/JetBrains-Research/sorrel'
 video: 'https://www.youtube.com/watch?v=doUeAwPjcPE'
 pdf: 'https://arxiv.org/abs/2107.13315'

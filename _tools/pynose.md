@@ -5,6 +5,7 @@ collection: tools
 permalink: /tools/pynose
 redirect_from:
   - /tool/pynose
+  - /tool/pynose/
 pdf: 'https://arxiv.org/abs/2108.04639'
 tool: "https://github.com/JetBrains-Research/PyNose"
 paperurl: 'https://doi.org/10.1109/ASE51524.2021.9678615'

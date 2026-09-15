@@ -5,6 +5,7 @@ collection: tools
 permalink: /tools/lupa
 redirect_from:
   - /tool/lupa
+  - /tool/lupa/
 paperurl: 'https://doi.org/10.1145/3524842.3528477'
 tool: 'https://github.com/JetBrains-Research/Lupa'
 pdf: 'https://arxiv.org/abs/2203.09658'

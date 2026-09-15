@@ -5,6 +5,7 @@ collection: tools
 permalink: /tools/litmuskt
 redirect_from:
   - /tool/litmuskt
+  - /tool/litmuskt/
 paperurl: 'https://doi.org/10.1145/3696630.3728584'
 tool: 'https://github.com/Jetbrains-Research/litmuskt'
 pdf: 'https://arxiv.org/abs/2501.07472'
