@@ -41,28 +41,56 @@ def fetch_free_proxies(n: int) -> list[str]:
     random.shuffle(proxies)
     return proxies[:n]
 
-def fetch_citations_with_retries(user_id: str,
-                                 max_attempts: int = MAX_ATTEMPTS,
-                                 wait_max_sec: int = WAIT_MAX_SEC) -> int:
-    """Try multiple proxies until we get the total citation count."""
+def fetch_metrics_with_retries(
+    user_id: str,
+    max_attempts: int = MAX_ATTEMPTS,
+    wait_max_sec: int = WAIT_MAX_SEC,
+) -> tuple[int, int]:
+
     proxies = fetch_free_proxies(max_attempts)
 
     for attempt, proxy_str in enumerate(proxies, 1):
         try:
-            logging.info("Attempt %d/%d via %s", attempt, max_attempts, proxy_str)
+            logging.info(
+                "Attempt %d/%d via %s",
+                attempt,
+                max_attempts,
+                proxy_str,
+            )
+
             proxy = ProxyGenerator()
-            proxy.SingleProxy(http=proxy_str, https=proxy_str)
+
+            # This is an HTTP proxy. Leaving https=None makes scholarly
+            # use the same HTTP proxy for HTTPS CONNECT requests.
+            if not proxy.SingleProxy(http=proxy_str):
+                raise RuntimeError("Proxy setup failed")
+
             scholarly.use_proxy(proxy)
 
-            profile = scholarly.search_author_id(user_id)   # filled=False by default
-            total = profile["citedby"]
-            logging.info("Success! Total citations = %s", total)
-            return total
+            # First lightweight profile fetch.
+            profile = scholarly.search_author_id(user_id)
 
-        except AttributeError as e:       # CAPTCHA / unexpected HTML
-            logging.warning("Blocked (CAPTCHA?) – %s", e)
-        except Exception as e:            # proxy failure, network error, etc.
-            logging.warning("Proxy error – %s", e)
+            # Fetch ONLY the Scholar indices, not the entire profile.
+            profile = scholarly.fill(profile, sections=["indices"])
+
+            total = profile["citedby"]
+            h_index = profile["hindex"]
+
+            logging.info(
+                "Success! Total citations = %s, h-index = %s",
+                total,
+                h_index,
+            )
+
+            return total, h_index
+
+        except Exception as e:
+            logging.warning(
+                "Attempt %d failed via %s – %s",
+                attempt,
+                proxy_str,
+                e,
+            )
 
         sleep = random.uniform(1, wait_max_sec)
         logging.info("Sleeping %.1fs before next proxy…", sleep)
@@ -73,12 +101,7 @@ def fetch_citations_with_retries(user_id: str,
 # ──────────────────────────── main routine ───────────────────────────── #
 
 def main() -> None:
-    total = fetch_citations_with_retries(SCHOLAR_USER_ID)
-
-    # Re-fetch with 'filled=True' now that we're using a working proxy
-    logging.info("Fetching full profile for h-index…")
-    profile = scholarly.search_author_id(SCHOLAR_USER_ID, filled=True)
-    h_index = profile.get("hindex", 0)
+    total, h_index = fetch_metrics_with_retries(SCHOLAR_USER_ID)
 
     # Prepare new data
     new_data = {"total": total, "h_index": h_index}
