@@ -24,11 +24,12 @@ jobs:
 
       - name: Install dependencies (with proxy-safe httpx)
         run: |
-          python -m pip install --quiet "httpx<0.24" scholarly requests PyYAML
+          python -m pip install --quiet "scholarly==1.7.11" "bibtexparser==1.4.4" "httpx==0.23.3" requests PyYAML
 
       - name: Print versions for debug
         run: |
           python -c "import httpx; print('httpx version:', httpx.__version__)"
+          python -c "import bibtexparser; print('bibtexparser:', bibtexparser.__version__)"
           python -c "import scholarly; print('scholarly imported OK')"
 
 
