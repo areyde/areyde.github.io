@@ -88,8 +88,7 @@ Through this research, I helped Kotlin itself, virtually all JetBrains IDEs (Int
 **Writing**. I am, and always was, a very text-based person. I think in text, perceive the world in text, and that's how I started writing papers in the first place.
 If I had to choose the most important thing I do in my life, that would be [writing poetry](https://areyde.com/poetry/). 
 For inspiration, I draw on my favourite literature, namely, the Russian classics of the second half of the 19th century.
-Sometimes I write random thoughts in the form of [essays](https://areyde.com/notes/). 
-Also, in my _days of yore_ I wrote and recorded a couple of [songs](https://areyde.com/music/). 📜
+Sometimes I put random thoughts into [essays](https://areyde.com/notes/) and in my _days of yore_ I wrote and recorded a couple of [songs](https://areyde.com/music/). 📜
 
 **Even more humanities**. In addition to philosophy and esoterics that I studied, more recently I also fell in love with history, from the dawn of time to ≈1929 (I really do not like the 20th century). 🪶
 I particularly like Chinese history, history of West Asia in the first centuries CE, Early Medieval times (islam and the Tang dynasty), and the steppe history of Central Asia.
