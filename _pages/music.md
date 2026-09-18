@@ -1128,3 +1128,8 @@ on the wallpaper of my apartment in a burst of inspiration.
   updatePlayState();
 })();
 </script>
+
+<h2>Обложка</h2>
+
+<img src="/images/album_cover.jpg" title="Обложка альбома «Дети»" alt="Обложка альбома «Дети», которую мы нарисовали на обоях моей квартиры.">
+
