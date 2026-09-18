@@ -924,12 +924,18 @@ author_profile: true
   }
 
   function playAudio() {
-    const promise = audio.play();
-
-    if (promise && typeof promise.catch === "function") {
-      promise.catch(function () {});
+      const promise = audio.play();
+    
+      if (promise && typeof promise.catch === "function") {
+        promise.catch(function (error) {
+          console.error(
+            "Playback failed:",
+            error.name,
+            error.message
+          );
+        });
+      }
     }
-  }
 
   function selectTrack(index, autoplay) {
     if (index < 0 || index >= tracks.length) {
@@ -941,7 +947,6 @@ author_profile: true
     const track = tracks[currentIndex];
 
     audio.src = track.dataset.src;
-    audio.load();
 
     nowTitle.textContent = trackTitle(track);
     nowLineup.textContent = trackOriginal(track);
