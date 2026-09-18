@@ -457,7 +457,7 @@ on the wallpaper of my apartment in a burst of inspiration.
         <span class="track-title">Песня про всё (Песня про Пашу)</span>
         <span class="track-mobile-meta">Ярослав Голубев</span>
       </span>
-      <span class="track-original">—</span>
+      <span class="track-original">Ярослав Голубев</span>
       <span class="track-duration">5:40</span>
     </button>
 
@@ -713,7 +713,7 @@ on the wallpaper of my apartment in a burst of inspiration.
         <span class="track-title">Елизавета</span>
         <span class="track-mobile-meta">Ярослав Голубев</span>
       </span>
-      <span class="track-original">—</span>
+      <span class="track-original">Ярослав Голубев</span>
       <span class="track-duration">10:28</span>
     </button>
 
