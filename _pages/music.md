@@ -340,22 +340,22 @@ on the wallpaper of my apartment in a burst of inspiration.
       <img
         class="album-cover"
         src="/images/album_cover.jpg"
-        alt="Hand-drawn album cover from our university music experiments."
+        alt="Обложка музыкального альбома «Дети», нарисованная мелками на обоях."
       >
     </div>
 
     <div class="album-info">
 
-      <h2 class="album-title">Experiments with Music</h2>
+      <h2 class="album-title">Дети</h2>
 
       <div class="album-meta">
-        Yaroslav & friends · 2017–2019 ·
-        <span id="album-total">15 tracks · 54:29</span>
+        Ярослав Голубев <i>et al.</i> · 2019 ·
+        <span id="album-total">15 треков · 54:29</span>
       </div>
 
       <div class="album-now-playing">
-        <span class="album-now-label">Now playing</span>
-        <strong id="album-now-title">Песня про всё (Песня про Дашу)</strong>
+        <span class="album-now-label">Сейчас играет</span>
+        <strong id="album-now-title">Песня про всё (Песня про Пашу)</strong>
         <span id="album-now-lineup">Ярослав Голубев</span>
       </div>
 
@@ -365,24 +365,24 @@ on the wallpaper of my apartment in a burst of inspiration.
           type="button"
           class="album-control-button"
           id="album-prev"
-          aria-label="Previous track"
-          title="Previous track"
+          aria-label="Предыдщуий трек"
+          title="Предыдщуий трек"
         >⏮</button>
 
         <button
           type="button"
           class="album-control-button album-play-button"
           id="album-play"
-          aria-label="Play"
-          title="Play"
+          aria-label="Играть"
+          title="Играть"
         >▶</button>
 
         <button
           type="button"
           class="album-control-button"
           id="album-next"
-          aria-label="Next track"
-          title="Next track"
+          aria-label="Следующий трек"
+          title="Следующий трек"
         >⏭</button>
 
         <div class="album-volume-control">
@@ -390,8 +390,8 @@ on the wallpaper of my apartment in a burst of inspiration.
             type="button"
             class="album-volume-button"
             id="album-mute"
-            aria-label="Mute"
-            title="Mute"
+            aria-label="Выключить звук"
+            title="Выключить звук"
           >🔊</button>
 
           <input
@@ -401,7 +401,7 @@ on the wallpaper of my apartment in a burst of inspiration.
             max="1"
             step="0.05"
             value="1"
-            aria-label="Volume"
+            aria-label="Громкость"
           >
         </div>
 
@@ -417,7 +417,7 @@ on the wallpaper of my apartment in a burst of inspiration.
           min="0"
           max="1000"
           value="0"
-          aria-label="Seek through track"
+          aria-label="Двжиение по треку"
         >
 
         <span id="album-track-length">5:40</span>
@@ -454,7 +454,7 @@ on the wallpaper of my apartment in a burst of inspiration.
       <span class="track-number">1</span>
       <span class="track-lineup">Ярослав Голубев</span>
       <span class="track-name-wrap">
-        <span class="track-title">Песня про всё (Песня про Дашу)</span>
+        <span class="track-title">Песня про всё (Песня про Пашу)</span>
         <span class="track-mobile-meta">Ярослав Голубев</span>
       </span>
       <span class="track-original">—</span>
@@ -472,7 +472,7 @@ on the wallpaper of my apartment in a burst of inspiration.
       <span class="track-lineup">33:43:31</span>
       <span class="track-name-wrap">
         <span class="track-title">And I Love Her</span>
-        <span class="track-mobile-meta">33:43:31</span>
+        <span class="track-mobile-meta">The Beatles</span>
       </span>
       <span class="track-original">The Beatles</span>
       <span class="track-duration">2:40</span>
@@ -486,10 +486,10 @@ on the wallpaper of my apartment in a burst of inspiration.
       data-src="/music/03. Братья Элвгрены - Лето.mp3"
     >
       <span class="track-number">3</span>
-      <span class="track-lineup">Братья Эльгрены</span>
+      <span class="track-lineup">Братья Элвгрены</span>
       <span class="track-name-wrap">
         <span class="track-title">Лето</span>
-        <span class="track-mobile-meta">Братья Эльгрены</span>
+        <span class="track-mobile-meta">Майк Науменко</span>
       </span>
       <span class="track-original">Майк Науменко</span>
       <span class="track-duration">2:20</span>
@@ -506,7 +506,7 @@ on the wallpaper of my apartment in a burst of inspiration.
       <span class="track-lineup">33:43:31</span>
       <span class="track-name-wrap">
         <span class="track-title">Give Peace a Chance</span>
-        <span class="track-mobile-meta">33:43:31</span>
+        <span class="track-mobile-meta">Plastic Ono Band</span>
       </span>
       <span class="track-original">Plastic Ono Band</span>
       <span class="track-duration">3:43</span>
@@ -523,7 +523,7 @@ on the wallpaper of my apartment in a burst of inspiration.
       <span class="track-lineup">Страница 245</span>
       <span class="track-name-wrap">
         <span class="track-title">Папа, твой сын никем не хочет быть</span>
-        <span class="track-mobile-meta">Страница 245</span>
+        <span class="track-mobile-meta">Кино</span>
       </span>
       <span class="track-original">Кино</span>
       <span class="track-duration">2:10</span>
@@ -540,7 +540,7 @@ on the wallpaper of my apartment in a burst of inspiration.
       <span class="track-lineup">33:43:31</span>
       <span class="track-name-wrap">
         <span class="track-title">Across the Universe</span>
-        <span class="track-mobile-meta">33:43:31</span>
+        <span class="track-mobile-meta">The Beatles</span>
       </span>
       <span class="track-original">The Beatles</span>
       <span class="track-duration">3:52</span>
@@ -554,10 +554,10 @@ on the wallpaper of my apartment in a burst of inspiration.
       data-src="/music/07. Братья Элвгрены - Сельва.mp3"
     >
       <span class="track-number">7</span>
-      <span class="track-lineup">Братья Эльгрены</span>
+      <span class="track-lineup">Братья Элвгрены</span>
       <span class="track-name-wrap">
         <span class="track-title">Сельва</span>
-        <span class="track-mobile-meta">Братья Эльгрены</span>
+        <span class="track-mobile-meta">Сергей Курёхин</span>
       </span>
       <span class="track-original">Сергей Курёхин</span>
       <span class="track-duration">2:28</span>
@@ -574,7 +574,7 @@ on the wallpaper of my apartment in a burst of inspiration.
       <span class="track-lineup">Ярослав Голубев</span>
       <span class="track-name-wrap">
         <span class="track-title">Крюкообразность</span>
-        <span class="track-mobile-meta">Ярослав Голубев</span>
+        <span class="track-mobile-meta">Аквариум</span>
       </span>
       <span class="track-original">Аквариум</span>
       <span class="track-duration">1:36</span>
@@ -591,7 +591,7 @@ on the wallpaper of my apartment in a burst of inspiration.
       <span class="track-lineup">Страница 245</span>
       <span class="track-name-wrap">
         <span class="track-title">Марш советских танкистов</span>
-        <span class="track-mobile-meta">Страница 245</span>
+        <span class="track-mobile-meta">Пётр Киричек</span>
       </span>
       <span class="track-original">Пётр Киричек</span>
       <span class="track-duration">2:50</span>
@@ -626,7 +626,7 @@ on the wallpaper of my apartment in a burst of inspiration.
       <span class="track-lineup">33:43:31</span>
       <span class="track-name-wrap">
         <span class="track-title">Метель</span>
-        <span class="track-mobile-meta">33:43:31</span>
+        <span class="track-mobile-meta">ДДТ</span>
       </span>
       <span class="track-original">ДДТ</span>
       <span class="track-duration">5:40</span>
@@ -643,9 +643,9 @@ on the wallpaper of my apartment in a burst of inspiration.
       <span class="track-lineup">Страница 245</span>
       <span class="track-name-wrap">
         <span class="track-title">Дети</span>
-        <span class="track-mobile-meta">Страница 245</span>
+        <span class="track-mobile-meta">Елена Свирипа</span>
       </span>
-      <span class="track-original">Елена Свиридова</span>
+      <span class="track-original">Елена Свирипа</span>
       <span class="track-duration">2:07</span>
     </button>
 
@@ -660,7 +660,7 @@ on the wallpaper of my apartment in a burst of inspiration.
       <span class="track-lineup">33:43:31</span>
       <span class="track-name-wrap">
         <span class="track-title">Всё идёт по плану</span>
-        <span class="track-mobile-meta">33:43:31</span>
+        <span class="track-mobile-meta">Гражданская оборона</span>
       </span>
       <span class="track-original">Гражданская оборона</span>
       <span class="track-duration">3:57</span>
@@ -674,10 +674,10 @@ on the wallpaper of my apartment in a burst of inspiration.
       data-src="/music/13. Братья Элвгрены - Алюминиевые огурцы.mp3"
     >
       <span class="track-number">13</span>
-      <span class="track-lineup">Братья Эльгрены</span>
+      <span class="track-lineup">Братья Элвгрены</span>
       <span class="track-name-wrap">
         <span class="track-title">Алюминиевые огурцы</span>
-        <span class="track-mobile-meta">Братья Эльгрены</span>
+        <span class="track-mobile-meta">Кино</span>
       </span>
       <span class="track-original">Кино</span>
       <span class="track-duration">2:52</span>
@@ -694,7 +694,7 @@ on the wallpaper of my apartment in a burst of inspiration.
       <span class="track-lineup">33:43:31</span>
       <span class="track-name-wrap">
         <span class="track-title">Twist and Shout</span>
-        <span class="track-mobile-meta">33:43:31</span>
+        <span class="track-mobile-meta">The Beatles</span>
       </span>
       <span class="track-original">The Beatles</span>
       <span class="track-duration">2:06</span>
@@ -727,7 +727,7 @@ on the wallpaper of my apartment in a burst of inspiration.
     <p>JavaScript is disabled. The recordings are also available directly:</p>
 
     <ol>
-      <li><a href="/music/01. Ярослав Голубев - Песня про всё (Песня про Пашу).mp3">Песня про всё (Песня про Дашу)</a></li>
+      <li><a href="/music/01. Ярослав Голубев - Песня про всё (Песня про Пашу).mp3">Песня про всё (Песня про Пашу)</a></li>
       <li><a href="/music/02. 33-43-31 - And I Love Her.mp3">And I Love Her</a></li>
       <li><a href="/music/03. Братья Элвгрены - Лето.mp3">Лето</a></li>
       <li><a href="/music/04. 33-43-31 - Give Peace a Chance.mp3">Give Peace a Chance</a></li>
