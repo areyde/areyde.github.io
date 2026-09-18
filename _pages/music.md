@@ -767,7 +767,6 @@ author_profile: true
   </div>
 </noscript>
 
-
 <script>
 (function () {
   const root = document.getElementById("music-album");
@@ -786,193 +785,898 @@ author_profile: true
   const volume = document.getElementById("album-volume");
   const albumTotal = document.getElementById("album-total");
 
-  let currentIndex = 0;
+  const MIME = "audio/mpeg";
+  const PREFETCH_AHEAD = 3;
 
-  function parseTime(value) {
-    const parts = value.trim().split(":").map(Number);
+  let useMSE =
+    "MediaSource" in window &&
+    MediaSource.isTypeSupported(MIME);
+
+  let currentIndex = 0;
+  let mse = null;
+  let generation = 0;
+  let directReady = false;
+
+  function parseTime(text) {
+    const parts = text.trim().split(":").map(Number);
 
     if (parts.length === 2) {
       return parts[0] * 60 + parts[1];
     }
 
     if (parts.length === 3) {
-      return parts[0] * 3600 + parts[1] * 60 + parts[2];
+      return (
+        parts[0] * 3600 +
+        parts[1] * 60 +
+        parts[2]
+      );
     }
 
     return 0;
   }
 
   function formatTime(seconds) {
-    if (!Number.isFinite(seconds) || seconds < 0) {
+    if (
+      !Number.isFinite(seconds) ||
+      seconds < 0
+    ) {
       return "0:00";
     }
 
-    const rounded = Math.floor(seconds);
-    const hours = Math.floor(rounded / 3600);
-    const minutes = Math.floor((rounded % 3600) / 60);
-    const secs = rounded % 60;
+    const whole = Math.floor(seconds);
+    const hours = Math.floor(whole / 3600);
+    const minutes =
+      Math.floor((whole % 3600) / 60);
+    const secs = whole % 60;
 
     if (hours > 0) {
-      return hours + ":" +
-        String(minutes).padStart(2, "0") + ":" +
-        String(secs).padStart(2, "0");
+      return (
+        hours +
+        ":" +
+        String(minutes).padStart(2, "0") +
+        ":" +
+        String(secs).padStart(2, "0")
+      );
     }
 
-    return minutes + ":" + String(secs).padStart(2, "0");
+    return (
+      minutes +
+      ":" +
+      String(secs).padStart(2, "0")
+    );
   }
 
-  function trackTitle(track) {
-    return track.querySelector(".track-title").textContent.trim();
+  function titleOf(index) {
+    return tracks[index]
+      .querySelector(".track-title")
+      .textContent
+      .trim();
   }
 
-  function trackLineup(track) {
-    return track.querySelector(".track-lineup").textContent.trim();
+  function originalOf(index) {
+    return tracks[index]
+      .querySelector(".track-original")
+      .textContent
+      .trim();
   }
 
-  function trackOriginal(track) {
-    return track.querySelector(".track-original").textContent.trim();
+  function visibleDurationOf(index) {
+    return tracks[index]
+      .querySelector(".track-duration")
+      .textContent
+      .trim();
   }
 
-  function plannedDuration(track) {
-    return track.querySelector(".track-duration").textContent.trim();
+  function plannedSeconds(index) {
+    return parseTime(
+      visibleDurationOf(index)
+    );
   }
 
   function updateAlbumStatistics() {
-    let totalSeconds = 0;
-
-    tracks.forEach(function (track) {
-      totalSeconds += parseTime(plannedDuration(track));
-    });
+    const total = tracks.reduce(
+      function (sum, track) {
+        return (
+          sum +
+          parseTime(
+            track
+              .querySelector(
+                ".track-duration"
+              )
+              .textContent
+          )
+        );
+      },
+      0
+    );
 
     albumTotal.textContent =
-      tracks.length + " треков · " + formatTime(totalSeconds);
+      tracks.length +
+      " треков · " +
+      formatTime(total);
 
-    root.querySelectorAll(".album-side").forEach(function (side) {
-      const sideTracks = Array.from(side.querySelectorAll(".album-track"));
-      let sideSeconds = 0;
+    root
+      .querySelectorAll(".album-side")
+      .forEach(function (side) {
+        const sideTracks = Array.from(
+          side.querySelectorAll(
+            ".album-track"
+          )
+        );
 
-      sideTracks.forEach(function (track) {
-        sideSeconds += parseTime(plannedDuration(track));
+        const seconds =
+          sideTracks.reduce(
+            function (sum, track) {
+              return (
+                sum +
+                parseTime(
+                  track
+                    .querySelector(
+                      ".track-duration"
+                    )
+                    .textContent
+                )
+              );
+            },
+            0
+          );
+
+        const label =
+          side.querySelector(
+            ".album-side-stats"
+          );
+
+        label.textContent =
+          sideTracks.length +
+          " треков · " +
+          formatTime(seconds);
       });
-
-      const label = side.querySelector(".album-side-stats");
-
-      label.textContent =
-        sideTracks.length +
-        (sideTracks.length === 1 ? " трек · " : " треков · ") +
-        formatTime(sideSeconds);
-    });
   }
 
   function updateRows() {
-    tracks.forEach(function (track, index) {
-      const number = track.querySelector(".track-number");
+    tracks.forEach(
+      function (track, index) {
+        const number =
+          track.querySelector(
+            ".track-number"
+          );
 
-      if (index === currentIndex) {
-        track.classList.add("is-active");
-        number.textContent = "▶";
-        track.setAttribute("aria-current", "true");
-      } else {
-        track.classList.remove("is-active");
-        number.textContent = track.dataset.number;
-        track.removeAttribute("aria-current");
+        const active =
+          index === currentIndex;
+
+        track.classList.toggle(
+          "is-active",
+          active
+        );
+
+        number.textContent =
+          active
+            ? "▶"
+            : track.dataset.number;
+
+        if (active) {
+          track.setAttribute(
+            "aria-current",
+            "true"
+          );
+        } else {
+          track.removeAttribute(
+            "aria-current"
+          );
+        }
       }
-    });
+    );
   }
 
-  function updateMediaMetadata() {
-    if (!("mediaSession" in navigator)) {
+  function updateMetadata() {
+    nowTitle.textContent =
+      titleOf(currentIndex);
+
+    nowLineup.textContent =
+      originalOf(currentIndex);
+
+    if (
+      !("mediaSession" in navigator)
+    ) {
       return;
     }
 
-    const track = tracks[currentIndex];
-    const albumTitle = root.querySelector(".album-title").textContent.trim();
-
-    navigator.mediaSession.metadata = new MediaMetadata({
-      title: trackTitle(track),
-      artist: trackOriginal(track),
-      album: albumTitle,
-      artwork: [
-        {
-          src: new URL(
-            "/images/album_cover.jpg",
-            window.location.origin
-          ).href
-        }
-      ]
-    });
+    navigator.mediaSession.metadata =
+      new MediaMetadata({
+        title: titleOf(currentIndex),
+        artist: originalOf(currentIndex),
+        album: root
+          .querySelector(".album-title")
+          .textContent
+          .trim(),
+        artwork: [
+          {
+            src: new URL(
+              "/images/album_cover.jpg",
+              window.location.origin
+            ).href
+          }
+        ]
+      });
   }
 
-  function updatePlayState() {
-    if (audio.paused) {
-      playButton.textContent = "▶";
-      playButton.setAttribute("aria-label", "Играть");
-      playButton.setAttribute("title", "Играть");
+  function updatePlayButton() {
+    const paused = audio.paused;
 
-      if ("mediaSession" in navigator) {
-        navigator.mediaSession.playbackState = "paused";
-      }
-    } else {
-      playButton.textContent = "⏸";
-      playButton.setAttribute("aria-label", "Пауза");
-      playButton.setAttribute("title", "Пауза");
+    playButton.textContent =
+      paused ? "▶" : "⏸";
 
-      if ("mediaSession" in navigator) {
-        navigator.mediaSession.playbackState = "playing";
-      }
+    playButton.setAttribute(
+      "aria-label",
+      paused ? "Играть" : "Пауза"
+    );
+
+    playButton.setAttribute(
+      "title",
+      paused ? "Играть" : "Пауза"
+    );
+
+    if (
+      "mediaSession" in navigator
+    ) {
+      navigator.mediaSession.playbackState =
+        paused
+          ? "paused"
+          : "playing";
     }
+  }
+
+  function updateMuteButton() {
+    const muted =
+      audio.muted ||
+      audio.volume === 0;
+
+    muteButton.textContent =
+      muted ? "🔇" : "🔊";
+
+    muteButton.setAttribute(
+      "aria-label",
+      muted
+        ? "Включить звук"
+        : "Выключить звук"
+    );
+
+    muteButton.setAttribute(
+      "title",
+      muted
+        ? "Включить звук"
+        : "Выключить звук"
+    );
   }
 
   function playAudio() {
-      const promise = audio.play();
-    
-      if (promise && typeof promise.catch === "function") {
-        promise.catch(function (error) {
+    const promise = audio.play();
+
+    if (
+      promise &&
+      typeof promise.catch === "function"
+    ) {
+      promise.catch(
+        function (error) {
           console.error(
-            "Playback failed:",
-            error.name,
-            error.message
+            "Не удалось начать воспроизведение:",
+            error
           );
-        });
-      }
+        }
+      );
     }
 
-  function selectTrack(index, autoplay) {
-    if (index < 0 || index >= tracks.length) {
+    return promise;
+  }
+
+  function once(
+    target,
+    eventName
+  ) {
+    return new Promise(
+      function (resolve, reject) {
+        function ok(event) {
+          cleanup();
+          resolve(event);
+        }
+
+        function fail() {
+          cleanup();
+
+          reject(
+            new Error(
+              "Ошибка события " +
+              eventName
+            )
+          );
+        }
+
+        function cleanup() {
+          target.removeEventListener(
+            eventName,
+            ok
+          );
+
+          target.removeEventListener(
+            "error",
+            fail
+          );
+        }
+
+        target.addEventListener(
+          eventName,
+          ok,
+          { once: true }
+        );
+
+        target.addEventListener(
+          "error",
+          fail,
+          { once: true }
+        );
+      }
+    );
+  }
+
+  function bufferedEnd(state) {
+    const ranges =
+      state.buffer.buffered;
+
+    return ranges.length
+      ? ranges.end(
+          ranges.length - 1
+        )
+      : 0;
+  }
+
+  async function newStream(
+    startIndex
+  ) {
+    const myGeneration =
+      ++generation;
+
+    const mediaSource =
+      new MediaSource();
+
+    const objectUrl =
+      URL.createObjectURL(
+        mediaSource
+      );
+
+    const old = mse;
+
+    const state = {
+      generation: myGeneration,
+      mediaSource: mediaSource,
+      buffer: null,
+      objectUrl: objectUrl,
+      baseIndex: startIndex,
+      nextIndex: startIndex,
+      starts: {},
+      ends: {},
+      appendPromise:
+        Promise.resolve()
+    };
+
+    mse = state;
+
+    const opened = once(
+      mediaSource,
+      "sourceopen"
+    );
+
+    audio.src = objectUrl;
+
+    await opened;
+
+    if (
+      mse !== state ||
+      generation !== myGeneration
+    ) {
+      throw new Error(
+        "Устаревшая MSE-сессия"
+      );
+    }
+
+    state.buffer =
+      mediaSource.addSourceBuffer(
+        MIME
+      );
+
+    state.buffer.mode =
+      "sequence";
+
+    if (
+      old &&
+      old.objectUrl
+    ) {
+      URL.revokeObjectURL(
+        old.objectUrl
+      );
+    }
+
+    return state;
+  }
+
+  function appendTrack(
+    state,
+    index
+  ) {
+    state.appendPromise =
+      state.appendPromise.then(
+        async function () {
+          if (
+            mse !== state ||
+            generation !==
+              state.generation
+          ) {
+            return;
+          }
+
+          if (
+            index !==
+            state.nextIndex
+          ) {
+            return;
+          }
+
+          const response =
+            await fetch(
+              tracks[index]
+                .dataset.src
+            );
+
+          if (!response.ok) {
+            throw new Error(
+              "HTTP " +
+              response.status +
+              " для " +
+              tracks[index]
+                .dataset.src
+            );
+          }
+
+          const bytes =
+            await response.arrayBuffer();
+
+          if (
+            mse !== state ||
+            generation !==
+              state.generation
+          ) {
+            return;
+          }
+
+          const start =
+            bufferedEnd(state);
+
+          state.buffer.appendBuffer(
+            bytes
+          );
+
+          await once(
+            state.buffer,
+            "updateend"
+          );
+
+          if (
+            mse !== state ||
+            generation !==
+              state.generation
+          ) {
+            return;
+          }
+
+          const end =
+            bufferedEnd(state);
+
+          if (!(end > start)) {
+            throw new Error(
+              "Трек " +
+              (index + 1) +
+              " не был добавлен в MSE"
+            );
+          }
+
+          state.starts[index] =
+            start;
+
+          state.ends[index] =
+            end;
+
+          state.nextIndex =
+            index + 1;
+
+          if (
+            index ===
+              tracks.length - 1 &&
+            state.mediaSource
+              .readyState === "open"
+          ) {
+            state.mediaSource
+              .endOfStream();
+          }
+        }
+      );
+
+    return state.appendPromise;
+  }
+
+  async function appendThrough(
+    state,
+    finalIndex
+  ) {
+    const limit = Math.min(
+      finalIndex,
+      tracks.length - 1
+    );
+
+    while (
+      mse === state &&
+      state.nextIndex <= limit
+    ) {
+      await appendTrack(
+        state,
+        state.nextIndex
+      );
+    }
+  }
+
+  function prefetch(
+    state,
+    index
+  ) {
+    if (
+      !state ||
+      mse !== state
+    ) {
+      return;
+    }
+
+    appendThrough(
+      state,
+      index + PREFETCH_AHEAD
+    ).catch(
+      function (error) {
+        console.error(
+          "Ошибка MSE-prefetch:",
+          error
+        );
+      }
+    );
+  }
+
+  function hasTrack(
+    state,
+    index
+  ) {
+    return (
+      !!state &&
+      Object.prototype
+        .hasOwnProperty.call(
+          state.starts,
+          index
+        )
+    );
+  }
+
+  function trackStart() {
+    if (
+      useMSE &&
+      hasTrack(
+        mse,
+        currentIndex
+      )
+    ) {
+      return mse.starts[
+        currentIndex
+      ];
+    }
+
+    return 0;
+  }
+
+  function trackDuration() {
+    if (
+      useMSE &&
+      hasTrack(
+        mse,
+        currentIndex
+      ) &&
+      Object.prototype
+        .hasOwnProperty.call(
+          mse.ends,
+          currentIndex
+        )
+    ) {
+      return (
+        mse.ends[
+          currentIndex
+        ] -
+        mse.starts[
+          currentIndex
+        ]
+      );
+    }
+
+    if (
+      !useMSE &&
+      Number.isFinite(
+        audio.duration
+      ) &&
+      audio.duration > 0
+    ) {
+      return audio.duration;
+    }
+
+    return plannedSeconds(
+      currentIndex
+    );
+  }
+
+  function localTime() {
+    return Math.max(
+      0,
+      (audio.currentTime || 0) -
+        trackStart()
+    );
+  }
+
+  function updatePositionState() {
+    if (
+      !(
+        "mediaSession" in
+        navigator
+      ) ||
+      !(
+        "setPositionState" in
+        navigator.mediaSession
+      )
+    ) {
+      return;
+    }
+
+    const duration =
+      trackDuration();
+
+    if (
+      !Number.isFinite(
+        duration
+      ) ||
+      duration <= 0
+    ) {
+      return;
+    }
+
+    const position =
+      Math.min(
+        Math.max(
+          0,
+          localTime()
+        ),
+        Math.max(
+          0,
+          duration - 0.001
+        )
+      );
+
+    try {
+      navigator.mediaSession
+        .setPositionState({
+          duration: duration,
+          playbackRate:
+            audio.playbackRate,
+          position: position
+        });
+    } catch (error) {
+    }
+  }
+
+  function commitTrack(index) {
+    if (
+      index < 0 ||
+      index >= tracks.length
+    ) {
       return;
     }
 
     currentIndex = index;
 
-    const track = tracks[currentIndex];
+    updateRows();
+    updateMetadata();
 
-    audio.src = track.dataset.src;
+    trackLength.textContent =
+      formatTime(
+        trackDuration()
+      );
 
-    nowTitle.textContent = trackTitle(track);
-    nowLineup.textContent = trackOriginal(track);
-    trackLength.textContent = plannedDuration(track);
-    currentTime.textContent = "0:00";
+    updatePositionState();
+  }
+
+  function trackForAbsoluteTime(
+    time
+  ) {
+    if (!mse) {
+      return currentIndex;
+    }
+
+    let result =
+      currentIndex;
+
+    for (
+      let i = mse.baseIndex;
+      i < mse.nextIndex;
+      i += 1
+    ) {
+      if (
+        !hasTrack(mse, i)
+      ) {
+        continue;
+      }
+
+      if (
+        time + 0.03 >=
+        mse.starts[i]
+      ) {
+        result = i;
+      } else {
+        break;
+      }
+    }
+
+    return result;
+  }
+
+  async function selectMSE(
+    index,
+    autoplay
+  ) {
+    if (
+      index < 0 ||
+      index >= tracks.length
+    ) {
+      return;
+    }
+
+    let state = mse;
+
+    if (
+      !hasTrack(
+        state,
+        index
+      )
+    ) {
+      state =
+        await newStream(index);
+
+      await appendThrough(
+        state,
+        index
+      );
+    }
+
+    if (mse !== state) {
+      return;
+    }
+
+    commitTrack(index);
+
+    audio.currentTime =
+      state.starts[index];
+
+    currentTime.textContent =
+      "0:00";
+
     seek.value = 0;
 
-    updateRows();
-    updateMediaMetadata();
+    prefetch(
+      state,
+      index
+    );
 
     if (autoplay) {
       playAudio();
     }
   }
 
-  function nextTrack(autoplay) {
-    if (currentIndex < tracks.length - 1) {
-      selectTrack(currentIndex + 1, autoplay);
-    } else {
-      selectTrack(0, autoplay);
+  function selectDirect(
+    index,
+    autoplay
+  ) {
+    if (
+      index < 0 ||
+      index >= tracks.length
+    ) {
+      return;
+    }
+
+    directReady = true;
+
+    commitTrack(index);
+
+    audio.src =
+      tracks[index].dataset.src;
+
+    currentTime.textContent =
+      "0:00";
+
+    seek.value = 0;
+
+    if (autoplay) {
+      playAudio();
     }
   }
 
-  function previousTrack(autoplay) {
-    if (audio.currentTime > 3) {
-      audio.currentTime = 0;
+  function selectTrack(
+    index,
+    autoplay
+  ) {
+    if (!useMSE) {
+      selectDirect(
+        index,
+        autoplay
+      );
+
+      return;
+    }
+
+    selectMSE(
+      index,
+      autoplay
+    ).catch(
+      function (error) {
+        console.error(
+          "MSE не сработал; включён обычный режим:",
+          error
+        );
+
+        useMSE = false;
+        generation += 1;
+
+        if (
+          mse &&
+          mse.objectUrl
+        ) {
+          URL.revokeObjectURL(
+            mse.objectUrl
+          );
+        }
+
+        mse = null;
+
+        selectDirect(
+          index,
+          autoplay
+        );
+      }
+    );
+  }
+
+  function nextTrack(
+    autoplay
+  ) {
+    if (
+      currentIndex <
+      tracks.length - 1
+    ) {
+      selectTrack(
+        currentIndex + 1,
+        autoplay
+      );
+    } else {
+      selectTrack(
+        0,
+        autoplay
+      );
+    }
+  }
+
+  function previousTrack(
+    autoplay
+  ) {
+    if (localTime() > 3) {
+      audio.currentTime =
+        trackStart();
 
       if (autoplay) {
         playAudio();
@@ -982,176 +1686,439 @@ author_profile: true
     }
 
     if (currentIndex > 0) {
-      selectTrack(currentIndex - 1, autoplay);
+      selectTrack(
+        currentIndex - 1,
+        autoplay
+      );
     } else {
-      selectTrack(tracks.length - 1, autoplay);
+      selectTrack(
+        tracks.length - 1,
+        autoplay
+      );
     }
   }
 
-  function updatePositionState() {
-    if (!("mediaSession" in navigator)) {
-      return;
-    }
-
-    if (!("setPositionState" in navigator.mediaSession)) {
-      return;
-    }
-
-    if (!Number.isFinite(audio.duration) || audio.duration <= 0) {
-      return;
-    }
-
-    navigator.mediaSession.setPositionState({
-      duration: audio.duration,
-      playbackRate: audio.playbackRate,
-      position: Math.min(audio.currentTime, audio.duration)
-    });
-  }
-
-  function setMediaAction(action, handler) {
-    if (!("mediaSession" in navigator)) {
+  function setMediaAction(
+    name,
+    handler
+  ) {
+    if (
+      !("mediaSession" in navigator)
+    ) {
       return;
     }
 
     try {
-      navigator.mediaSession.setActionHandler(action, handler);
+      navigator.mediaSession
+        .setActionHandler(
+          name,
+          handler
+        );
     } catch (error) {
     }
   }
 
-  tracks.forEach(function (track, index) {
-    track.addEventListener("click", function () {
-      if (index === currentIndex) {
-        if (audio.paused) {
-          playAudio();
-        } else {
-          audio.pause();
-        }
-      } else {
-        selectTrack(index, true);
-      }
-    });
-  });
+  tracks.forEach(
+    function (track, index) {
+      track.addEventListener(
+        "click",
+        function () {
+          if (
+            index !==
+            currentIndex
+          ) {
+            selectTrack(
+              index,
+              true
+            );
 
-  playButton.addEventListener("click", function () {
-    if (audio.paused) {
-      playAudio();
-    } else {
+            return;
+          }
+
+          const ready =
+            useMSE
+              ? hasTrack(
+                  mse,
+                  index
+                )
+              : directReady;
+
+          if (!ready) {
+            selectTrack(
+              index,
+              true
+            );
+
+            return;
+          }
+
+          if (audio.paused) {
+            playAudio();
+          } else {
+            audio.pause();
+          }
+        }
+      );
+    }
+  );
+
+  playButton.addEventListener(
+    "click",
+    function () {
+      const ready =
+        useMSE
+          ? hasTrack(
+              mse,
+              currentIndex
+            )
+          : directReady;
+
+      if (!ready) {
+        selectTrack(
+          currentIndex,
+          true
+        );
+
+        return;
+      }
+
+      if (audio.paused) {
+        playAudio();
+      } else {
+        audio.pause();
+      }
+    }
+  );
+
+  prevButton.addEventListener(
+    "click",
+    function () {
+      previousTrack(true);
+    }
+  );
+
+  nextButton.addEventListener(
+    "click",
+    function () {
+      nextTrack(true);
+    }
+  );
+
+  seek.addEventListener(
+    "input",
+    function () {
+      const duration =
+        trackDuration();
+
+      if (
+        !Number.isFinite(
+          duration
+        ) ||
+        duration <= 0
+      ) {
+        return;
+      }
+
+      const wanted =
+        (
+          Number(seek.value) /
+          1000
+        ) *
+        duration;
+
+      audio.currentTime =
+        trackStart() +
+        wanted;
+    }
+  );
+
+  volume.addEventListener(
+    "input",
+    function () {
+      audio.volume =
+        Number(volume.value);
+
+      audio.muted =
+        audio.volume === 0;
+
+      updateMuteButton();
+    }
+  );
+
+  muteButton.addEventListener(
+    "click",
+    function () {
+      audio.muted =
+        !audio.muted;
+
+      updateMuteButton();
+    }
+  );
+
+  audio.addEventListener(
+    "play",
+    updatePlayButton
+  );
+
+  audio.addEventListener(
+    "pause",
+    updatePlayButton
+  );
+
+  audio.addEventListener(
+    "loadedmetadata",
+    function () {
+      if (
+        !useMSE &&
+        Number.isFinite(
+          audio.duration
+        )
+      ) {
+        trackLength.textContent =
+          formatTime(
+            audio.duration
+          );
+      }
+
+      updatePositionState();
+    }
+  );
+
+  audio.addEventListener(
+    "timeupdate",
+    function () {
+      if (
+        useMSE &&
+        mse
+      ) {
+        const detected =
+          trackForAbsoluteTime(
+            audio.currentTime
+          );
+
+        if (
+          detected !==
+          currentIndex
+        ) {
+          commitTrack(
+            detected
+          );
+
+          prefetch(
+            mse,
+            detected
+          );
+        }
+      }
+
+      const position =
+        localTime();
+
+      const duration =
+        trackDuration();
+
+      currentTime.textContent =
+        formatTime(
+          position
+        );
+
+      trackLength.textContent =
+        formatTime(
+          duration
+        );
+
+      if (
+        Number.isFinite(
+          duration
+        ) &&
+        duration > 0
+      ) {
+        seek.value =
+          Math.min(
+            1000,
+            Math.round(
+              (
+                position /
+                duration
+              ) *
+              1000
+            )
+          );
+      }
+
+      updatePositionState();
+    }
+  );
+
+  audio.addEventListener(
+    "ended",
+    function () {
+      if (
+        !useMSE &&
+        currentIndex <
+          tracks.length - 1
+      ) {
+        selectTrack(
+          currentIndex + 1,
+          true
+        );
+
+        return;
+      }
+
+      seek.value = 1000;
+
+      updatePlayButton();
+
+      if (
+        "mediaSession" in
+        navigator
+      ) {
+        navigator.mediaSession
+          .playbackState =
+          "none";
+      }
+    }
+  );
+
+  setMediaAction(
+    "play",
+    function () {
+      const ready =
+        useMSE
+          ? hasTrack(
+              mse,
+              currentIndex
+            )
+          : directReady;
+
+      if (ready) {
+        playAudio();
+      } else {
+        selectTrack(
+          currentIndex,
+          true
+        );
+      }
+    }
+  );
+
+  setMediaAction(
+    "pause",
+    function () {
       audio.pause();
     }
-  });
+  );
 
-  prevButton.addEventListener("click", function () {
-    previousTrack(true);
-  });
-
-  nextButton.addEventListener("click", function () {
-    nextTrack(true);
-  });
-
-  seek.addEventListener("input", function () {
-    if (!Number.isFinite(audio.duration) || audio.duration <= 0) {
-      return;
+  setMediaAction(
+    "previoustrack",
+    function () {
+      previousTrack(true);
     }
+  );
 
-    audio.currentTime =
-      (Number(seek.value) / 1000) * audio.duration;
-  });
-
-  volume.addEventListener("input", function () {
-    audio.volume = Number(volume.value);
-    audio.muted = audio.volume === 0;
-    muteButton.textContent = audio.muted ? "🔇" : "🔊";
-  });
-
-  muteButton.addEventListener("click", function () {
-    audio.muted = !audio.muted;
-    muteButton.textContent = audio.muted ? "🔇" : "🔊";
-  });
-
-  audio.addEventListener("play", updatePlayState);
-  audio.addEventListener("pause", updatePlayState);
-
-  audio.addEventListener("loadedmetadata", function () {
-    if (Number.isFinite(audio.duration)) {
-      trackLength.textContent = formatTime(audio.duration);
+  setMediaAction(
+    "nexttrack",
+    function () {
+      nextTrack(true);
     }
+  );
 
-    updatePositionState();
-  });
+  setMediaAction(
+    "seekbackward",
+    function (details) {
+      const amount =
+        details.seekOffset ||
+        10;
 
-  audio.addEventListener("timeupdate", function () {
-    currentTime.textContent = formatTime(audio.currentTime);
-
-    if (Number.isFinite(audio.duration) && audio.duration > 0) {
-      seek.value =
-        Math.round((audio.currentTime / audio.duration) * 1000);
+      audio.currentTime =
+        trackStart() +
+        Math.max(
+          0,
+          localTime() -
+            amount
+        );
     }
+  );
 
-    updatePositionState();
-  });
+  setMediaAction(
+    "seekforward",
+    function (details) {
+      const amount =
+        details.seekOffset ||
+        10;
 
-  audio.addEventListener("ended", function () {
-    if (currentIndex < tracks.length - 1) {
-      selectTrack(currentIndex + 1, true);
-    } else {
-      seek.value = 1000;
-      updatePlayState();
+      const duration =
+        trackDuration();
 
-      if ("mediaSession" in navigator) {
-        navigator.mediaSession.playbackState = "none";
+      audio.currentTime =
+        trackStart() +
+        Math.min(
+          duration,
+          localTime() +
+            amount
+        );
+    }
+  );
+
+  setMediaAction(
+    "seekto",
+    function (details) {
+      if (
+        typeof details.seekTime !==
+        "number"
+      ) {
+        return;
+      }
+
+      const duration =
+        trackDuration();
+
+      const wanted =
+        Math.max(
+          0,
+          Math.min(
+            duration,
+            details.seekTime
+          )
+        );
+
+      const absolute =
+        trackStart() +
+        wanted;
+
+      if (
+        details.fastSeek &&
+        typeof audio.fastSeek ===
+          "function"
+      ) {
+        audio.fastSeek(
+          absolute
+        );
+      } else {
+        audio.currentTime =
+          absolute;
       }
     }
-  });
-
-  setMediaAction("play", function () {
-    playAudio();
-  });
-
-  setMediaAction("pause", function () {
-    audio.pause();
-  });
-
-  setMediaAction("previoustrack", function () {
-    previousTrack(true);
-  });
-
-  setMediaAction("nexttrack", function () {
-    nextTrack(true);
-  });
-
-  setMediaAction("seekbackward", function (details) {
-    const amount = details.seekOffset || 10;
-    audio.currentTime = Math.max(0, audio.currentTime - amount);
-  });
-
-  setMediaAction("seekforward", function (details) {
-    const amount = details.seekOffset || 10;
-
-    if (Number.isFinite(audio.duration)) {
-      audio.currentTime =
-        Math.min(audio.duration, audio.currentTime + amount);
-    }
-  });
-
-  setMediaAction("seekto", function (details) {
-    if (typeof details.seekTime !== "number") {
-      return;
-    }
-
-    if (
-      details.fastSeek &&
-      typeof audio.fastSeek === "function"
-    ) {
-      audio.fastSeek(details.seekTime);
-    } else {
-      audio.currentTime = details.seekTime;
-    }
-  });
+  );
 
   updateAlbumStatistics();
-  selectTrack(0, false);
-  updatePlayState();
+
+  commitTrack(0);
+
+  currentTime.textContent =
+    "0:00";
+
+  seek.value = 0;
+
+  updatePlayButton();
+  updateMuteButton();
+
+  if (!useMSE) {
+    console.info(
+      "MSE audio/mpeg не поддерживается; используется обычный режим плеера."
+    );
+  }
 })();
 </script>
 
