@@ -386,8 +386,8 @@ author_profile: true
           type="button"
           class="album-control-button"
           id="album-prev"
-          aria-label="Предыдщуий трек"
-          title="Предыдщуий трек"
+          aria-label="Предыдущий трек"
+          title="Предыдущий трек"
         >⏮</button>
 
         <button
@@ -438,7 +438,7 @@ author_profile: true
           min="0"
           max="1000"
           value="0"
-          aria-label="Двжиение по треку"
+          aria-label="Движение по треку"
         >
 
         <span id="album-track-length">5:40</span>
@@ -745,7 +745,7 @@ author_profile: true
 
 <noscript>
   <div class="album-noscript">
-    <p>JavaScript is disabled. The recordings are also available directly:</p>
+    <p>JavaScript отключён. Записи также доступны напрямую:</p>
 
     <ol>
       <li><a href="/music/01. Ярослав Голубев - Песня про всё (Песня про Пашу).mp3">Песня про всё (Песня про Пашу)</a></li>
@@ -906,16 +906,16 @@ author_profile: true
   function updatePlayState() {
     if (audio.paused) {
       playButton.textContent = "▶";
-      playButton.setAttribute("aria-label", "Play");
-      playButton.setAttribute("title", "Play");
+      playButton.setAttribute("aria-label", "Играть");
+      playButton.setAttribute("title", "Играть");
 
       if ("mediaSession" in navigator) {
         navigator.mediaSession.playbackState = "paused";
       }
     } else {
       playButton.textContent = "⏸";
-      playButton.setAttribute("aria-label", "Pause");
-      playButton.setAttribute("title", "Pause");
+      playButton.setAttribute("aria-label", "Пауза");
+      playButton.setAttribute("title", "Пауза");
 
       if ("mediaSession" in navigator) {
         navigator.mediaSession.playbackState = "playing";
@@ -1154,7 +1154,7 @@ author_profile: true
 
 * **Апрель 2017**. На мой день рождения мы записали альбом **«77/78»**. С него взяты _«Метель»_ и _«Twist and Shout»_.
 * **Ноябрь 2017**. Я записал _«Крюкообразность»_ (зачем-то).
-* **Январь 2018**. На Новый Год мы записали альбом **«Славься, Отечество!»**. С него взяты _«Across the Universe»_ и _«Всё идёт по плану»_.
+* **Январь 2018**. На Новый год мы записали альбом **«Славься, Отечество!»**. С него взяты _«Across the Universe»_ и _«Всё идёт по плану»_.
 * **Март 2018**. В подарок Паше на день рождения я записал _«Песню про всё (Песню про Пашу)»_. На праздновании самого дня рождения мы записали _«And I Love Her»_ и _«Give Peace a Chance»_.
 * **Июль 2018**. На квартире сестры Паши мы записали альбом **«Лиговский, 53»**. С него взяты _«Лето»_, _«Сельва»_ и _«Алюминиевые огурцы»_.
 * **Январь 2019**. В подарок Елизавете я записал, неожиданно, _«Елизавету»_.
@@ -1167,7 +1167,7 @@ author_profile: true
 
 <img src="/images/album_cover.jpg" class="album-cover-standalone" title="Обложка альбома «Дети»" alt="Обложка альбома «Дети», которую мы нарисовали на обоях моей квартиры.">
 
-Жизнь всех нас давно разбросала по самым разным занятиям и странам, но обложка всё также держится в моём родительском доме, заставленная столом.
+Жизнь всех нас давно разбросала по самым разным занятиям и странам, но обложка всё так же держится в моём родительском доме, заставленная столом.
 
 <h2>Участники записи</h2>
 
