@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: 'Experiments with music 🎵'
-description: "Our music experiments from university times: a self-recorded album of original songs and covers in Russian and English."
+title: '«Дети» 🎵'
+description: "Альбом, включающий в себя музыку, записанную Ярославом Голубевым с друзьями в 2017–2019 годах."
 permalink: /music/
 author_profile: true
 ---
@@ -820,7 +820,7 @@ on the wallpaper of my apartment in a burst of inspiration.
     });
 
     albumTotal.textContent =
-      tracks.length + " tracks · " + formatTime(totalSeconds);
+      tracks.length + " треков · " + formatTime(totalSeconds);
 
     root.querySelectorAll(".album-side").forEach(function (side) {
       const sideTracks = Array.from(side.querySelectorAll(".album-track"));
