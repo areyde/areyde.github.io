@@ -808,6 +808,10 @@ on the wallpaper of my apartment in a burst of inspiration.
     return track.querySelector(".track-lineup").textContent.trim();
   }
 
+  function trackOriginal(track) {
+    return track.querySelector(".track-original").textContent.trim();
+  }
+
   function plannedDuration(track) {
     return track.querySelector(".track-duration").textContent.trim();
   }
@@ -865,7 +869,7 @@ on the wallpaper of my apartment in a burst of inspiration.
 
     navigator.mediaSession.metadata = new MediaMetadata({
       title: trackTitle(track),
-      artist: trackLineup(track),
+      artist: trackOriginal(track),
       album: albumTitle,
       artwork: [
         {
@@ -919,7 +923,7 @@ on the wallpaper of my apartment in a burst of inspiration.
     audio.load();
 
     nowTitle.textContent = trackTitle(track);
-    nowLineup.textContent = trackLineup(track);
+    nowLineup.textContent = trackOriginal(track);
     trackLength.textContent = plannedDuration(track);
     currentTime.textContent = "0:00";
     seek.value = 0;
