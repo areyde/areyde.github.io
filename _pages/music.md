@@ -330,6 +330,20 @@ on the wallpaper of my apartment in a burst of inspiration.
     padding-right: 0.8rem;
   }
 }
+
+.album-cover-standalone {
+  display: block;
+  width: 65%;
+  max-width: 700px;
+  height: auto;
+  margin: 1rem auto;
+}
+
+@media (max-width: 767px) {
+  .album-cover-standalone {
+    width: 100%;
+  }
+}
 </style>
 
 <div class="album-player" id="music-album">
@@ -1131,5 +1145,9 @@ on the wallpaper of my apartment in a burst of inspiration.
 
 <h2>Обложка</h2>
 
-<img src="/images/album_cover.jpg" title="Обложка альбома «Дети»" alt="Обложка альбома «Дети», которую мы нарисовали на обоях моей квартиры.">
-
+<img
+src="/images/album_cover.jpg"
+class="album-cover-standalone"
+title="Обложка альбома «Дети»"
+alt="Обложка альбома «Дети», которую мы нарисовали на обоях моей квартиры."
+>
