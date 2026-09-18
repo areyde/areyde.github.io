@@ -447,8 +447,11 @@ author_profile: true
     </div>
   </div>
 
-<audio id="album-audio" preload="metadata"></audio>
-
+<audio
+id="album-audio"
+preload="metadata"
+src="/music/Дети — полный альбом.mp3">
+</audio>
 
   <section class="album-side">
 
@@ -786,6 +789,27 @@ author_profile: true
   const volume = document.getElementById("album-volume");
   const albumTotal = document.getElementById("album-total");
 
+  /*
+   * REPLACE THIS with the precise array produced by ffprobe.
+   */
+  const TRACK_STARTS = [
+    0, 
+    340.011, 
+    500.508, 
+    640.552, 
+    863.612, 
+    993.782, 
+    1226.194, 
+    1374.989, 
+    1471.904, 
+    1641.936, 
+    1982.156, 
+    2109.504, 
+    2346.697, 
+    2519.237, 
+    2646.036
+  ];
+
   let currentIndex = 0;
 
   function parseTime(value) {
@@ -813,55 +837,80 @@ author_profile: true
     const secs = rounded % 60;
 
     if (hours > 0) {
-      return hours + ":" +
-        String(minutes).padStart(2, "0") + ":" +
-        String(secs).padStart(2, "0");
+      return (
+        hours +
+        ":" +
+        String(minutes).padStart(2, "0") +
+        ":" +
+        String(secs).padStart(2, "0")
+      );
     }
 
     return minutes + ":" + String(secs).padStart(2, "0");
   }
 
-  function trackTitle(track) {
-    return track.querySelector(".track-title").textContent.trim();
+  function trackTitle(index) {
+    return tracks[index]
+      .querySelector(".track-title")
+      .textContent
+      .trim();
   }
 
-  function trackLineup(track) {
-    return track.querySelector(".track-lineup").textContent.trim();
+  function trackOriginal(index) {
+    return tracks[index]
+      .querySelector(".track-original")
+      .textContent
+      .trim();
   }
 
-  function trackOriginal(track) {
-    return track.querySelector(".track-original").textContent.trim();
+  function visibleDuration(index) {
+    return tracks[index]
+      .querySelector(".track-duration")
+      .textContent
+      .trim();
   }
 
-  function plannedDuration(track) {
-    return track.querySelector(".track-duration").textContent.trim();
+  function trackStart(index) {
+    return TRACK_STARTS[index];
   }
 
-  function updateAlbumStatistics() {
-    let totalSeconds = 0;
+  function trackEnd(index) {
+    if (index < TRACK_STARTS.length - 1) {
+      return TRACK_STARTS[index + 1];
+    }
 
-    tracks.forEach(function (track) {
-      totalSeconds += parseTime(plannedDuration(track));
-    });
+    if (Number.isFinite(audio.duration)) {
+      return audio.duration;
+    }
 
-    albumTotal.textContent =
-      tracks.length + " треков · " + formatTime(totalSeconds);
+    return (
+      TRACK_STARTS[index] +
+      parseTime(visibleDuration(index))
+    );
+  }
 
-    root.querySelectorAll(".album-side").forEach(function (side) {
-      const sideTracks = Array.from(side.querySelectorAll(".album-track"));
-      let sideSeconds = 0;
+  function trackDuration(index) {
+    return Math.max(
+      0,
+      trackEnd(index) - trackStart(index)
+    );
+  }
 
-      sideTracks.forEach(function (track) {
-        sideSeconds += parseTime(plannedDuration(track));
-      });
+  function localTime() {
+    return Math.max(
+      0,
+      audio.currentTime - trackStart(currentIndex)
+    );
+  }
 
-      const label = side.querySelector(".album-side-stats");
+  function findTrackAtTime(time) {
+    for (let i = TRACK_STARTS.length - 1; i >= 0; i -= 1) {
+      if (time >= TRACK_STARTS[i] - 0.05) {
+        return i;
+      }
+    }
 
-      label.textContent =
-        sideTracks.length +
-        (sideTracks.length === 1 ? " трек · " : " треков · ") +
-        formatTime(sideSeconds);
-    });
+    return 0;
   }
 
   function updateRows() {
@@ -880,18 +929,23 @@ author_profile: true
     });
   }
 
-  function updateMediaMetadata() {
+  function updateMetadata() {
+    nowTitle.textContent = trackTitle(currentIndex);
+
+    /*
+     * Per your preference, prominent metadata shows
+     * the original artist rather than the recording lineup.
+     */
+    nowLineup.textContent = trackOriginal(currentIndex);
+
     if (!("mediaSession" in navigator)) {
       return;
     }
 
-    const track = tracks[currentIndex];
-    const albumTitle = root.querySelector(".album-title").textContent.trim();
-
     navigator.mediaSession.metadata = new MediaMetadata({
-      title: trackTitle(track),
-      artist: trackOriginal(track),
-      album: albumTitle,
+      title: trackTitle(currentIndex),
+      artist: trackOriginal(currentIndex),
+      album: "Дети",
       artwork: [
         {
           src: new URL(
@@ -923,69 +977,35 @@ author_profile: true
     }
   }
 
+  function updateMuteState() {
+    const muted = audio.muted || audio.volume === 0;
+
+    muteButton.textContent = muted ? "🔇" : "🔊";
+
+    muteButton.setAttribute(
+      "aria-label",
+      muted ? "Включить звук" : "Выключить звук"
+    );
+
+    muteButton.setAttribute(
+      "title",
+      muted ? "Включить звук" : "Выключить звук"
+    );
+  }
+
   function playAudio() {
-      const promise = audio.play();
-    
-      if (promise && typeof promise.catch === "function") {
-        promise.catch(function (error) {
-          console.error(
-            "Playback failed:",
-            error.name,
-            error.message
-          );
-        });
-      }
+    const promise = audio.play();
+
+    if (promise && typeof promise.catch === "function") {
+      promise.catch(function (error) {
+        console.error(
+          "Не удалось начать воспроизведение:",
+          error
+        );
+      });
     }
 
-  function selectTrack(index, autoplay) {
-    if (index < 0 || index >= tracks.length) {
-      return;
-    }
-
-    currentIndex = index;
-
-    const track = tracks[currentIndex];
-
-    audio.src = track.dataset.src;
-
-    nowTitle.textContent = trackTitle(track);
-    nowLineup.textContent = trackOriginal(track);
-    trackLength.textContent = plannedDuration(track);
-    currentTime.textContent = "0:00";
-    seek.value = 0;
-
-    updateRows();
-    updateMediaMetadata();
-
-    if (autoplay) {
-      playAudio();
-    }
-  }
-
-  function nextTrack(autoplay) {
-    if (currentIndex < tracks.length - 1) {
-      selectTrack(currentIndex + 1, autoplay);
-    } else {
-      selectTrack(0, autoplay);
-    }
-  }
-
-  function previousTrack(autoplay) {
-    if (audio.currentTime > 3) {
-      audio.currentTime = 0;
-
-      if (autoplay) {
-        playAudio();
-      }
-
-      return;
-    }
-
-    if (currentIndex > 0) {
-      selectTrack(currentIndex - 1, autoplay);
-    } else {
-      selectTrack(tracks.length - 1, autoplay);
-    }
+    return promise;
   }
 
   function updatePositionState() {
@@ -997,15 +1017,98 @@ author_profile: true
       return;
     }
 
-    if (!Number.isFinite(audio.duration) || audio.duration <= 0) {
+    const duration = trackDuration(currentIndex);
+
+    if (!Number.isFinite(duration) || duration <= 0) {
       return;
     }
 
-    navigator.mediaSession.setPositionState({
-      duration: audio.duration,
-      playbackRate: audio.playbackRate,
-      position: Math.min(audio.currentTime, audio.duration)
-    });
+    const position = Math.min(
+      Math.max(0, localTime()),
+      Math.max(0, duration - 0.001)
+    );
+
+    try {
+      navigator.mediaSession.setPositionState({
+        duration: duration,
+        playbackRate: audio.playbackRate,
+        position: position
+      });
+    } catch (error) {
+    }
+  }
+
+  function commitTrack(index) {
+    if (index < 0 || index >= tracks.length) {
+      return;
+    }
+
+    if (index === currentIndex) {
+      return;
+    }
+
+    currentIndex = index;
+
+    updateRows();
+    updateMetadata();
+
+    trackLength.textContent =
+      formatTime(trackDuration(currentIndex));
+
+    updatePositionState();
+  }
+
+  function goToTrack(index, autoplay) {
+    if (index < 0 || index >= tracks.length) {
+      return;
+    }
+
+    currentIndex = index;
+
+    /*
+     * This is the entire trick:
+     * same MP3, same <audio>, only the playback position changes.
+     */
+    audio.currentTime = trackStart(index);
+
+    currentTime.textContent = "0:00";
+    trackLength.textContent =
+      formatTime(trackDuration(index));
+    seek.value = 0;
+
+    updateRows();
+    updateMetadata();
+    updatePositionState();
+
+    if (autoplay) {
+      playAudio();
+    }
+  }
+
+  function nextTrack(autoplay) {
+    if (currentIndex < tracks.length - 1) {
+      goToTrack(currentIndex + 1, autoplay);
+    } else {
+      goToTrack(0, autoplay);
+    }
+  }
+
+  function previousTrack(autoplay) {
+    if (localTime() > 3) {
+      audio.currentTime = trackStart(currentIndex);
+
+      if (autoplay) {
+        playAudio();
+      }
+
+      return;
+    }
+
+    if (currentIndex > 0) {
+      goToTrack(currentIndex - 1, autoplay);
+    } else {
+      goToTrack(tracks.length - 1, autoplay);
+    }
   }
 
   function setMediaAction(action, handler) {
@@ -1014,7 +1117,10 @@ author_profile: true
     }
 
     try {
-      navigator.mediaSession.setActionHandler(action, handler);
+      navigator.mediaSession.setActionHandler(
+        action,
+        handler
+      );
     } catch (error) {
     }
   }
@@ -1027,9 +1133,11 @@ author_profile: true
         } else {
           audio.pause();
         }
-      } else {
-        selectTrack(index, true);
+
+        return;
       }
+
+      goToTrack(index, true);
     });
   });
 
@@ -1050,57 +1158,75 @@ author_profile: true
   });
 
   seek.addEventListener("input", function () {
-    if (!Number.isFinite(audio.duration) || audio.duration <= 0) {
+    const duration = trackDuration(currentIndex);
+
+    if (!Number.isFinite(duration) || duration <= 0) {
       return;
     }
 
+    const wanted =
+      (Number(seek.value) / 1000) * duration;
+
     audio.currentTime =
-      (Number(seek.value) / 1000) * audio.duration;
+      trackStart(currentIndex) + wanted;
   });
 
   volume.addEventListener("input", function () {
     audio.volume = Number(volume.value);
     audio.muted = audio.volume === 0;
-    muteButton.textContent = audio.muted ? "🔇" : "🔊";
+    updateMuteState();
   });
 
   muteButton.addEventListener("click", function () {
     audio.muted = !audio.muted;
-    muteButton.textContent = audio.muted ? "🔇" : "🔊";
+    updateMuteState();
   });
 
   audio.addEventListener("play", updatePlayState);
   audio.addEventListener("pause", updatePlayState);
 
   audio.addEventListener("loadedmetadata", function () {
-    if (Number.isFinite(audio.duration)) {
-      trackLength.textContent = formatTime(audio.duration);
-    }
+    trackLength.textContent =
+      formatTime(trackDuration(currentIndex));
 
     updatePositionState();
   });
 
   audio.addEventListener("timeupdate", function () {
-    currentTime.textContent = formatTime(audio.currentTime);
+    /*
+     * Detect crossing a song boundary.
+     *
+     * Crucially, we DO NOT pause, change src, or call play().
+     * The single album MP3 simply keeps playing.
+     */
+    const detectedIndex =
+      findTrackAtTime(audio.currentTime);
 
-    if (Number.isFinite(audio.duration) && audio.duration > 0) {
-      seek.value =
-        Math.round((audio.currentTime / audio.duration) * 1000);
+    if (detectedIndex !== currentIndex) {
+      commitTrack(detectedIndex);
+    }
+
+    const position = localTime();
+    const duration = trackDuration(currentIndex);
+
+    currentTime.textContent = formatTime(position);
+
+    if (Number.isFinite(duration) && duration > 0) {
+      seek.value = Math.min(
+        1000,
+        Math.round((position / duration) * 1000)
+      );
     }
 
     updatePositionState();
   });
 
   audio.addEventListener("ended", function () {
-    if (currentIndex < tracks.length - 1) {
-      selectTrack(currentIndex + 1, true);
-    } else {
-      seek.value = 1000;
-      updatePlayState();
+    seek.value = 1000;
+    updatePlayState();
 
-      if ("mediaSession" in navigator) {
-        navigator.mediaSession.playbackState = "none";
-      }
+    if ("mediaSession" in navigator) {
+      navigator.mediaSession.playbackState = "none";
     }
   });
 
@@ -1122,16 +1248,25 @@ author_profile: true
 
   setMediaAction("seekbackward", function (details) {
     const amount = details.seekOffset || 10;
-    audio.currentTime = Math.max(0, audio.currentTime - amount);
+
+    audio.currentTime =
+      trackStart(currentIndex) +
+      Math.max(
+        0,
+        localTime() - amount
+      );
   });
 
   setMediaAction("seekforward", function (details) {
     const amount = details.seekOffset || 10;
+    const duration = trackDuration(currentIndex);
 
-    if (Number.isFinite(audio.duration)) {
-      audio.currentTime =
-        Math.min(audio.duration, audio.currentTime + amount);
-    }
+    audio.currentTime =
+      trackStart(currentIndex) +
+      Math.min(
+        duration,
+        localTime() + amount
+      );
   });
 
   setMediaAction("seekto", function (details) {
@@ -1139,19 +1274,37 @@ author_profile: true
       return;
     }
 
+    const duration = trackDuration(currentIndex);
+
+    const wanted = Math.max(
+      0,
+      Math.min(
+        duration,
+        details.seekTime
+      )
+    );
+
+    const absolute =
+      trackStart(currentIndex) + wanted;
+
     if (
       details.fastSeek &&
       typeof audio.fastSeek === "function"
     ) {
-      audio.fastSeek(details.seekTime);
+      audio.fastSeek(absolute);
     } else {
-      audio.currentTime = details.seekTime;
+      audio.currentTime = absolute;
     }
   });
 
-  updateAlbumStatistics();
-  selectTrack(0, false);
+  updateRows();
+  updateMetadata();
   updatePlayState();
+  updateMuteState();
+
+  currentTime.textContent = "0:00";
+  trackLength.textContent =
+    visibleDuration(0);
 })();
 </script>
 
