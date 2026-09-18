@@ -24,6 +24,7 @@ author_profile: true
 <ul>
   <li><b><a href="https://areyde.com/poetry/">«О природе»</a></b> — бесконечно обновляемый сборник стихов. <b style="color:#888888;">(2019–...)</b></li>
   <li><b><a href="https://areyde.com/notes/">Записки</a></b> — эссе на случайные темы. <b style="color:#888888;">(2024–...)</b></li>
+  <li><b><a href="https://areyde.com/music/">«Дети»</a></b> — музыкальный альбом, записанный с друзьями. <b style="color:#888888;">(2017–2019)</b></li>
 </ul>
 
 <b>Languages, philosophy, & humanities:</b>
@@ -48,7 +49,6 @@ author_profile: true
 <ul>
   <li><b><a href="https://areyde.com/interviews/">Interviews with researchers</a></b> — my brief work at ITMO University. <b style="color:#888888;">(2019)</b></li>
   <li><b><a href="https://areyde.com/editorship/">Редактура книг</a></b> — для одного анонимного подполковника. <b style="color:#888888;">(2017–2020)</b></li>
-  <li><b><a href="https://areyde.com/music/">Music</a></b> — various songs we recorded with friends. <b style="color:#888888;">(2017–2019)</b></li>
   <li><b><a href="https://areyde.com/worldskills/">WorldSkills</a></b> — my participation in a contest in Laser Technologies. <b style="color:#888888;">(2017)</b></li>
   <li><b><a href="https://areyde.com/summer_camps/">Summer camps</a></b> — my summer work with kids. <b style="color:#888888;">(2016–2018)</b></li>
   <li><b><a href="https://areyde.com/brics/">THE BRICS & Emerging Economies Universities Summit</a></b> — where I was a representative of Russian students. <b style="color:#888888;">(2016)</b></li>
