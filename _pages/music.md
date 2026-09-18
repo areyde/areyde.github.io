@@ -1145,9 +1145,4 @@ on the wallpaper of my apartment in a burst of inspiration.
 
 <h2>Обложка</h2>
 
-<img
-src="/images/album_cover.jpg"
-class="album-cover-standalone"
-title="Обложка альбома «Дети»"
-alt="Обложка альбома «Дети», которую мы нарисовали на обоях моей квартиры."
->
+<img src="/images/album_cover.jpg" class="album-cover-standalone" title="Обложка альбома «Дети»" alt="Обложка альбома «Дети», которую мы нарисовали на обоях моей квартиры.">
