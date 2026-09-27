@@ -100,4 +100,4 @@ I created and maintain the [Chinese language database](https://areyde.com/chines
 It can be used to both analyze the language and learn it. 🐉
 
 **Travel**. I like physical sports, in particular, [walking and biking](https://areyde.com/srbija/) a lot (and putting it on a map, of course).
-I also wrote down and visualized [all the places where I have ever been](https://areyde.com/travels/): more than 200 cities and towns in 22 countries. Luckily, their number can only go up! 🧳
+I also wrote down and visualized [all the places where I have ever been](https://areyde.com/travels/): more than 300 cities and towns in 23 countries. Luckily, their number can only go up! 🧳
