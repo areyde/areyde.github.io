@@ -78,6 +78,10 @@ author_profile: true
 <b>2024</b>: <a href="https://dl.acm.org/journal/tosem">TOSEM</a>, <a href="https://www.computer.org/csdl/journal/ts">TSE</a><br>
 <b>2023</b>: <a href="https://www.springer.com/journal/10664">EMSE</a>, <a href="https://www.sciencedirect.com/journal/science-of-computer-programming">SCICO</a>, <a href="https://dl.acm.org/journal/tosem">TOSEM</a>
 
+<h3>Awards</h3>
+
+<b>2026</b>: Distinguished Reviewer Award at <a href="https://conf.researchr.org/track/ase-2026/ase-2026-research-track">ASE</a><br>
+
 <hr color="#888888" size="4" noshade>
 
 <h2>Education</h2>
