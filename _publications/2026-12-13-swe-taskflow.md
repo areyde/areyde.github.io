@@ -6,7 +6,7 @@ collection: publications
 permalink: /publications/2026-12-13-swe-taskflow
 date: 2026-12-13
 venue: "the proceedings of <b>IAEval'26</b>"
-counter_id: 'C39'
+counter_id: 'C43'
 paperurl: 'https://openreview.net/forum?id=CrddFd6F5l'
 pdf: 'https://arxiv.org/abs/2610.09633'
 data: 'https://huggingface.co/datasets/JetBrains-Research/SWE-TaskFlow-SWE-Bench-Pro'
