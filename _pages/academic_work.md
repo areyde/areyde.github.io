@@ -40,7 +40,15 @@ author_profile: true
 <b>2021</b>: <a href="https://www.sciencedirect.com/journal/applied-surface-science">Appl. Surf. Sci.</a><br>
 <b>2017</b>: <a href="https://www.springer.com/journal/11082">Opt. Quantum Electron.</a>
 
+<h3>PhD Theses</h3>
+
+<span style="color: #888888"><i>I never earned a PhD, because I never really specialized, instead enjoying trying out as many different things as possible. I came close in early 2022, having by that point been doing my own studies for a couple of years, but then the war struck and I had to move. After that, I only ever helped others at work. As part of that, I helped two amazing people with their PhDs. By "helped", I simply mean helping write up and publish their papers that ended up comprising the theses; the research was of course entirely theirs. These two theses therefore constitute two important threads of research that I was invited to participate in, and that are now officially over.</i></span>
+
+<b>2026</b>: Anastasiia Birillo, <a href="https://dspace.library.uu.nl/items/ad599be8-b78d-4507-8803-eb5c0c1a7bbc"><i>"Enhancing Online Programming Education: Leveraging Professional Tools for Personalized Feedback and Code Quality Improvement"</i></a>, <a href="https://www.uu.nl/en">Utrecht University</a>.<br>
+<b>2025</b>: Aleksandr Khvorov, <a href="https://opus.constructor.university/frontdoor/index/index/docId/1327"><i>"Automation of Error Reporting Processing Based on Stack Trace Analysis"</i></a>, <a href="https://constructor.university/">Constructor University</a>.
+
 <h3>Awards</h3>
+
 <b>2022</b>: ACM SIGSOFT Distinguished Paper Award at <a href="https://conf.researchr.org/home/msr-2022">MSR</a> (for the paper <i><a href="https://areyde.com/publications/2022-05-18-jupyter-analysis">"A Large-Scale Comparison of Python Code in Jupyter Notebooks and Scripts"</a></i>)<br>
 <b>2021</b>: Best Tool Demo Award at <a href="https://icsme2021.github.io/">ICSME</a> (for the paper <i><a href="https://areyde.com/publications/2021-09-27-sorrel">"Sorrel: an IDE Plugin for Managing Licenses and Detecting License Incompatibilities"</a></i>)<br>
 <b>2018</b>:<br>
