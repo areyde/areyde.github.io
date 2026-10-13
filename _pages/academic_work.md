@@ -42,7 +42,7 @@ author_profile: true
 
 <h3>PhD Theses</h3>
 
-<span style="color: #888888"><i>I never earned a PhD because I never really specialized, instead trying out as many different things as possible. After 2022, I mostly helped others with their research, and as part of that, I helped two amazing people with their PhDs. By "helped", I simply mean writing up and publishing the papers that ended up comprising their theses; the research was of course entirely theirs. These theses therefore constitute two important threads of research that I was lucky to participate in, and that are now officially over.</i></span>
+<span style="color: #888888"><i>I never earned a PhD because I never really specialized, instead trying out as many different things as possible. Since 2022, I mostly helped others with their research, and as part of that, helped two amazing people with their PhDs. By "helped", I mean writing up and publishing the papers that ended up comprising their theses; the research was entirely theirs. These theses therefore constitute two multi-year threads of research that are dear to my heart, and that are now officially over.</i></span>
 
 <b>2026</b>: Anastasiia Birillo, <a href="https://dspace.library.uu.nl/items/ad599be8-b78d-4507-8803-eb5c0c1a7bbc"><i>"Enhancing Online Programming Education: Leveraging Professional Tools for Personalized Feedback and Code Quality Improvement"</i></a>, <a href="https://www.uu.nl/en">Utrecht University</a>.<br>
 <b>2025</b>: Aleksandr Khvorov, <a href="https://opus.constructor.university/frontdoor/index/index/docId/1327"><i>"Automation of Error Reporting Processing Based on Stack Trace Analysis"</i></a>, <a href="https://constructor.university/">Constructor University</a>.
