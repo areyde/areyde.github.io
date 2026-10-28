@@ -28,6 +28,8 @@ author_profile: true
 
 <p style="text-align: center;"><b>2026 год…</b></p>
 
+<b><a href="https://areyde.com/poetry/2026-10-28">«Среди руин, поросших юным лесом…»</a></b> — 28.10.2026
+
 <b><a href="https://areyde.com/poetry/2026-08-25">«Неумолим второй закон…»</a></b> — 25.08.2026
 
 <b><a href="https://areyde.com/poetry/2026-07-26">«Открываются настежь окна…»</a></b> — 26.07.2026
