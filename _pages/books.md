@@ -127,6 +127,10 @@ the links point to modern re-prints.
 * Александр Юрьевич Саплин, [_Астрология и религия: противоречия единства_](https://www.ozon.ru/product/saplin-yu-a-astrologiya-i-religiya-protivorechiya-edinstva-saplin-aleksandr-yurevich-899444946). Академия исследований культуры, 2023, 288 с.
 * Александр Юрьевич Саплин, [_История астрологии с древнейших времен до наших дней_](https://www.ozon.ru/product/istoriya-astrologii-s-drevneyshih-vremen-do-nashih-dney-1525215777). РХГА, 2020, 780 с.
 
+<b>Alchemy</b>
+
+* Сергей Олегович Зотов, [_История алхимии. Путешествие философского камня из бронзового века в атомный_](https://www.litres.ru/book/sergey-zotov/istoriya-alhimii-puteshestvie-filosofskogo-kamnya-iz-bronzovo-57487648/). АСТ, 2021, 416 с.
+
 <b>Hermetism & Gnosticism</b>
 
 * David Brakke, [_The Gnostics: Myth, Ritual, and Diversity in Early Christianity_](https://www.amazon.com/dp/0674066030). Harvard University Press, 2010, 178 p.
