@@ -26,15 +26,13 @@ with a major in biological and medical applications. During the first year, I wo
 [scientific interviewer](https://areyde.com/interviews/) at the university's news portal, and also led the School of Laser Technologies for highschoolers. 
 While studying there, I was lucky to join JetBrains and fell in love with data science. 📊
 
-In 2025, I obtained a Bachelor's degree with honors in <b>Philosophy</b> 💭 from [Herzen University](https://en.hspu.org/), focusing on 
-irrational and religious teachings, Eastern, and especially Chinese philosophy. 
-During this time, I studied the Chinese language and [served as an administrator](https://areyde.com/eastern_studies_and_esotericism/)  in research centers dedicated to Eastern culture, esotericism, and mysticism.
+In 2025, I obtained a Bachelor's degree with honors in <b>Philosophy</b> 💭 from [Herzen University](https://en.hspu.org/), with a major in philosophical anthropology.
+I personally focused on irrational and religious teachings, Eastern, and especially Chinese philosophy. 
+During this time, I studied the Chinese language and [served as an administrator](https://areyde.com/eastern_studies_and_esotericism/)  in research centers dedicated to Eastern culture and mysticism.
 In 2022, I moved to the lovely Belgrade, Serbia, and thus finished my education remotely. 🏰
 
-Since 2025, I am getting a Master's degree in <b>Religious Studies</b> 🛐 from the [Russian Christian Academy for Humanities](https://rhga.ru/?siteLang=en), with a major
-in studying mystical and esoteric teachings. I also became a member of the Association for the Study of Esotericism and Mysticism
-and started fully managing the association's YouTube channel. I still help out with [organizing seminars and scientific conferences](https://areyde.com/eastern_studies_and_esotericism/) there,
-promoting the academic studies of non-academic topics. 🔮
+Since 2025, I am getting a remote Master's degree in <b>Religious Studies</b> 🛐 from the [Russian Christian Academy for Humanities](https://rhga.ru/?siteLang=en), with a major
+in studying mystical and esoteric traditions. I still help out with running conferences in the same research centers. 🔮
 
 <h2 style="margin-top: -5px;">Research 🔬</h2>
 
