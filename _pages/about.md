@@ -27,7 +27,7 @@ with a major in biological and medical applications. During the first year, I wo
 While studying there, I was lucky to join JetBrains and fell in love with data science. 📊
 
 In 2025, I obtained a Bachelor's degree with honors in <b>Philosophy</b> 💭 from [Herzen University](https://en.hspu.org/), with a major in philosophical anthropology.
-I personally focused on irrational and religious teachings, Eastern, and especially Chinese philosophy. 
+I personally focused on religious teachings, Eastern, and especially Chinese philosophy. 
 During this time, I studied the Chinese language and [served as an administrator](https://areyde.com/eastern_studies_and_esotericism/)  in research centers dedicated to Eastern culture and mysticism.
 In 2022, I moved to the lovely Belgrade, Serbia, and thus finished my education remotely. 🏰
 
