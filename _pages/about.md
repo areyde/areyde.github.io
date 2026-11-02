@@ -32,7 +32,7 @@ During this time, I studied the Chinese language and [served as an administrator
 In 2022, I moved to the lovely Belgrade, Serbia, and thus finished my education remotely. 🏰
 
 Since 2025, I am getting a remote Master's degree in <b>Religious Studies</b> 🛐 from the [Russian Christian Academy for Humanities](https://rhga.ru/?siteLang=en), with a major
-in studying mystical and esoteric traditions. I still help out with running conferences in the same research centers. 🔮
+in the history and anthropology of mystical and esoteric traditions. I still help out with running conferences in the same research centers. 🔮
 
 <h2 style="margin-top: -5px;">Research 🔬</h2>
 
@@ -88,8 +88,8 @@ If I had to choose the most important thing I do in my life, that would be [writ
 For inspiration, I draw on my favourite literature, namely, the Russian classics of the second half of the 19th century.
 Sometimes I put random thoughts into [essays](https://areyde.com/notes/) and in my _days of yore_ I wrote and recorded a couple of [songs](https://areyde.com/music/). 📜
 
-**Even more humanities**. In addition to philosophy and esoterics that I studied, more recently I also fell in love with history, from the dawn of time to ≈1929 (I really do not like the 20th century). 🪶
-I particularly like Chinese history, history of West Asia in the first centuries CE, Early Medieval times (islam and the Tang dynasty), and the steppe history of Central Asia.
+**Even more humanities**. In addition to my philosophical and religious studies, more recently I also fell in love with history, from the dawn of time to ≈1929 (I really do not get along with the 20th century). 🪶
+I particularly like Chinese history, the history of West Asia in the first centuries CE, Early Medieval times (islam and the Tang dynasty), and the steppe history of Central Asia.
 A narrow period from ≈1860s to the end of the First World War is my main inspiration and passion in everything — history, poetry, prose, paintings, classical music, and overall aesthetics. 🏛️
 
 **Chinese language**. Another major love of mine is the Chinese language. 
