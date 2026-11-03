@@ -83,7 +83,7 @@ Most importantly, I try to improve the people's overall well-being. 🥰
 
 Additionally, I work part-time as a **data analyst**, analyzing open-source repositories to help with various product decisions. 🕵🏻
 I studied the structure, features, dependencies, and prevalence of projects in Kotlin, Java, Python, C#, Go, JavaScript, PHP, Rust, and many other languages.
-Through this research, I helped Kotlin itself, nearly all JetBrains IDEs, and some AI Products make concrete decisions: e.g., define the project structure in our build system and prioritize AI libraries to support.
+Through this research, I helped Kotlin itself, nearly all JetBrains IDEs, and some AI Products make concrete decisions: e.g., sunset Kotlin features, define the project structure in our build system, and prioritize AI libraries to support.
 For the last two years, I maintain the entire analytical pipeline by myself: finding tasks, operationalizing them, coming up with metrics, communicating the results, and following up to make sure they are useful. 📈
 
 <h2 style="margin-top: -5px;">Beyond work 🎨</h2>
