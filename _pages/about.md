@@ -42,7 +42,7 @@ All my life is centered around education, and I try to provide it to the future 
 <h3 style="margin-top: -1px;">Software Engineering & AI</h3>
 
 While I used to carry out research of my own, I realized that I enjoy helping other people more, and became a <b>research administrator</b>, with the goal of supporting other researchers, both administratively and academically. 🤝
-Nowadays, I mostly assist in different stages of projects, from planning to writing. Throughout the years, this enabled me to touch on [all kinds of subjects](https://areyde.com/publications/), including computer science education, stack trace processing, Jupyter notebooks, code completion, code quality, serverless computing, psychology of programming, and others.
+Nowadays, I mostly assist in different stages of projects: planning the work, conceptualizing research questions, conducting evaluations, analyzing data, and writing up the results. Throughout the years, this enabled me to touch on [all kinds of subjects](https://areyde.com/publications/), including computer science education, stack trace processing, Jupyter notebooks, code completion, code quality, serverless computing, psychology of programming, and others.
 It is a great privilege to learn more about these areas from my colleagues. I also do a lot of [academic work](https://areyde.com/academic_work/) like reviewing papers and organizing conferences. The [IDE Workshop](https://ide-workshop.github.io/) is my greatest pride in this regard. 
 While I used to teach more, I still occasionally give classes. 🎓
 
