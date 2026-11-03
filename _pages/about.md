@@ -34,13 +34,17 @@ In 2022, I moved to the lovely Belgrade, Serbia, and thus finished my education 
 Since 2025, I am getting a remote Master's degree in <b>Religious Studies</b> 🛐 from the [Russian Christian Academy for Humanities](https://rhga.ru/?siteLang=en), with a major
 in the history and anthropology of mystical and esoteric traditions. I still help out with running conferences in the same research centers. 🔮
 
+I strongly believe that everyone benefits from fundamental and diverse knowledge, and that both technical skills and humanities are required to flourish and reach your true potential.
+All my life is centered around education, and I try to provide it to the future generation too.
+
 <h2 style="margin-top: -5px;">Research 🔬</h2>
 
 <h3 style="margin-top: -1px;">Software Engineering & AI</h3>
 
 While I used to carry out research of my own, I realized that I enjoy helping other people more, and became a <b>research administrator</b>, with the goal of supporting other researchers, both administratively and academically. 🤝
 Nowadays, I mostly assist in different stages of projects, from planning to writing. Throughout the years, this enabled me to touch on [all kinds of subjects](https://areyde.com/publications/), including computer science education, stack trace processing, Jupyter notebooks, code completion, code quality, serverless computing, psychology of programming, and others.
-It is a great privilege to learn more about these areas from my colleagues. I also do a lot of [academic work](https://areyde.com/academic_work/) like reviewing papers and organizing workshops, as well as occasionally giving classes. 🎓
+It is a great privilege to learn more about these areas from my colleagues. I also do a lot of [academic work](https://areyde.com/academic_work/) like reviewing papers and organizing conferences. The [IDE Workshop](https://ide-workshop.github.io/) is my greatest pride in this regard. 
+While I used to teach more, I still occasionally give classes. 🎓
 
 The overarching theme of <b>my own studies</b> in software engineering was mining large corpora of existing source code and analyzing them to discover various
 patterns, as well as better understand how developers write software. While
@@ -74,12 +78,13 @@ I am exploring esoteric practices within Russian emigration in Yugoslavia a hund
 
 Above, I mentioned the research, academic, and educational aspects of my work as the **research administrator**, but they are not the only ones. 💼
 JetBrains Research is a fully fledged R&D department and reached ~100 people, so there is a lot of work for it to function properly.
-I serve as a secretary in the department leadership, maintain various documentation, organize internal events, and try to improve the people's overall well-being. 🥰
+I serve as a secretary in the department leadership, organize internal events and facilitate them, maintain documentation, and prepare reports for the company's management.
+Most importantly, I try to improve the people's overall well-being. 🥰
 
 Additionally, I work part-time as a **data analyst**, analyzing open-source repositories to help with various product decisions. 🕵🏻
-I studied the structure, features, dependencies, and prevalence of projects in Kotlin, Java, Python, C#, Go, JavaScript, PHP, Rust, and many other languages. 
-Through this research, I helped Kotlin itself, virtually all JetBrains IDEs (IntelliJ IDEA, PyCharm, WebStorm, Rider, etc.), TeamCity, Amper, and some AI Products. 📈
-
+I studied the structure, features, dependencies, and prevalence of projects in Kotlin, Java, Python, C#, Go, JavaScript, PHP, Rust, and many other languages.
+Through this research, I helped Kotlin itself, nearly all JetBrains IDEs, and some AI Products make concrete decisions: e.g., define the project structure in our build system and prioritize AI libraries to support.
+For the last two years, I maintain the entire analytical pipeline by myself: finding tasks, operationalizing them, coming up with metrics, communicating the results, and following up to make sure they are useful. 📈
 
 <h2 style="margin-top: -5px;">Beyond work 🎨</h2>
 
