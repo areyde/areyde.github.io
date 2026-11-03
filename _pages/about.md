@@ -35,7 +35,7 @@ Since 2025, I am getting a remote Master's degree in <b>Religious Studies</b> �
 in the history and anthropology of mystical and esoteric traditions. I still help out with running conferences in the same research centers. 🔮
 
 I strongly believe that everyone benefits from fundamental and diverse knowledge, and that both technical skills and humanities are required to flourish and reach your true potential.
-All my life is centered around education, and I try to provide it to the future generation too.
+All my life is centered around education, and I try to provide it to the future generation too. 👨🏻‍🏫
 
 <h2 style="margin-top: -5px;">Research 🔬</h2>
 
