@@ -131,14 +131,17 @@ the links point to modern re-prints.
 
 * Сергей Олегович Зотов, [_История алхимии. Путешествие философского камня из бронзового века в атомный_](https://www.litres.ru/book/sergey-zotov/istoriya-alhimii-puteshestvie-filosofskogo-kamnya-iz-bronzovo-57487648/). АСТ, 2021, 416 с.
 
-<b>Hermetism & Gnosticism</b>
+<b>Gnosticism</b>
 
 * David Brakke, [_The Gnostics: Myth, Ritual, and Diversity in Early Christianity_](https://www.amazon.com/dp/0674066030). Harvard University Press, 2010, 178 p.
-* Florian Ebeling, [_Das Geheimnis des Hermes Trismegistos: Geschichte des Hermetismus von der Antike bis zur Neuzeit_](https://www.amazon.com/Secret-History-Hermes-Trismegistus-Hermeticism/dp/0801477492). C. H. Beck, 2005, 214 p.
 * Hans Jonas, [_The Gnostic Religion: The Message of the Alien God and the Beginnings of Christianity_](https://www.amazon.com/Gnostic-Religion-Message-Beginnings-Christianity/dp/0807058017). Beacon Press, 1958, 320 p.
 * Евгений Васильевич Афонасин, [_Школа Валентина. Фрагменты и свидетельства_](https://www.livelib.ru/book/1000311553-shkola-valentina-fragmenty-i-svidetelstva-predislovie-perevod-i-kommentarij-ev-afonasina). Алетейя, 2002, 304 с.
-* Константин Богуцкий, [_Гермес Трисмегист и герметическая традиция Востока и Запада_](https://www.litres.ru/book/raznoe-4340152/germes-trismegist-i-germeticheskaya-tradiciya-vostoka-i-zap-3702985/). Ирис / Алетейя, 1998, 623 с.
 * Марианна Казимировна Трофимова, [Историко-философские вопросы гностицизма (Наг-Хаммади, II, сочинения 2, 3, 6, 7)](https://www.klex.ru/22tn). Наука, 1979, 216 с.
+
+<b>Hermetism</b>
+
+* Florian Ebeling, [_Das Geheimnis des Hermes Trismegistos: Geschichte des Hermetismus von der Antike bis zur Neuzeit_](https://www.amazon.com/Secret-History-Hermes-Trismegistus-Hermeticism/dp/0801477492). C. H. Beck, 2005, 214 p.
+* Константин Богуцкий, [_Гермес Трисмегист и герметическая традиция Востока и Запада_](https://www.litres.ru/book/raznoe-4340152/germes-trismegist-i-germeticheskaya-tradiciya-vostoka-i-zap-3702985/). Ирис / Алетейя, 1998, 623 с.
 
 <b>Magic</b>
 
