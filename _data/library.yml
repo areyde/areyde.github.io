@@ -285,6 +285,7 @@
       author: Александр Юрьевич Саплин
       url: https://www.ozon.ru/product/saplin-yu-a-astrologiya-i-religiya-protivorechiya-edinstva-saplin-aleksandr-yurevich-899444946
       details: Академия исследований культуры, 2023, 288 с.
+      cover: saplin_astrologiya_i_religiya.webp
     - title: История астрологии с древнейших времен до наших дней
       author: Александр Юрьевич Саплин
       url: https://www.ozon.ru/product/istoriya-astrologii-s-drevneyshih-vremen-do-nashih-dney-1525215777
@@ -313,6 +314,7 @@
       author: Евгений Васильевич Афонасин
       url: https://www.livelib.ru/book/1000311553-shkola-valentina-fragmenty-i-svidetelstva-predislovie-perevod-i-kommentarij-ev-afonasina
       details: Алетейя, 2002, 304 с.
+      cover: afonasin_shkola_valentina.webp
     - title: Историко-философские вопросы гностицизма (Наг-Хаммади, II, сочинения 2, 3, 6, 7)
       author: Марианна Казимировна Трофимова
       url: https://www.klex.ru/22tn
@@ -341,6 +343,7 @@
       author: Андрей Валентинович Петров
       url: https://rusneb.ru/catalog/000199_000009_002460715/
       details: РХГИ / СПбГУ, 2003, 415 с.
+      cover: petrov_fenomen_teurgii.webp
 - name: Other
   id: other
   shelves:
