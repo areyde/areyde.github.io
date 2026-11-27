@@ -6,13 +6,6 @@
   color: var(--library-ink);
 }
 
-.archive:has(.library) > .page__title {
-  color: #2b2824;
-  font: 600 clamp(2rem, 5vw, 3.1rem)/1.1 Georgia, serif;
-  letter-spacing: -.035em;
-  margin-bottom: .5em;
-}
-
 .library .library__index ul,
 .library .library__shelf {
   list-style: none;

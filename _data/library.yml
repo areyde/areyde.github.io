@@ -7,12 +7,12 @@
       author: Giovanni Reale and Dario Antiseri
       url: https://www.amazon.it/pensiero-occidentale-dalle-origini-Magistrali/dp/8835072727
       details: 'Editrice La Scuola, 1983, 3 vols.: 560 p. + 759 p. + 860 p.'
-      cover: 01-cover.webp
+      cover: reale_il_pensiero_occidentale.webp
     - title: The History of Western Philosophy
       author: Bertrand Russell
       url: https://www.amazon.com/History-Western-Philosophy-Bertrand-Russell/dp/0671201581
       details: Simon & Schuster, 1945, 918 p.
-      cover: 02-the-history-of-western-philosophy.webp
+      cover: russell_the_history_of_western_philosophy.webp
     - title: Философия
       author: Александр Николаевич Чумаков
       url: https://turan-edu.uz/media/books/2026/01/29/CHumakov_Filosofiya_4.pdf
@@ -23,7 +23,7 @@
       author: Thomas Whittaker
       url: https://www.amazon.com/Neo-Platonists-History-Hellenism-Classic-Reprint-ebook/dp/B0GGW6LP19
       details: Cambridge University Press, 1901, 244 p.
-      cover: 04-cover.webp
+      cover: whittaker_the_neo_platonists.webp
     - title: Культурный переворот в Древней Греции VIII–V вв. до н. э.
       author: Александр Иосифович Зайцев
       url: https://www.ozon.ru/product/kulturnyy-perevorot-v-drevney-gretsii-651326147/?at=6WtZgRRJASRZ5gllIjjyrnlcB1r3QBc7ON0RKTPMml2g
@@ -32,51 +32,51 @@
       author: Андрей Валерьевич Лебедев
       url: https://www.ozon.ru/product/lebedev-a-v-logos-geraklita-rekonstruktsiya-mysli-i-slova-s-novym-kriticheskim-izdaniem-2973163197
       details: Наука, 2014, 533 с.
-      cover: 06-cover.webp
+      cover: lebedev_logos_geraklita.webp
     - title: 'Досократики: первые греческие мыслители в их творениях, в свидетельствах древности и в свете новейших исследований'
       author: Александр Осипович Маковельский
       url: https://www.litres.ru/book/aleksandr-makovelskiy/dosokratiki-ch-1-doeleatovskiy-period-561585/
       details: 'М. А. Голубев, 1914–1915, 2 тома: 246 с. + 254 с.'
-      cover: 07-cover.webp
+      cover: makovelsky_dosokratiki.webp
     - title: История античной философии
       author: Роман Викторович Светлов
       url: https://www.ozon.ru/product/istoriya-antichnoy-filosofii-uchebnik-bakalavra-teologii-svetlov-roman-viktorovich-stepanova-846668546/
       details: Юрайт, 2016, 288 с.
-      cover: 08-cover.webp
+      cover: svetlov_istoriya_antichnoy_filosofii.webp
     - title: Философия Древней Стои
       author: Анна Сергеевна Степанова
       url: https://www.rulit.me/author/stepanova-anna-sergeevna/filosofiya-drevnej-stoi-download-376524.html
       details: Алетейя / KN, 1995, 272 с.
-      cover: 09-cover.webp
+      cover: stepanova_filosofiya_drevney_stoi.webp
     - title: Эпикур и эпикуреизм
       author: Ольга Марковна Танхилевич
       url: https://www.koob.ru/tanhilevich_o_m/epicurus_epicureanism
       details: Новая Москва, 1926, 146 с.
-      cover: 10-cover.webp
+      cover: tankhilevich_epikur_i_epikureizm.webp
   - name: Overviews of Chinese philosophy
     books:
     - title: A Short History of Chinese Philosophy
       author: Youlan Feng
       url: https://www.amazon.com/Short-History-Chinese-Philosophy/dp/0684836343
       details: Macmillan Inc., 1948, 388 p.
-      cover: 11-a-short-history-of-chinese-philosophy.webp
+      cover: feng_a_short_history_of_chinese_philosophy.webp
     - title: History of Chinese Philosophy
       author: Bo Mou
       url: https://www.amazon.com/History-Chinese-Philosophy-Routledge-Philosophies/dp/1138010367
       details: Routledge, 2008, 643 p.
-      cover: 12-cover.webp
+      cover: mou_history_of_chinese_philosophy.webp
   - name: Taoism
     books:
     - title: Дао-дэ цзин. Книга о пути жизни
       author: Владимир Вячеславович Малявин
       url: https://sredotochie.ru/kniga-dao-de-czin-kniga-o-puti-zhizni-vladimir-malyavin-2010-g/
       details: Феория, 2019, 704 p.
-      cover: 13-cover.webp
+      cover: malyavin_dao_de_jing.webp
     - title: Даосские каноны. Философская проза. Книга 2. Чжуан-цзы
       author: Владимир Вячеславович Малявин
       url: https://sredotochie.ru/kniga-chzhuan-czy-vnutrennij-razdel-vladimir-malyavin-2017/
       details: 'Роща, 2017, 2 тома: 388 с. + 452 с.'
-      cover: 14-2.webp
+      cover: malyavin_daosskie_kanony_zhuangzi.webp
   - name: Overviews of Russian philosophy
     books:
     - title: История русской философии
@@ -93,24 +93,24 @@
       author: Николай Александрович Бердяев
       url: https://www.litres.ru/book/nikolay-berdyaev/smysl-istorii-novoe-srednevekove-71653702/
       details: Обелиск, 1923, 268 с.
-      cover: 17-cover.webp
+      cover: berdyaev_smysl_istorii.webp
     - title: 'Апофеоз беспочвенности: опыт адогматического мышления'
       author: Лев Исаакович Шестов
       url: https://www.litres.ru/book/lev-shestov/apofeoz-bespochvennosti-177386/
       details: Общественная польза, 1905, 285 с.
-      cover: 18-cover.webp
+      cover: shestov_apofeoz_bespochvennosti.webp
   - name: Indian philosophy
     books:
     - title: Classical Indian Philosophy
       author: Peter Adamson and Jonardon Ganeri
       url: https://www.amazon.com/Classical-Indian-Philosophy-history-philosophy-ebook/dp/B0822WTPMC
       details: Oxford University Press, 2020, 432 p.
-      cover: 19-classical-indian-philosophy.webp
+      cover: adamson_classical_indian_philosophy.webp
     - title: 'History and Doctrines of the Ājīvikas: A Vanished Indian Religion'
       author: Arthur Llewellyn Basham
       url: https://www.amazon.com/History-Doctrines-Ajivikas-Vanished-Religion/dp/8120812042
       details: Luzac & Co, 1951, 344 p.
-      cover: 20-history-and-doctrines-of-the-j-vikas-a-vani.webp
+      cover: basham_history_and_doctrines_of_the_ajivikas.webp
 - name: History
   id: history
   shelves:
@@ -120,29 +120,29 @@
       author: Peter Frankopan
       url: https://www.amazon.com/Silk-Roads-Illustrated-History-World/dp/1547600217
       details: Bloomsbury, 2015, 656 p.
-      cover: 21-the-silk-roads-a-new-history-of-the-world.webp
+      cover: frankopan_the_silk_roads.webp
     - title: History of the World
       author: John Morris Roberts
       url: https://www.amazon.com/Penguin-History-World-Sixth/dp/1846144434
       details: Alfred A. Knopf, 1976, 1127 p.
-      cover: 22-history-of-the-world.webp
+      cover: roberts_history_of_the_world.webp
   - name: History of China
     books:
     - title: 'China: A History'
       author: John Keay
       url: https://www.amazon.com/China-History-John-Keay/dp/0465025188
       details: HarperPress, 2008, 609 p.
-      cover: 23-china-a-history.webp
+      cover: keay_china_a_history.webp
     - title: 'The Golden Peaches of Samarkand: A Study of T''ang Exotics'
       author: Edward Hetzel Schafer
       url: https://www.amazon.com/Golden-Peaches-Samarkand-Study-Exotics-ebook/dp/B01MFCKG5W
       details: University of California Press, 1963, 432 p.
-      cover: 24-the-golden-peaches-of-samarkand-a-study-of.webp
+      cover: schafer_the_golden_peaches_of_samarkand.webp
     - title: 'Tibet: A History'
       author: Sam van Schaik
       url: https://www.amazon.com/Tibet-History-Sam-van-Schaik-ebook/dp/B005IFWGF4
       details: Yale University Press, 2011, 347 p.
-      cover: 25-cover.webp
+      cover: van_schaik_tibet_a_history.webp
     - title: История Китая
       author: Арлен Ваагович Меликсетов
       url: https://www.ozon.ru/product/istoriya-kitaya-meliksetov-arlen-vaagovich-1950492879
@@ -153,27 +153,27 @@
       author: René Grousset
       url: https://www.amazon.com/Empire-Steppes-History-Central-Asia/dp/0813513049
       details: Payot, 1939, 639 p.
-      cover: 27-l-empire-des-steppes-attila-gengis-khan-tam.webp
+      cover: grousset_lempire_des_steppes.webp
     - title: 'A History of Japan: From Stone Age to Superpower'
       author: Kenneth Henshall
       url: https://www.amazon.com/History-Japan-Stone-Age-Superpower-ebook/dp/B007PZV4XK
       details: Macmillan Press, 1999, 258 p.
-      cover: 28-a-history-of-japan-from-stone-age-to-superp.webp
+      cover: henshall_a_history_of_japan.webp
     - title: 'India: A History'
       author: Johm Keay
       url: https://www.amazon.com/India-History-John-Keay/dp/0007307756
       details: HarperCollins, 2000, 636 p.
-      cover: 29-india-a-history.webp
+      cover: keay_india_a_history.webp
     - title: A Short History of the United States
       author: Robert Vincent Remini
       url: https://www.amazon.com/Short-History-United-States-Presidency-ebook/dp/B001GLMTEM
       details: HarperCollins, 2008, 395 p.
-      cover: 30-a-short-history-of-the-united-states.webp
+      cover: remini_a_short_history_of_the_united_states.webp
     - title: История России с древнейших времен до наших дней
       author: Андрей Николаевич Сахаров и др.
       url: https://www.ozon.ru/product/istoriya-rossii-s-drevneyshih-vremen-do-nashih-dney-saharov-andrey-nikolaevich-138370831
       details: АСТ, 2016, 1744 с.
-      cover: 31-cover.webp
+      cover: sakharov_istoriya_rossii.webp
 - name: Linguistics
   id: linguistics
   shelves:
@@ -183,7 +183,7 @@
       author: Hongyuan Dong
       url: https://www.amazon.com/History-Chinese-Language-Hongyuan-Dong/dp/0415660408
       details: Routledge, 2014, 218 p.
-      cover: 32-cover.webp
+      cover: dong_a_history_of_the_chinese_language.webp
     - title: 'Orthography of Early Chinese Writing: Evidence from Newly Excavated Manuscripts'
       author: Imre Galambos
       url: https://edit.elte.hu/xmlui/bitstream/handle/10831/86334/BM-1_GI_Orthography_2008-06-22.pdf
@@ -192,34 +192,34 @@
       author: Владимир Иванович Горелов
       url: https://books.google.rs/books/about/%D0%9B%D0%B5%D0%BA%D1%81%D0%B8%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D0%BA%D0%B8%D1%82%D0%B0%D0%B9%D1%81%D0%BA.html?id=FPLSAQAACAAJ&redir_esc=y
       details: Просвещение, 1984, 216 с.
-      cover: 34-cover.webp
+      cover: gorelov_leksikologiya_kitayskogo_yazyka.webp
     - title: Лексикология китайского языка
       author: Иван Дмитриевич Кленин и Владимир Фёдорович Щичко
       url: https://www.litres.ru/book/v-schichko/leksikologiya-kitayskogo-yazyka-10015143/
       details: Восточная книга, 2013, 272 с.
-      cover: 35-cover.webp
+      cover: klenin_leksikologiya_kitayskogo_yazyka.webp
     - title: Курс лекций по истории китайского языка
       author: Владимир Фёдорович Щичко, Лариса Александровна Радус и Леонид Гимадитдинович Абдрахимов
       url: https://www.labirint.ru/books/550241/
       details: ВКН, 2015, 192 с.
-      cover: 36-cover.webp
+      cover: shchichko_kurs_lektsiy_po_istorii_kitayskogo_yazyka.webp
     - title: 中华文明史话：汉字史话 (История китайских иероглифов)
       author: 王鼐 (Ван Най)
       url: https://www.litres.ru/book/van-nay-21076612/istoriya-kitayskih-ieroglifov-48417743/
       details: 中国大百科全书出版社, 2018, 198 p.
-      cover: 37-cover.webp
+      cover: wang_hanzi_shihua.webp
   - name: Other
     books:
     - title: 'Basic Color Terms: Their Universality and Evolution'
       author: Brent Berlin and Paul Kay
       url: https://www.amazon.com/Basic-Color-Terms-Universality-Evolution/dp/1575861623
       details: University of California Press, 1969, 178 p.
-      cover: 38-basic-color-terms-their-universality-and-ev.webp
+      cover: berlin_basic_color_terms.webp
     - title: A Study of Writing
       author: Ignace Jay Gelb
       url: https://www.amazon.com/Study-Writing-Phoenix-Books/dp/0226286061
       details: University of Chicago Press, 1952, 311 p.
-      cover: 39-a-study-of-writing.webp
+      cover: gelb_a_study_of_writing.webp
 - name: Religious Studies
   id: religious-studies
   shelves:
@@ -230,29 +230,29 @@
       author: Max Friedrich Müller
       url: https://www.amazon.com/Introduction-Science-Religion-Institution-Philosophy/dp/1372065520
       details: Longmans, 1873, 412 p.
-      cover: 40-cover.webp
+      cover: muller_introduction_to_the_science_of_religion.webp
     - title: 'Religionen und Religion: Systematische Einführung in die Religionswissenschaft'
       author: Jacques Waardenburg
       url: https://www.amazon.com/Religionen-Religion-Sammlung-Gaschen-German/dp/3110103249
       details: Walter de Gruyter, 1986, 277 p.
-      cover: 41-religionen-und-religion-systematische-einf.webp
+      cover: waardenburg_religionen_und_religion.webp
     - title: Религиоведение
       author: Павел Семёнович Гуревич
       url: https://www.litres.ru/book/pavel-gurevich-10110/religiovedenie-3-e-izd-per-i-dop-uchebnik-dlya-bakala-11953481/
       details: МПСИ, 2005, 696 с.
-      cover: 42-cover.webp
+      cover: gurevich_religiovedenie.webp
     - title: Религиоведение
       author: Алексей Юрьевич Рахманин и др.
       url: https://www.litres.ru/book/aleksey-urevich-rahm/religiovedenie-uchebnik-i-praktikum-dlya-akademichesk-12110001/
       details: Юрайт, 2016, 307 с.
-      cover: 43-cover.webp
+      cover: rakhmanin_religiovedenie.webp
   - name: History of specific religions
     books:
     - title: 'Введение в буддологию: курс лекций'
       author: Евгений Алексеевич Торчинов
       url: https://www.litres.ru/book/evgeniy-torchinov/vvedenie-v-buddizm-66983944/
       details: Санкт-Петербургское философское общество, 2000, 304 с.
-      cover: 44-cover.webp
+      cover: torchinov_vvedenie_v_buddologiyu.webp
     - title: Даосизм. Опыт историко-религиоведческого описания
       author: Евгений Алексеевич Торчинов
       url: https://gnosis.study/library/%D0%93%D0%BD%D0%BE%D0%B7%D0%B8%D1%81/%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8%20%D0%B8%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%B8/RUS/%D0%A2%D0%BE%D1%80%D1%87%D0%B8%D0%BD%D0%BE%D0%B2%20%D0%95.%D0%90.%20-%20%D0%94%D0%B0%D0%BE%D1%81%D0%B8%D0%B7%D0%BC.%20%D0%9E%D0%BF%D1%8B%D1%82%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%BE-%D1%80%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D0%BE%D0%B2%D0%B5%D0%B4%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D1%8F.pdf
@@ -266,12 +266,12 @@
       author: Kocku von Stuckrad
       url: https://www.amazon.com/Western-Esotericism-History-Secret-Knowledge/dp/1845530349
       details: C. H. Beck, 2004, 280 p.
-      cover: 46-was-ist-esoterik-kleine-geschichte-des-gehe.webp
+      cover: von_stuckrad_was_ist_esoterik.webp
     - title: 'Magic and Mysticism: An Introduction to Western Esoteric Traditions'
       author: Arthur Versluis
       url: https://www.amazon.com/Magic-Mysticism-Introduction-Esoteric-Traditions-ebook/dp/B00EMLDEVU
       details: Rowman & Littlefield, 2007, 208 p.
-      cover: 47-magic-and-mysticism-an-introduction-to-west.webp
+      cover: versluis_magic_and_mysticism.webp
   - name: Astrology
     books:
     - title: 'Астрология и религия: противоречия единства'
@@ -282,26 +282,26 @@
       author: Александр Юрьевич Саплин
       url: https://www.ozon.ru/product/istoriya-astrologii-s-drevneyshih-vremen-do-nashih-dney-1525215777
       details: РХГА, 2020, 780 с.
-      cover: 49-cover.webp
+      cover: saplin_istoriya_astrologii.webp
   - name: Alchemy
     books:
     - title: История алхимии. Путешествие философского камня из бронзового века в атомный
       author: Сергей Олегович Зотов
       url: https://www.litres.ru/book/sergey-zotov/istoriya-alhimii-puteshestvie-filosofskogo-kamnya-iz-bronzovo-57487648/
       details: АСТ, 2021, 416 с.
-      cover: 50-cover.webp
+      cover: zotov_istoriya_alkhimii.webp
   - name: Gnosticism
     books:
     - title: 'The Gnostics: Myth, Ritual, and Diversity in Early Christianity'
       author: David Brakke
       url: https://www.amazon.com/dp/0674066030
       details: Harvard University Press, 2010, 178 p.
-      cover: 51-the-gnostics-myth-ritual-and-diversity-in-e.webp
+      cover: brakke_the_gnostics.webp
     - title: 'The Gnostic Religion: The Message of the Alien God and the Beginnings of Christianity'
       author: Hans Jonas
       url: https://www.amazon.com/Gnostic-Religion-Message-Beginnings-Christianity/dp/0807058017
       details: Beacon Press, 1958, 320 p.
-      cover: 52-the-gnostic-religion-the-message-of-the-ali.webp
+      cover: jonas_the_gnostic_religion.webp
     - title: Школа Валентина. Фрагменты и свидетельства
       author: Евгений Васильевич Афонасин
       url: https://www.livelib.ru/book/1000311553-shkola-valentina-fragmenty-i-svidetelstva-predislovie-perevod-i-kommentarij-ev-afonasina
@@ -310,26 +310,26 @@
       author: Марианна Казимировна Трофимова
       url: https://www.klex.ru/22tn
       details: Наука, 1979, 216 с.
-      cover: 54-ii-2-3-6-7.webp
+      cover: trofimova_istoriko_filosofskie_voprosy_gnostitsizma.webp
   - name: Hermetism
     books:
     - title: 'Das Geheimnis des Hermes Trismegistos: Geschichte des Hermetismus von der Antike bis zur Neuzeit'
       author: Florian Ebeling
       url: https://www.amazon.com/Secret-History-Hermes-Trismegistus-Hermeticism/dp/0801477492
       details: C. H. Beck, 2005, 214 p.
-      cover: 55-das-geheimnis-des-hermes-trismegistos-gesch.webp
+      cover: ebeling_das_geheimnis_des_hermes_trismegistos.webp
     - title: Гермес Трисмегист и герметическая традиция Востока и Запада
       author: Константин Богуцкий
       url: https://www.litres.ru/book/raznoe-4340152/germes-trismegist-i-germeticheskaya-tradiciya-vostoka-i-zap-3702985/
       details: Ирис / Алетейя, 1998, 623 с.
-      cover: 56-cover.webp
+      cover: bogutsky_germes_trismegist_i_germeticheskaya_traditsiya.webp
   - name: Magic
     books:
     - title: 'The History of Magic: From Alchemy to Witchcraft, from the Ice Age to the Present'
       author: Chris Gosden
       url: https://www.amazon.com/dp/0374200122
       details: Viking / Penguin, 2020, 512 p.
-      cover: 57-the-history-of-magic-from-alchemy-to-witchc.webp
+      cover: gosden_the_history_of_magic.webp
     - title: 'Феномен теургии: философия и магия в античности'
       author: Андрей Валентинович Петров
       url: https://rusneb.ru/catalog/000199_000009_002460715/
@@ -342,9 +342,9 @@
       author: Eduardo Kohn
       url: https://www.amazon.com/How-Forests-Think-Toward-Anthropology/dp/0520276116
       details: University of California Press, 2013, 288 p.
-      cover: 59-how-forests-think-toward-an-anthropology-be.webp
+      cover: kohn_how_forests_think.webp
     - title: Essai sur le don. Forme et raison de l'échange dans les sociétés archaïques
       author: Marcel Mauss
       url: https://www.amazon.com/Gift-Reason-Exchange-Archaic-Societies/dp/039332043X
       details: L’Année sociologique, 1925, 156 p.
-      cover: 60-essai-sur-le-don-forme-et-raison-de-l-chang.webp
+      cover: mauss_essai_sur_le_don.webp

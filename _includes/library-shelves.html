@@ -13,8 +13,9 @@
   <section class="library__subject library__subject--{{ subject.id }}" aria-labelledby="{{ subject.id }}">
     <h2 id="{{ subject.id }}">{{ subject.name | escape }}</h2>
     {% for shelf in subject.shelves %}
-    {% assign shelf_id = subject.id | append: '-shelf-' | append: forloop.index %}
     {% if shelf.name %}
+    {% assign shelf_slug = shelf.name | slugify %}
+    {% assign shelf_id = subject.id | append: '-shelf-' | append: shelf_slug %}
     <h3 id="{{ shelf_id }}">{{ shelf.name | escape }}</h3>
     {% else %}
     {% assign shelf_id = subject.id %}
