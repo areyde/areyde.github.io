@@ -24,7 +24,14 @@ author_profile: true
 
 <h2 id="se">Software Engineering & AI</h2>
 
-{% for post in site.publications reversed %}
+{% assign software_publications = site.publications | sort: "date" %}
+{% assign previous_publication_year = "" %}
+{% for post in software_publications reversed %}
+  {% assign publication_year = post.date | date: "%Y" %}
+  {% if publication_year != previous_publication_year %}
+<h3 class="publication-year">{{ publication_year }}</h3>
+    {% assign previous_publication_year = publication_year %}
+  {% endif %}
   {% include archive-single.html %}
 {% endfor %}
 

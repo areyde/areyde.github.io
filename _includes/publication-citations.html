@@ -3,7 +3,7 @@
 {%- if publication_citation_id and site.data.citation_catalog -%}
   {%- assign publication_citation_links = site.data.citation_catalog.citations | where: "cited_work_id", publication_citation_id -%}
   {%- if include.view == "count" %}
-    <a class="publication-citation-count" href="{{ publication_citation_path | relative_url }}#citing-works" aria-label="{{ publication_citation_links.size }} {% if publication_citation_links.size == 1 %}citation{% else %}citations{% endif %}">{{ publication_citation_links.size }}</a>
+    <a class="publication-citation-count" href="{{ publication_citation_path | relative_url }}#citing-works">{{ publication_citation_links.size }} {% if publication_citation_links.size == 1 %}citation{% else %}citations{% endif %}</a>
   {%- elsif include.view == "list" %}
     <section id="citing-works" aria-labelledby="citing-works-heading">
       <h2 id="citing-works-heading">Citing publications</h2>
