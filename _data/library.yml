@@ -7,7 +7,7 @@
       author: Giovanni Reale and Dario Antiseri
       url: https://www.amazon.it/pensiero-occidentale-dalle-origini-Magistrali/dp/8835072727
       details: 'Editrice La Scuola, 1983, 3 vols.: 560 p. + 759 p. + 860 p.'
-      cover: reale_il_pensiero_occidentale.jpg
+      cover: reale_il_pensiero_occidentale.webp
     - title: The History of Western Philosophy
       author: Bertrand Russell
       url: https://www.amazon.com/History-Western-Philosophy-Bertrand-Russell/dp/0671201581
@@ -17,6 +17,7 @@
       author: Александр Николаевич Чумаков
       url: https://turan-edu.uz/media/books/2026/01/29/CHumakov_Filosofiya_4.pdf
       details: Вузовский учебник, 2014, 432 с.
+      cover: chumakov_filosofiya.webp
   - name: Ancient Western philosophy
     books:
     - title: 'The Neo-Platonists: A Study in the History of Hellenism'
@@ -28,6 +29,7 @@
       author: Александр Иосифович Зайцев
       url: https://www.ozon.ru/product/kulturnyy-perevorot-v-drevney-gretsii-651326147/?at=6WtZgRRJASRZ5gllIjjyrnlcB1r3QBc7ON0RKTPMml2g
       details: ЛГУ, 1984, 208 с.
+      cover: zaytsev_kulturnyy_perevorot_v_drevney_gretsii.webp
     - title: Логос Гераклита. Реконструкция мысли и слова
       author: Андрей Валерьевич Лебедев
       url: https://www.ozon.ru/product/lebedev-a-v-logos-geraklita-rekonstruktsiya-mysli-i-slova-s-novym-kriticheskim-izdaniem-2973163197
@@ -83,10 +85,12 @@
       author: Михаил Александрович Маслин
       url: https://www.ozon.ru/product/istoriya-russkoy-filosofii-uchebnik-dlya-vuzov-maslin-mihail-aleksandrovich-1097046642
       details: Республика, 2001, 639 с.
+      cover: maslin_istoriya_russkoy_filosofii.webp
     - title: История русский философии
       author: Леонид Наумович Столович
       url: https://www.ozon.ru/product/stolovich-l-n-istoriya-russkoy-filosofii-respublika-2005g-stolovich-leonid-naumovich-3858876705
       details: Республика, 2005, 495 с.
+      cover: stolovich_istoriya_russkoy_filosofii.webp
   - name: Classic Russian philosophy
     books:
     - title: Смысл истории
