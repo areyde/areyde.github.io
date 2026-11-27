@@ -1,0 +1,44 @@
+<link rel="stylesheet" href="{{ '/assets/css/library.css' | relative_url }}">
+
+<div class="library">
+  <nav class="library__index" aria-label="Library subjects">
+    <ul role="list">
+      {% for subject in site.data.library %}
+      <li><a href="#{{ subject.id }}">{{ subject.name | escape }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+
+  {% for subject in site.data.library %}
+  <section class="library__subject library__subject--{{ subject.id }}" aria-labelledby="{{ subject.id }}">
+    <h2 id="{{ subject.id }}">{{ subject.name | escape }}</h2>
+    {% for shelf in subject.shelves %}
+    {% assign shelf_id = subject.id | append: '-shelf-' | append: forloop.index %}
+    {% if shelf.name %}
+    <h3 id="{{ shelf_id }}">{{ shelf.name | escape }}</h3>
+    {% else %}
+    {% assign shelf_id = subject.id %}
+    {% endif %}
+    <ul class="library__shelf" role="list" aria-labelledby="{{ shelf_id }}">
+      {% for book in shelf.books %}
+      <li class="library__book">
+        <a class="library__entry" href="{{ book.url | escape }}">
+          <span class="library__mat" aria-hidden="true">
+            {% if book.cover %}
+            {% assign cover_path = book.cover | prepend: '/assets/images/library/' %}
+            <img class="library__cover" src="{{ cover_path | relative_url }}" alt="" loading="lazy" decoding="async">
+            {% else %}
+            <span class="library__cloth">{{ book.title | escape }}</span>
+            {% endif %}
+          </span>
+          <span class="library__title">{{ book.title | escape }}</span>
+        </a>
+        <p class="library__author">{{ book.author | escape }}</p>
+        <p class="library__details">{{ book.details | escape }}</p>
+      </li>
+      {% endfor %}
+    </ul>
+    {% endfor %}
+  </section>
+  {% endfor %}
+</div>

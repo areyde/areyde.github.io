@@ -1,0 +1,182 @@
+.library {
+  --library-ink: #2b2824;
+  --library-muted: #5d554e;
+  --library-line: #ded6ca;
+  --library-paper: #fffdf9;
+  color: var(--library-ink);
+}
+
+.archive:has(.library) > .page__title {
+  color: #2b2824;
+  font: 600 clamp(2rem, 5vw, 3.1rem)/1.1 Georgia, serif;
+  letter-spacing: -.035em;
+  margin-bottom: .5em;
+}
+
+.library .library__index ul,
+.library .library__shelf {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.library .library__index ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem;
+  padding-block: .85rem;
+  border-block: 1px solid var(--library-line);
+}
+
+.library .library__index li,
+.library .library__shelf li {
+  margin: 0;
+}
+
+.library .library__index a {
+  display: block;
+  padding: .38rem .7rem;
+  border-radius: .25rem;
+  background: #f4eee6;
+  color: #52382b;
+  font-size: .875rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.library .library__index a:hover {
+  background: #ebe0d3;
+  text-decoration: underline;
+}
+
+.library__subject {
+  --library-accent: #6b4833;
+  --library-mat: #f2ebe1;
+  margin-top: 2.65rem;
+}
+
+.library__subject--history { --library-accent: #7a4636; --library-mat: #f4eae3; }
+.library__subject--linguistics { --library-accent: #355f55; --library-mat: #eaf0e8; }
+.library__subject--religious-studies { --library-accent: #69516d; --library-mat: #f0eaf0; }
+.library__subject--esotericism { --library-accent: #414e70; --library-mat: #e9edf4; }
+.library__subject--other { --library-accent: #526040; --library-mat: #eef0e6; }
+
+.library .library__subject h2 {
+  margin: 0 0 1rem;
+  padding: 0 0 .45rem;
+  border-bottom: 1px solid var(--library-line);
+  color: var(--library-accent);
+  font: 600 clamp(1.6rem, 3vw, 2.15rem)/1.15 Georgia, serif;
+  scroll-margin-top: 5rem;
+}
+
+.library .library__subject h3 {
+  margin: 1.35rem 0 .6rem;
+  color: var(--library-ink);
+  font-size: .98rem;
+  line-height: 1.35;
+}
+
+.library .library__shelf {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: clamp(.5rem, 1.8vw, 1rem);
+}
+
+.library__book {
+  min-width: 0;
+  overflow-wrap: anywhere;
+  border: 1px solid var(--library-line);
+  border-radius: .45rem;
+  background: var(--library-paper);
+}
+
+.library .library__entry {
+  display: grid;
+  border-radius: .4rem .4rem 0 0;
+  color: var(--library-accent);
+  text-decoration: none;
+}
+
+.library .library__entry:focus-visible,
+.library .library__index a:focus-visible {
+  outline: 2px solid #704522;
+  outline-offset: 3px;
+}
+
+.library__mat {
+  display: grid;
+  grid-template: minmax(0, 1fr) / minmax(0, 1fr);
+  height: clamp(8.5rem, 26vw, 12rem);
+  padding: .7rem;
+  place-items: center;
+  border-bottom: 1px solid var(--library-line);
+  border-radius: .4rem .4rem 0 0;
+  background: radial-gradient(ellipse at 45% 20%, #fff9, transparent 80%), var(--library-mat);
+}
+
+.library .library__cover,
+.library__cloth {
+  display: block;
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 1px 3px 3px 1px;
+  box-shadow: 2px 5px 9px #28211e40;
+}
+
+.library .library__cover {
+  width: auto;
+  height: 100%;
+  object-fit: contain;
+  object-position: center;
+}
+
+.library__cloth {
+  display: -webkit-box;
+  width: auto;
+  height: 100%;
+  aspect-ratio: 2 / 3;
+  overflow: hidden;
+  padding: 16% .55rem .4rem .72rem;
+  background: linear-gradient(90deg, #0003 6%, transparent 6.5%), var(--library-accent);
+  color: #fff9ed;
+  font: .78rem/1.25 Georgia, serif;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 5;
+}
+
+.library__title {
+  padding: .7rem .7rem 0;
+  font: 700 1rem/1.22 Georgia, serif;
+  text-decoration: underline;
+  text-decoration-color: color-mix(in srgb, currentColor 60%, transparent);
+  text-underline-offset: .16em;
+}
+
+.library__entry:hover .library__title {
+  text-decoration-color: currentColor;
+}
+
+.library .library__author,
+.library .library__details {
+  margin: .35rem .7rem 0;
+  font-size: .875rem;
+  line-height: 1.35;
+}
+
+.library .library__details {
+  margin-bottom: .75rem;
+  color: var(--library-muted);
+}
+
+@media (min-width: 42rem) {
+  .library .library__shelf { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+}
+
+@media (min-width: 66rem) {
+  .library .library__shelf { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+}
+
+@media (max-width: 19rem) {
+  .library .library__shelf { grid-template-columns: minmax(0, 1fr); }
+}
