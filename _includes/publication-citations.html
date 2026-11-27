@@ -1,0 +1,44 @@
+{%- assign publication_citation_path = include.publication.url -%}
+{%- assign publication_citation_id = site.data.publication_citation_ids[publication_citation_path] -%}
+{%- if publication_citation_id and site.data.citation_catalog -%}
+  {%- assign publication_citation_links = site.data.citation_catalog.citations | where: "cited_work_id", publication_citation_id -%}
+  {%- if include.view == "count" %}
+    <a class="publication-citation-count" href="{{ publication_citation_path | relative_url }}#citing-works" aria-label="{{ publication_citation_links.size }} {% if publication_citation_links.size == 1 %}citation{% else %}citations{% endif %}">{{ publication_citation_links.size }}</a>
+  {%- elsif include.view == "list" %}
+    <section id="citing-works" aria-labelledby="citing-works-heading">
+      <h2 id="citing-works-heading">Citing publications</h2>
+      {% if publication_citation_links.size == 0 %}
+        <p>No citations in the catalog yet.</p>
+      {% else %}
+        {% assign publication_citing_ids = publication_citation_links | map: "citing_work_id" %}
+        {% assign publication_citing_works = site.data.citation_catalog.works | where_exp: "work", "publication_citing_ids contains work.id" | sort: "year", "first" | reverse %}
+        <ul>
+          {% for work in publication_citing_works %}
+            {% assign citing_url = work.url %}
+            {% assign citing_scheme = citing_url | split: "://" | first %}
+            {% unless citing_scheme == "https" or citing_scheme == "http" %}
+              {% assign citing_doi = work.identifiers.doi | first %}
+              {% assign citing_url = nil %}
+              {% if citing_doi %}
+                {% assign citing_url = citing_doi | prepend: "https://doi.org/" %}
+              {% endif %}
+            {% endunless %}
+            <li>
+              {% if citing_url %}
+                <a href="{{ citing_url | escape }}">{{ work.title | escape }}</a>
+              {% else %}
+                {{ work.title | escape }}
+              {% endif %}
+              {% if work.authors.size > 0 or work.venue or work.year %}
+                <br>
+                {%- if work.authors.size > 0 %}{{ work.authors | join: ", " | escape }}{% endif -%}
+                {%- if work.venue %}{% if work.authors.size > 0 %} · {% endif %}<em>{{ work.venue | escape }}</em>{% endif -%}
+                {%- if work.year %}{% if work.authors.size > 0 or work.venue %} · {% endif %}{{ work.year }}{% endif %}
+              {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    </section>
+  {%- endif -%}
+{%- endif -%}

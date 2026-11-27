@@ -105,6 +105,7 @@
           {% if post.video %}
           <a class="{{ color }}" href="{{ post.video }}">Video</a>
           {% endif %}
+          {% include publication-citations.html publication=post view="count" %}
         {% elsif post.collection == 'tools' or post.collection == 'datasets' %}
 
           {% if post.tag %}

@@ -27,6 +27,17 @@
   }
 }
 
+.archive__item .publication-citation-count {
+  margin-left: 0.55em;
+  color: $text-color;
+  text-decoration: none;
+
+  &:hover,
+  &:focus {
+    text-decoration: underline;
+  }
+}
+
 .archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
