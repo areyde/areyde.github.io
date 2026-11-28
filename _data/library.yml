@@ -284,6 +284,13 @@
       url: https://www.amazon.com/Magic-Mysticism-Introduction-Esoteric-Traditions-ebook/dp/B00EMLDEVU
       details: Rowman & Littlefield, 2007, 208 p.
       cover: versluis_magic_and_mysticism.webp
+  - name: Alchemy
+    books:
+    - title: История алхимии. Путешествие философского камня из бронзового века в атомный
+      author: Сергей Олегович Зотов
+      url: https://www.litres.ru/book/sergey-zotov/istoriya-alhimii-puteshestvie-filosofskogo-kamnya-iz-bronzovo-57487648/
+      details: АСТ, 2021, 416 с.
+      cover: zotov_istoriya_alkhimii.webp
   - name: Astrology
     books:
     - title: 'Астрология и религия: противоречия единства'
@@ -296,13 +303,6 @@
       url: https://www.ozon.ru/product/istoriya-astrologii-s-drevneyshih-vremen-do-nashih-dney-1525215777
       details: РХГА, 2020, 780 с.
       cover: saplin_istoriya_astrologii.webp
-  - name: Alchemy
-    books:
-    - title: История алхимии. Путешествие философского камня из бронзового века в атомный
-      author: Сергей Олегович Зотов
-      url: https://www.litres.ru/book/sergey-zotov/istoriya-alhimii-puteshestvie-filosofskogo-kamnya-iz-bronzovo-57487648/
-      details: АСТ, 2021, 416 с.
-      cover: zotov_istoriya_alkhimii.webp
   - name: Gnosticism
     books:
     - title: 'The Gnostics: Myth, Ritual, and Diversity in Early Christianity'
@@ -337,6 +337,13 @@
       url: https://www.litres.ru/book/raznoe-4340152/germes-trismegist-i-germeticheskaya-tradiciya-vostoka-i-zap-3702985/
       details: Ирис / Алетейя, 1998, 623 с.
       cover: bogutsky_germes_trismegist_i_germeticheskaya_traditsiya.webp
+  - name: Kabbalah
+    books:
+    - title: Major Trends in Jewish Mysticism
+      author: Gershom Scholem
+      url: https://www.amazon.com/dp/0805210423
+      details: Schocken Publishing House, 1941, 455 p.
+      cover: scholem_major_trends_in_jewish_mysticism.webp
   - name: Magic
     books:
     - title: 'The History of Magic: From Alchemy to Witchcraft, from the Ice Age to the Present'
