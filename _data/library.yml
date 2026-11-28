@@ -57,6 +57,11 @@
       cover: tankhilevich_epikur_i_epikureizm.webp
   - name: Modern Western philosophy
     books:
+    - title: 'Against Method: Outline of an Anarchistic Theory of Knowledge'
+      author: Paul Feyerabend
+      url: https://www.amazon.com/dp/1844674428
+      details: New Left Books, 1975, 339 p.
+      cover: feyerabend_against_method.webp
     - title: 'After Virtue: A Study in Moral Theory'
       author: Alasdair MacIntyre
       url: https://www.amazon.com/After-Virtue-Study-Moral-Theory/dp/0268035040/
